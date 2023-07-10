@@ -189,33 +189,33 @@ def process_p(paragraph, article_id, paragraph_id, counter, intro_id, points):
     return p_list
 
 
-def fill_column(df, first_column, second_column, name):
+def split_art_para_p(df, first_column, second_column, name):
     # Create a copy of the DataFrame to avoid modifying the original
-    filled_df = df.copy()
+    splitted_df = df.copy()
 
     # Create a new column to store the modified values
-    filled_df[name] = ''
+    splitted_df[name] = ''
 
     # Iterate over the rows of the DataFrame
-    for index, row in filled_df.iterrows():
-        first_value = row[first_column]  # Get the value from the first column
+    for index, row in splitted_df.iterrows():
+        paragraph_element = row[first_column]  # Get the value from the first column
 
         # Split the value by '__' and get a list of parts
-        paragraph_parts = first_value.split('__')
+        paragraph_parts = paragraph_element.split('__')
         paragraph_number = paragraph_parts[-1]  # Get the paragraph number from the last part
 
         # Modify the value in the second column based on the paragraph number
-        second_value = row[second_column]
-        p_parts = second_value.split('__')
+        p_element = row[second_column]
+        p_parts = p_element.split('__')
+
         p_number = p_parts[-1]
-        
-        new_value = p_parts[0] + '__' + paragraph_number + '__' + p_number
+        updated = p_parts[0] + '__' + paragraph_number + '__' + p_number
 
 
         # Update the value in the new column of the current row
-        filled_df.at[index, name] = new_value
+        splitted_df.at[index, name] = updated
 
-    return filled_df
+    return splitted_df
 
 def transform_intro_points(df):
     
@@ -243,6 +243,6 @@ def transform_intro_points(df):
     #df['point'] = df['point'].notnull()
     
     # Select desired columns
-    df = df[['article_id', 'paragraph_id', 'p_id', "intro", 'intro_id', "point", 'point_id', 'xml_id', 'text', 'insertions', 'references', 'ins_id', 'ref_id']]    
+    df = df[['article_id', 'paragraph_id', 'p_id', 'original_id', "intro", 'intro_id', "point", 'point_id',  'text', 'insertions', 'references', 'ins_id', 'ref_id']]    
     
     return df
