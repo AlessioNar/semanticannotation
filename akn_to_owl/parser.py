@@ -1,5 +1,5 @@
 import pandas as pd
-from akn_to_owl.functions import extract_text, get_insertions_and_references, get_paragraph_id
+from akn_to_owl.functions import extract_text, get_insertions_and_references
 
 
 # find all the articles from  the root of the xml file, going through all the xml file, recursively, with the following tag
@@ -60,7 +60,7 @@ def get_intro(paragraph):
         return None
 
 # Extracts the points of a list. It returns a list of the ids of the points
-def get_points(paragraph):
+def get_point(paragraph):
     elements = paragraph.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}list")    
     
     if len(elements) > 0:
