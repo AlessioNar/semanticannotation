@@ -1,27 +1,6 @@
-
-# Step 1: Read the skos file serialised in turtle format
-
-# Step 2: Extract the top classes and properties from the skos file
-
-# Step 3: Save the top classes and properties to a file as a list of dictionaries, focusing on the prefLabel in english and the uri
-
-# Step 4: Convert the skos file to a jsonl file with the following format: 
-"""
- {
-        "text": "Cat",
-        "suffix_key": "12",
-        "background_color": "#FF0000",
-        "text_color": "#ffffff"
-    }
-""" 
-
-# Where text is the prefLabel in english, suffix_key is a unique id, background_color is a random color and text_color is white
-
-
 import json
-import jsonlines
 import random
-from rdflib import Graph, Namespace, URIRef
+from rdflib import Graph, Namespace
 from rdflib.namespace import SKOS
 
 # Define namespaces
@@ -88,7 +67,7 @@ def write_to_file(data, file_path):
     """
     try:
         with open(file_path, 'w') as f:
-            json.dump(data, f)
+            json.dump(data, f, indent=4)
     except Exception as e:
         print(f"Error writing to file: {e}")
 
@@ -118,7 +97,7 @@ def skos_to_json():
     top_classes = parse_skos('data/skos/eurovoc_in_skos_core_concepts.rdf')
     if top_classes:
         top_classes = enrich_json(top_classes)
-        write_to_file(top_classes, 'data/span/top_classes.json')
+        write_to_file(top_classes, 'data/span/skos.json')
 
 
 

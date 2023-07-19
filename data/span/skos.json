@@ -1,0 +1,3971 @@
+[
+    {
+        "uri": "http://eurovoc.europa.eu/100142",
+        "text": "04 POLITICS",
+        "suffix_key": "http://eurovoc.europa.eu/100142",
+        "background_color": "#087ed5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100143",
+        "text": "08 INTERNATIONAL RELATIONS",
+        "suffix_key": "http://eurovoc.europa.eu/100143",
+        "background_color": "#04c183",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100144",
+        "text": "10 EUROPEAN UNION",
+        "suffix_key": "http://eurovoc.europa.eu/100144",
+        "background_color": "#e9662a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100145",
+        "text": "12 LAW",
+        "suffix_key": "http://eurovoc.europa.eu/100145",
+        "background_color": "#c987d3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100146",
+        "text": "16 ECONOMICS",
+        "suffix_key": "http://eurovoc.europa.eu/100146",
+        "background_color": "#8a49ee",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100147",
+        "text": "20 TRADE",
+        "suffix_key": "http://eurovoc.europa.eu/100147",
+        "background_color": "#8352ec",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100148",
+        "text": "24 FINANCE",
+        "suffix_key": "http://eurovoc.europa.eu/100148",
+        "background_color": "#1917c0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100149",
+        "text": "28 SOCIAL QUESTIONS",
+        "suffix_key": "http://eurovoc.europa.eu/100149",
+        "background_color": "#e818fb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100150",
+        "text": "32 EDUCATION AND COMMUNICATIONS",
+        "suffix_key": "http://eurovoc.europa.eu/100150",
+        "background_color": "#15b3b2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100151",
+        "text": "36 SCIENCE",
+        "suffix_key": "http://eurovoc.europa.eu/100151",
+        "background_color": "#32723f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100152",
+        "text": "40 BUSINESS AND COMPETITION",
+        "suffix_key": "http://eurovoc.europa.eu/100152",
+        "background_color": "#981261",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100153",
+        "text": "44 EMPLOYMENT AND WORKING CONDITIONS",
+        "suffix_key": "http://eurovoc.europa.eu/100153",
+        "background_color": "#aa2b04",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100154",
+        "text": "48 TRANSPORT",
+        "suffix_key": "http://eurovoc.europa.eu/100154",
+        "background_color": "#cadfab",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100155",
+        "text": "52 ENVIRONMENT",
+        "suffix_key": "http://eurovoc.europa.eu/100155",
+        "background_color": "#a33c95",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100156",
+        "text": "56 AGRICULTURE, FORESTRY AND FISHERIES",
+        "suffix_key": "http://eurovoc.europa.eu/100156",
+        "background_color": "#0c2446",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100157",
+        "text": "60 AGRI-FOODSTUFFS",
+        "suffix_key": "http://eurovoc.europa.eu/100157",
+        "background_color": "#790128",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100158",
+        "text": "64 PRODUCTION, TECHNOLOGY AND RESEARCH",
+        "suffix_key": "http://eurovoc.europa.eu/100158",
+        "background_color": "#3d093c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100159",
+        "text": "66 ENERGY",
+        "suffix_key": "http://eurovoc.europa.eu/100159",
+        "background_color": "#dec77d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100160",
+        "text": "68 INDUSTRY",
+        "suffix_key": "http://eurovoc.europa.eu/100160",
+        "background_color": "#8763f7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100161",
+        "text": "72 GEOGRAPHY",
+        "suffix_key": "http://eurovoc.europa.eu/100161",
+        "background_color": "#2f2da5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/100162",
+        "text": "76 INTERNATIONAL ORGANISATIONS",
+        "suffix_key": "http://eurovoc.europa.eu/100162",
+        "background_color": "#19f4de",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/594",
+        "text": "AAMS countries",
+        "suffix_key": "http://eurovoc.europa.eu/594",
+        "background_color": "#d7f5a3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5083",
+        "text": "ACP countries",
+        "suffix_key": "http://eurovoc.europa.eu/5083",
+        "background_color": "#e23698",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1105",
+        "text": "ALADI countries",
+        "suffix_key": "http://eurovoc.europa.eu/1105",
+        "background_color": "#da2f16",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6205",
+        "text": "APEC countries",
+        "suffix_key": "http://eurovoc.europa.eu/6205",
+        "background_color": "#e6cf91",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1847",
+        "text": "ASEAN countries",
+        "suffix_key": "http://eurovoc.europa.eu/1847",
+        "background_color": "#d5a350",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/281",
+        "text": "Africa",
+        "suffix_key": "http://eurovoc.europa.eu/281",
+        "background_color": "#fb4333",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2167",
+        "text": "African organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2167",
+        "background_color": "#97d263",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1587",
+        "text": "America",
+        "suffix_key": "http://eurovoc.europa.eu/1587",
+        "background_color": "#368c1d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2170",
+        "text": "American organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2170",
+        "background_color": "#9f617f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1191",
+        "text": "Andean Community countries",
+        "suffix_key": "http://eurovoc.europa.eu/1191",
+        "background_color": "#34b1bf",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2079",
+        "text": "Anzus countries",
+        "suffix_key": "http://eurovoc.europa.eu/2079",
+        "background_color": "#7475ae",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1794",
+        "text": "Arab Common Market countries",
+        "suffix_key": "http://eurovoc.europa.eu/1794",
+        "background_color": "#b22503",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1658",
+        "text": "Arab League countries",
+        "suffix_key": "http://eurovoc.europa.eu/1658",
+        "background_color": "#91f7c8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2171",
+        "text": "Arab organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2171",
+        "background_color": "#13a5e2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_6e703074",
+        "text": "Arab world",
+        "suffix_key": "http://eurovoc.europa.eu/c_6e703074",
+        "background_color": "#25fa12",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2838",
+        "text": "Asia",
+        "suffix_key": "http://eurovoc.europa.eu/2838",
+        "background_color": "#5c54ef",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2172",
+        "text": "Asian organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2172",
+        "background_color": "#74a7bc",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_964c9649",
+        "text": "BRICS countries",
+        "suffix_key": "http://eurovoc.europa.eu/c_964c9649",
+        "background_color": "#3d3fce",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4845",
+        "text": "Benelux countries",
+        "suffix_key": "http://eurovoc.europa.eu/4845",
+        "background_color": "#38c078",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1844",
+        "text": "CACM countries",
+        "suffix_key": "http://eurovoc.europa.eu/1844",
+        "background_color": "#d37416",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4587",
+        "text": "CAEMC countries",
+        "suffix_key": "http://eurovoc.europa.eu/4587",
+        "background_color": "#da595e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8369",
+        "text": "CAEU countries",
+        "suffix_key": "http://eurovoc.europa.eu/8369",
+        "background_color": "#5517ad",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2117",
+        "text": "CAIS countries",
+        "suffix_key": "http://eurovoc.europa.eu/2117",
+        "background_color": "#d7e077",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8278",
+        "text": "CEFTA countries",
+        "suffix_key": "http://eurovoc.europa.eu/8278",
+        "background_color": "#7f4b20",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5775",
+        "text": "CIS countries",
+        "suffix_key": "http://eurovoc.europa.eu/5775",
+        "background_color": "#767da6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5259",
+        "text": "Caribbean Islands",
+        "suffix_key": "http://eurovoc.europa.eu/5259",
+        "background_color": "#3c6a88",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5265",
+        "text": "Caricom countries",
+        "suffix_key": "http://eurovoc.europa.eu/5265",
+        "background_color": "#d78175",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5448",
+        "text": "Central Asia",
+        "suffix_key": "http://eurovoc.europa.eu/5448",
+        "background_color": "#16ebd2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/914",
+        "text": "Central and Eastern Europe",
+        "suffix_key": "http://eurovoc.europa.eu/914",
+        "background_color": "#552712",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5781",
+        "text": "Central and Eastern European Countries",
+        "suffix_key": "http://eurovoc.europa.eu/5781",
+        "background_color": "#069a42",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5087",
+        "text": "Comecon countries",
+        "suffix_key": "http://eurovoc.europa.eu/5087",
+        "background_color": "#d417ec",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5767",
+        "text": "Community body",
+        "suffix_key": "http://eurovoc.europa.eu/5767",
+        "background_color": "#2cb31c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5051",
+        "text": "Community budget",
+        "suffix_key": "http://eurovoc.europa.eu/5051",
+        "background_color": "#ac73a9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/122",
+        "text": "Council of Europe countries",
+        "suffix_key": "http://eurovoc.europa.eu/122",
+        "background_color": "#f298ef",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8365",
+        "text": "EAC countries",
+        "suffix_key": "http://eurovoc.europa.eu/8365",
+        "background_color": "#09be79",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/187",
+        "text": "EFTA countries",
+        "suffix_key": "http://eurovoc.europa.eu/187",
+        "background_color": "#a16214",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5283",
+        "text": "EU Member State",
+        "suffix_key": "http://eurovoc.europa.eu/5283",
+        "background_color": "#9f8087",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_c385cfb4",
+        "text": "EU acceding countries",
+        "suffix_key": "http://eurovoc.europa.eu/c_c385cfb4",
+        "background_color": "#efc9c3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5258",
+        "text": "EU act",
+        "suffix_key": "http://eurovoc.europa.eu/5258",
+        "background_color": "#a7baea",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2163",
+        "text": "EU body",
+        "suffix_key": "http://eurovoc.europa.eu/2163",
+        "background_color": "#cc1fd8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/438855",
+        "text": "EU budget",
+        "suffix_key": "http://eurovoc.europa.eu/438855",
+        "background_color": "#d3569f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_2b2e17b1",
+        "text": "EU candidate countries",
+        "suffix_key": "http://eurovoc.europa.eu/c_2b2e17b1",
+        "background_color": "#87b9df",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5842",
+        "text": "EU customs procedure",
+        "suffix_key": "http://eurovoc.europa.eu/5842",
+        "background_color": "#c70842",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5576",
+        "text": "EU expenditure",
+        "suffix_key": "http://eurovoc.europa.eu/5576",
+        "background_color": "#723e50",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1005",
+        "text": "EU financing",
+        "suffix_key": "http://eurovoc.europa.eu/1005",
+        "background_color": "#97ec71",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1451",
+        "text": "EU institution",
+        "suffix_key": "http://eurovoc.europa.eu/1451",
+        "background_color": "#6bbd86",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/525",
+        "text": "EU law",
+        "suffix_key": "http://eurovoc.europa.eu/525",
+        "background_color": "#8a4b3e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4017",
+        "text": "EU legal system",
+        "suffix_key": "http://eurovoc.europa.eu/4017",
+        "background_color": "#1fa277",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5769",
+        "text": "EU office or agency",
+        "suffix_key": "http://eurovoc.europa.eu/5769",
+        "background_color": "#da0ab7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4040",
+        "text": "EU relations",
+        "suffix_key": "http://eurovoc.europa.eu/4040",
+        "background_color": "#112084",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4602",
+        "text": "Economic and Monetary Union",
+        "suffix_key": "http://eurovoc.europa.eu/4602",
+        "background_color": "#065b06",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5302",
+        "text": "Ecowas countries",
+        "suffix_key": "http://eurovoc.europa.eu/5302",
+        "background_color": "#6a151b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/909",
+        "text": "Europe",
+        "suffix_key": "http://eurovoc.europa.eu/909",
+        "background_color": "#d91685",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/26",
+        "text": "European Communities",
+        "suffix_key": "http://eurovoc.europa.eu/26",
+        "background_color": "#4a36d0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4370",
+        "text": "European Monetary System",
+        "suffix_key": "http://eurovoc.europa.eu/4370",
+        "background_color": "#045f5e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5848",
+        "text": "European Region",
+        "suffix_key": "http://eurovoc.europa.eu/5848",
+        "background_color": "#5b9c50",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4060",
+        "text": "European Union",
+        "suffix_key": "http://eurovoc.europa.eu/4060",
+        "background_color": "#d9901c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5130",
+        "text": "European civil service",
+        "suffix_key": "http://eurovoc.europa.eu/5130",
+        "background_color": "#69c12d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6332",
+        "text": "European currency",
+        "suffix_key": "http://eurovoc.europa.eu/6332",
+        "background_color": "#998cbc",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2187",
+        "text": "European organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2187",
+        "background_color": "#054ecd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4479",
+        "text": "European treaties",
+        "suffix_key": "http://eurovoc.europa.eu/4479",
+        "background_color": "#5ffade",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/956",
+        "text": "Far East",
+        "suffix_key": "http://eurovoc.europa.eu/956",
+        "background_color": "#45e4fe",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1087",
+        "text": "French overseas collectivity",
+        "suffix_key": "http://eurovoc.europa.eu/1087",
+        "background_color": "#181ed9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1086",
+        "text": "French overseas department and region",
+        "suffix_key": "http://eurovoc.europa.eu/1086",
+        "background_color": "#528099",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5776",
+        "text": "GCC countries",
+        "suffix_key": "http://eurovoc.europa.eu/5776",
+        "background_color": "#e07615",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_8051840b",
+        "text": "Indo-Pacific region",
+        "suffix_key": "http://eurovoc.europa.eu/c_8051840b",
+        "background_color": "#2986ee",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4067",
+        "text": "Institution of the Union",
+        "suffix_key": "http://eurovoc.europa.eu/4067",
+        "background_color": "#d01dd2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4069",
+        "text": "LAES countries",
+        "suffix_key": "http://eurovoc.europa.eu/4069",
+        "background_color": "#562a0c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1632",
+        "text": "Latin America",
+        "suffix_key": "http://eurovoc.europa.eu/1632",
+        "background_color": "#0bb2f8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2190",
+        "text": "Latin American organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2190",
+        "background_color": "#540984",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5780",
+        "text": "Mediterranean third countries",
+        "suffix_key": "http://eurovoc.europa.eu/5780",
+        "background_color": "#d7a3b2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2246",
+        "text": "Member of Parliament",
+        "suffix_key": "http://eurovoc.europa.eu/2246",
+        "background_color": "#71de7d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5778",
+        "text": "Mercosur countries",
+        "suffix_key": "http://eurovoc.europa.eu/5778",
+        "background_color": "#381821",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2705",
+        "text": "Middle East",
+        "suffix_key": "http://eurovoc.europa.eu/2705",
+        "background_color": "#efae01",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7207",
+        "text": "NAFTA countries",
+        "suffix_key": "http://eurovoc.europa.eu/7207",
+        "background_color": "#6baa35",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2200",
+        "text": "NATO countries",
+        "suffix_key": "http://eurovoc.europa.eu/2200",
+        "background_color": "#3cc635",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2287",
+        "text": "Netherlands OCT",
+        "suffix_key": "http://eurovoc.europa.eu/2287",
+        "background_color": "#0c81f3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/130",
+        "text": "Nordic Council countries",
+        "suffix_key": "http://eurovoc.europa.eu/130",
+        "background_color": "#a90282",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/311",
+        "text": "North Africa",
+        "suffix_key": "http://eurovoc.europa.eu/311",
+        "background_color": "#de32b3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1615",
+        "text": "North America",
+        "suffix_key": "http://eurovoc.europa.eu/1615",
+        "background_color": "#a3d93c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/911",
+        "text": "Northern Europe",
+        "suffix_key": "http://eurovoc.europa.eu/911",
+        "background_color": "#557e27",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2119",
+        "text": "OAS countries",
+        "suffix_key": "http://eurovoc.europa.eu/2119",
+        "background_color": "#a842ef",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2106",
+        "text": "OECD countries",
+        "suffix_key": "http://eurovoc.europa.eu/2106",
+        "background_color": "#70bec9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2148",
+        "text": "OPEC countries",
+        "suffix_key": "http://eurovoc.europa.eu/2148",
+        "background_color": "#6f3d87",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2113",
+        "text": "Oceania",
+        "suffix_key": "http://eurovoc.europa.eu/2113",
+        "background_color": "#77c51d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8367",
+        "text": "SAARC countries",
+        "suffix_key": "http://eurovoc.europa.eu/8367",
+        "background_color": "#69a478",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2848",
+        "text": "South Asia",
+        "suffix_key": "http://eurovoc.europa.eu/2848",
+        "background_color": "#26b839",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2858",
+        "text": "South-East Asia",
+        "suffix_key": "http://eurovoc.europa.eu/2858",
+        "background_color": "#081a2f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/912",
+        "text": "Southern Europe",
+        "suffix_key": "http://eurovoc.europa.eu/912",
+        "background_color": "#1e0409",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/883",
+        "text": "State",
+        "suffix_key": "http://eurovoc.europa.eu/883",
+        "background_color": "#32725c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4826",
+        "text": "TAB",
+        "suffix_key": "http://eurovoc.europa.eu/4826",
+        "background_color": "#e6a018",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4365",
+        "text": "UN programmes and funds",
+        "suffix_key": "http://eurovoc.europa.eu/4365",
+        "background_color": "#980969",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8380",
+        "text": "UN research and training institutes",
+        "suffix_key": "http://eurovoc.europa.eu/8380",
+        "background_color": "#1a83f8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1455",
+        "text": "UN specialised agency",
+        "suffix_key": "http://eurovoc.europa.eu/1455",
+        "background_color": "#cee644",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2179",
+        "text": "UNO",
+        "suffix_key": "http://eurovoc.europa.eu/2179",
+        "background_color": "#f65315",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3778",
+        "text": "United Kingdom OCT",
+        "suffix_key": "http://eurovoc.europa.eu/3778",
+        "background_color": "#bf20c7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5655",
+        "text": "Visegrad countries",
+        "suffix_key": "http://eurovoc.europa.eu/5655",
+        "background_color": "#7fbfa3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4607",
+        "text": "WAEMU countries",
+        "suffix_key": "http://eurovoc.europa.eu/4607",
+        "background_color": "#798bbf",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4590",
+        "text": "WEU countries",
+        "suffix_key": "http://eurovoc.europa.eu/4590",
+        "background_color": "#fa6e08",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4483",
+        "text": "Warsaw Pact countries",
+        "suffix_key": "http://eurovoc.europa.eu/4483",
+        "background_color": "#05821d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4690",
+        "text": "Western Balkans",
+        "suffix_key": "http://eurovoc.europa.eu/4690",
+        "background_color": "#0c495b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/913",
+        "text": "Western Europe",
+        "suffix_key": "http://eurovoc.europa.eu/913",
+        "background_color": "#df5e30",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5400",
+        "text": "access to the courts",
+        "suffix_key": "http://eurovoc.europa.eu/5400",
+        "background_color": "#cda0b5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/54",
+        "text": "accounting",
+        "suffix_key": "http://eurovoc.europa.eu/54",
+        "background_color": "#f2a54e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4362",
+        "text": "accounting system",
+        "suffix_key": "http://eurovoc.europa.eu/4362",
+        "background_color": "#a80563",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/517",
+        "text": "administrative law",
+        "suffix_key": "http://eurovoc.europa.eu/517",
+        "background_color": "#de46fb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3582",
+        "text": "administrative personnel",
+        "suffix_key": "http://eurovoc.europa.eu/3582",
+        "background_color": "#1d1cd8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2166",
+        "text": "administrative structures",
+        "suffix_key": "http://eurovoc.europa.eu/2166",
+        "background_color": "#c0d93d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3689",
+        "text": "advanced materials",
+        "suffix_key": "http://eurovoc.europa.eu/3689",
+        "background_color": "#98e0ed",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/656",
+        "text": "agri-foodstuffs",
+        "suffix_key": "http://eurovoc.europa.eu/656",
+        "background_color": "#19f1bb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/937",
+        "text": "agricultural holding",
+        "suffix_key": "http://eurovoc.europa.eu/937",
+        "background_color": "#bbc6f3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3605",
+        "text": "agricultural performance",
+        "suffix_key": "http://eurovoc.europa.eu/3605",
+        "background_color": "#75cc68",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2442",
+        "text": "agricultural policy",
+        "suffix_key": "http://eurovoc.europa.eu/2442",
+        "background_color": "#daf1c1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2734",
+        "text": "agricultural product",
+        "suffix_key": "http://eurovoc.europa.eu/2734",
+        "background_color": "#e97396",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2477",
+        "text": "agricultural production policy",
+        "suffix_key": "http://eurovoc.europa.eu/2477",
+        "background_color": "#97983d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2814",
+        "text": "agricultural real estate",
+        "suffix_key": "http://eurovoc.europa.eu/2814",
+        "background_color": "#c81bc5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2460",
+        "text": "aid policy",
+        "suffix_key": "http://eurovoc.europa.eu/2460",
+        "background_color": "#8c5ec2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4505",
+        "text": "air transport",
+        "suffix_key": "http://eurovoc.europa.eu/4505",
+        "background_color": "#7936b3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5877",
+        "text": "animal health",
+        "suffix_key": "http://eurovoc.europa.eu/5877",
+        "background_color": "#8aa927",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1277",
+        "text": "animal nutrition",
+        "suffix_key": "http://eurovoc.europa.eu/1277",
+        "background_color": "#a8ba81",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2737",
+        "text": "animal product",
+        "suffix_key": "http://eurovoc.europa.eu/2737",
+        "background_color": "#daabbb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2711",
+        "text": "animal production",
+        "suffix_key": "http://eurovoc.europa.eu/2711",
+        "background_color": "#779469",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3908",
+        "text": "anti-discriminatory measure",
+        "suffix_key": "http://eurovoc.europa.eu/3908",
+        "background_color": "#b6743e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3949",
+        "text": "applied sciences",
+        "suffix_key": "http://eurovoc.europa.eu/3949",
+        "background_color": "#6f617b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2320",
+        "text": "aquaculture",
+        "suffix_key": "http://eurovoc.europa.eu/2320",
+        "background_color": "#2d9219",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2628",
+        "text": "armed forces",
+        "suffix_key": "http://eurovoc.europa.eu/2628",
+        "background_color": "#a404c0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3451",
+        "text": "arms policy",
+        "suffix_key": "http://eurovoc.europa.eu/3451",
+        "background_color": "#d6c3c1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3307",
+        "text": "artificial reproduction",
+        "suffix_key": "http://eurovoc.europa.eu/3307",
+        "background_color": "#9857e7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2688",
+        "text": "arts",
+        "suffix_key": "http://eurovoc.europa.eu/2688",
+        "background_color": "#ba299e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3855",
+        "text": "audiovisual equipment",
+        "suffix_key": "http://eurovoc.europa.eu/3855",
+        "background_color": "#a9d21e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4671",
+        "text": "balance of payments",
+        "suffix_key": "http://eurovoc.europa.eu/4671",
+        "background_color": "#71bc40",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2149",
+        "text": "banking",
+        "suffix_key": "http://eurovoc.europa.eu/2149",
+        "background_color": "#3b8526",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3928",
+        "text": "behavioural sciences",
+        "suffix_key": "http://eurovoc.europa.eu/3928",
+        "background_color": "#ed3eee",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5017",
+        "text": "beverage",
+        "suffix_key": "http://eurovoc.europa.eu/5017",
+        "background_color": "#b718fd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3797",
+        "text": "biotechnology",
+        "suffix_key": "http://eurovoc.europa.eu/3797",
+        "background_color": "#f0f59a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5985",
+        "text": "branch of activity",
+        "suffix_key": "http://eurovoc.europa.eu/5985",
+        "background_color": "#5d0ce6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1012",
+        "text": "budget financing",
+        "suffix_key": "http://eurovoc.europa.eu/1012",
+        "background_color": "#8c4a32",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2448",
+        "text": "budget policy",
+        "suffix_key": "http://eurovoc.europa.eu/2448",
+        "background_color": "#998518",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/394",
+        "text": "budgetary expenditure",
+        "suffix_key": "http://eurovoc.europa.eu/394",
+        "background_color": "#d4236f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2698",
+        "text": "budgetary procedure",
+        "suffix_key": "http://eurovoc.europa.eu/2698",
+        "background_color": "#61227b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3879",
+        "text": "building industry",
+        "suffix_key": "http://eurovoc.europa.eu/3879",
+        "background_color": "#a9732a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4414",
+        "text": "building services",
+        "suffix_key": "http://eurovoc.europa.eu/4414",
+        "background_color": "#5ce892",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/490",
+        "text": "built-up area",
+        "suffix_key": "http://eurovoc.europa.eu/490",
+        "background_color": "#f1486b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4703",
+        "text": "business activity",
+        "suffix_key": "http://eurovoc.europa.eu/4703",
+        "background_color": "#66b60b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2469",
+        "text": "business policy",
+        "suffix_key": "http://eurovoc.europa.eu/2469",
+        "background_color": "#cc1976",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5359",
+        "text": "ceramics",
+        "suffix_key": "http://eurovoc.europa.eu/5359",
+        "background_color": "#c3f2bb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5360",
+        "text": "cereals",
+        "suffix_key": "http://eurovoc.europa.eu/5360",
+        "background_color": "#d17116",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3810",
+        "text": "chemical compound",
+        "suffix_key": "http://eurovoc.europa.eu/3810",
+        "background_color": "#4089b3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3809",
+        "text": "chemical element",
+        "suffix_key": "http://eurovoc.europa.eu/3809",
+        "background_color": "#32c318",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1362",
+        "text": "chemical industry",
+        "suffix_key": "http://eurovoc.europa.eu/1362",
+        "background_color": "#b9b52d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7347",
+        "text": "citizen's duties",
+        "suffix_key": "http://eurovoc.europa.eu/7347",
+        "background_color": "#2e20de",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/523",
+        "text": "civil law",
+        "suffix_key": "http://eurovoc.europa.eu/523",
+        "background_color": "#676064",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6011",
+        "text": "climate",
+        "suffix_key": "http://eurovoc.europa.eu/6011",
+        "background_color": "#4fd5d7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/434743",
+        "text": "climate change policy",
+        "suffix_key": "http://eurovoc.europa.eu/434743",
+        "background_color": "#7c2c9c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3743",
+        "text": "coal industry",
+        "suffix_key": "http://eurovoc.europa.eu/3743",
+        "background_color": "#6941fa",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/524",
+        "text": "commercial law",
+        "suffix_key": "http://eurovoc.europa.eu/524",
+        "background_color": "#baad79",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5268",
+        "text": "commercial transaction",
+        "suffix_key": "http://eurovoc.europa.eu/5268",
+        "background_color": "#895a27",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2443",
+        "text": "common agricultural policy",
+        "suffix_key": "http://eurovoc.europa.eu/2443",
+        "background_color": "#646ed4",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2450",
+        "text": "common commercial policy",
+        "suffix_key": "http://eurovoc.europa.eu/2450",
+        "background_color": "#5ed922",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2520",
+        "text": "common tariff policy",
+        "suffix_key": "http://eurovoc.europa.eu/2520",
+        "background_color": "#8bbede",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1370",
+        "text": "communications industry",
+        "suffix_key": "http://eurovoc.europa.eu/1370",
+        "background_color": "#17fbc0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2473",
+        "text": "communications policy",
+        "suffix_key": "http://eurovoc.europa.eu/2473",
+        "background_color": "#f4b89f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4361",
+        "text": "communications systems",
+        "suffix_key": "http://eurovoc.europa.eu/4361",
+        "background_color": "#be5a29",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/554",
+        "text": "company law",
+        "suffix_key": "http://eurovoc.europa.eu/554",
+        "background_color": "#1945a5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4300",
+        "text": "company structure",
+        "suffix_key": "http://eurovoc.europa.eu/4300",
+        "background_color": "#5008f3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/539",
+        "text": "competition law",
+        "suffix_key": "http://eurovoc.europa.eu/539",
+        "background_color": "#509407",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2474",
+        "text": "competition policy",
+        "suffix_key": "http://eurovoc.europa.eu/2474",
+        "background_color": "#ba981d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/53",
+        "text": "composition of parliament",
+        "suffix_key": "http://eurovoc.europa.eu/53",
+        "background_color": "#8701b6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/52",
+        "text": "composition of the population",
+        "suffix_key": "http://eurovoc.europa.eu/52",
+        "background_color": "#192dfc",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5922",
+        "text": "computer system",
+        "suffix_key": "http://eurovoc.europa.eu/5922",
+        "background_color": "#baf4d7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1426",
+        "text": "computer systems",
+        "suffix_key": "http://eurovoc.europa.eu/1426",
+        "background_color": "#09d06c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2475",
+        "text": "construction policy",
+        "suffix_key": "http://eurovoc.europa.eu/2475",
+        "background_color": "#d2da3b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/138",
+        "text": "consumer",
+        "suffix_key": "http://eurovoc.europa.eu/138",
+        "background_color": "#77df7a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/139",
+        "text": "consumption",
+        "suffix_key": "http://eurovoc.europa.eu/139",
+        "background_color": "#78d1ff",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3489",
+        "text": "cooperation policy",
+        "suffix_key": "http://eurovoc.europa.eu/3489",
+        "background_color": "#26b71f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8366",
+        "text": "countries of the Pacific Community",
+        "suffix_key": "http://eurovoc.europa.eu/8366",
+        "background_color": "#29189a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/285",
+        "text": "credit",
+        "suffix_key": "http://eurovoc.europa.eu/285",
+        "background_color": "#f9a206",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2495",
+        "text": "credit policy",
+        "suffix_key": "http://eurovoc.europa.eu/2495",
+        "background_color": "#c515c2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/573",
+        "text": "criminal law",
+        "suffix_key": "http://eurovoc.europa.eu/573",
+        "background_color": "#c27e98",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3513",
+        "text": "criminal liability",
+        "suffix_key": "http://eurovoc.europa.eu/3513",
+        "background_color": "#6a5586",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2723",
+        "text": "crop production",
+        "suffix_key": "http://eurovoc.europa.eu/2723",
+        "background_color": "#2ffeee",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4363",
+        "text": "cultivation system",
+        "suffix_key": "http://eurovoc.europa.eu/4363",
+        "background_color": "#6d3c7b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4412",
+        "text": "cultivation techniques",
+        "suffix_key": "http://eurovoc.europa.eu/4412",
+        "background_color": "#228556",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2459",
+        "text": "cultural policy",
+        "suffix_key": "http://eurovoc.europa.eu/2459",
+        "background_color": "#8fd239",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/317",
+        "text": "culture",
+        "suffix_key": "http://eurovoc.europa.eu/317",
+        "background_color": "#d13aff",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3156",
+        "text": "customs regulations",
+        "suffix_key": "http://eurovoc.europa.eu/3156",
+        "background_color": "#0a27e1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4380",
+        "text": "customs tariff",
+        "suffix_key": "http://eurovoc.europa.eu/4380",
+        "background_color": "#587b1c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4488",
+        "text": "data processing",
+        "suffix_key": "http://eurovoc.europa.eu/4488",
+        "background_color": "#23ff64",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3028",
+        "text": "data-processing law",
+        "suffix_key": "http://eurovoc.europa.eu/3028",
+        "background_color": "#781ff2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5442",
+        "text": "deepening of the European Union",
+        "suffix_key": "http://eurovoc.europa.eu/5442",
+        "background_color": "#a9aa43",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2464",
+        "text": "defence policy",
+        "suffix_key": "http://eurovoc.europa.eu/2464",
+        "background_color": "#8102c5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/371",
+        "text": "degradation of the environment",
+        "suffix_key": "http://eurovoc.europa.eu/371",
+        "background_color": "#851ccd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/385",
+        "text": "demography",
+        "suffix_key": "http://eurovoc.europa.eu/385",
+        "background_color": "#affe8c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3098",
+        "text": "destination of transport",
+        "suffix_key": "http://eurovoc.europa.eu/3098",
+        "background_color": "#567b7f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/474",
+        "text": "distributive trades",
+        "suffix_key": "http://eurovoc.europa.eu/474",
+        "background_color": "#dfc040",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/486",
+        "text": "document",
+        "suffix_key": "http://eurovoc.europa.eu/486",
+        "background_color": "#42ea37",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/494",
+        "text": "documentation",
+        "suffix_key": "http://eurovoc.europa.eu/494",
+        "background_color": "#fe42d3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5620",
+        "text": "drawing up of the EU budget",
+        "suffix_key": "http://eurovoc.europa.eu/5620",
+        "background_color": "#7e1b71",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3952",
+        "text": "earth sciences",
+        "suffix_key": "http://eurovoc.europa.eu/3952",
+        "background_color": "#bff67a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1800",
+        "text": "economic analysis",
+        "suffix_key": "http://eurovoc.europa.eu/1800",
+        "background_color": "#a858de",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/69",
+        "text": "economic concentration",
+        "suffix_key": "http://eurovoc.europa.eu/69",
+        "background_color": "#6b7986",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/84",
+        "text": "economic conditions",
+        "suffix_key": "http://eurovoc.europa.eu/84",
+        "background_color": "#63d61e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/335",
+        "text": "economic cycle",
+        "suffix_key": "http://eurovoc.europa.eu/335",
+        "background_color": "#753cfe",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/427",
+        "text": "economic development",
+        "suffix_key": "http://eurovoc.europa.eu/427",
+        "background_color": "#2f587b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2616",
+        "text": "economic forecasting",
+        "suffix_key": "http://eurovoc.europa.eu/2616",
+        "background_color": "#cbfe07",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2402",
+        "text": "economic planning",
+        "suffix_key": "http://eurovoc.europa.eu/2402",
+        "background_color": "#8fd401",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2497",
+        "text": "economic policy",
+        "suffix_key": "http://eurovoc.europa.eu/2497",
+        "background_color": "#d0433f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3058",
+        "text": "economic region",
+        "suffix_key": "http://eurovoc.europa.eu/3058",
+        "background_color": "#426cad",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3901",
+        "text": "economic rights",
+        "suffix_key": "http://eurovoc.europa.eu/3901",
+        "background_color": "#c8ccac",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4006",
+        "text": "economic sector",
+        "suffix_key": "http://eurovoc.europa.eu/4006",
+        "background_color": "#f95ba3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/712",
+        "text": "economic support",
+        "suffix_key": "http://eurovoc.europa.eu/712",
+        "background_color": "#c17f5a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3013",
+        "text": "economic system",
+        "suffix_key": "http://eurovoc.europa.eu/3013",
+        "background_color": "#1e301d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/637",
+        "text": "economy",
+        "suffix_key": "http://eurovoc.europa.eu/637",
+        "background_color": "#9d1901",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/668",
+        "text": "education",
+        "suffix_key": "http://eurovoc.europa.eu/668",
+        "background_color": "#d1e3ba",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2467",
+        "text": "education policy",
+        "suffix_key": "http://eurovoc.europa.eu/2467",
+        "background_color": "#b22dd1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/873",
+        "text": "educational institution",
+        "suffix_key": "http://eurovoc.europa.eu/873",
+        "background_color": "#3fc2f1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/695",
+        "text": "election",
+        "suffix_key": "http://eurovoc.europa.eu/695",
+        "background_color": "#b1c8d8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/558",
+        "text": "electoral law",
+        "suffix_key": "http://eurovoc.europa.eu/558",
+        "background_color": "#e96cce",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4367",
+        "text": "electoral system",
+        "suffix_key": "http://eurovoc.europa.eu/4367",
+        "background_color": "#2dec93",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1401",
+        "text": "electrical engineering",
+        "suffix_key": "http://eurovoc.europa.eu/1401",
+        "background_color": "#4245ee",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3783",
+        "text": "electrical industry",
+        "suffix_key": "http://eurovoc.europa.eu/3783",
+        "background_color": "#f2eacb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1400",
+        "text": "electronics industry",
+        "suffix_key": "http://eurovoc.europa.eu/1400",
+        "background_color": "#c6e54b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2468",
+        "text": "employment policy",
+        "suffix_key": "http://eurovoc.europa.eu/2468",
+        "background_color": "#445631",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4299",
+        "text": "employment structure",
+        "suffix_key": "http://eurovoc.europa.eu/4299",
+        "background_color": "#442bbe",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3737",
+        "text": "energy industry",
+        "suffix_key": "http://eurovoc.europa.eu/3737",
+        "background_color": "#a14904",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2498",
+        "text": "energy policy",
+        "suffix_key": "http://eurovoc.europa.eu/2498",
+        "background_color": "#47f3ef",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4057",
+        "text": "enlargement of the Union",
+        "suffix_key": "http://eurovoc.europa.eu/4057",
+        "background_color": "#b6623e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2470",
+        "text": "environmental policy",
+        "suffix_key": "http://eurovoc.europa.eu/2470",
+        "background_color": "#75fae6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2825",
+        "text": "environmental protection",
+        "suffix_key": "http://eurovoc.europa.eu/2825",
+        "background_color": "#189121",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6788",
+        "text": "essential oil",
+        "suffix_key": "http://eurovoc.europa.eu/6788",
+        "background_color": "#f94d09",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2486",
+        "text": "exchange policy",
+        "suffix_key": "http://eurovoc.europa.eu/2486",
+        "background_color": "#3ede3d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1850",
+        "text": "exchange-rate mechanism",
+        "suffix_key": "http://eurovoc.europa.eu/1850",
+        "background_color": "#1ace8f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3062",
+        "text": "executive body",
+        "suffix_key": "http://eurovoc.europa.eu/3062",
+        "background_color": "#42a963",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2487",
+        "text": "export policy",
+        "suffix_key": "http://eurovoc.europa.eu/2487",
+        "background_color": "#0e171d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/965",
+        "text": "family",
+        "suffix_key": "http://eurovoc.europa.eu/965",
+        "background_color": "#674a89",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/540",
+        "text": "family law",
+        "suffix_key": "http://eurovoc.europa.eu/540",
+        "background_color": "#416fd8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2398",
+        "text": "family planning",
+        "suffix_key": "http://eurovoc.europa.eu/2398",
+        "background_color": "#dee5dd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2639",
+        "text": "farm prices",
+        "suffix_key": "http://eurovoc.europa.eu/2639",
+        "background_color": "#0b48d2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4358",
+        "text": "farming system",
+        "suffix_key": "http://eurovoc.europa.eu/4358",
+        "background_color": "#bcbf34",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/239",
+        "text": "fats",
+        "suffix_key": "http://eurovoc.europa.eu/239",
+        "background_color": "#322124",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1452",
+        "text": "financial institution",
+        "suffix_key": "http://eurovoc.europa.eu/1452",
+        "background_color": "#18bf4b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1164",
+        "text": "financial management",
+        "suffix_key": "http://eurovoc.europa.eu/1164",
+        "background_color": "#0af5c8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1804",
+        "text": "financial market",
+        "suffix_key": "http://eurovoc.europa.eu/1804",
+        "background_color": "#7dcdfe",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8469",
+        "text": "financial services",
+        "suffix_key": "http://eurovoc.europa.eu/8469",
+        "background_color": "#4b5c50",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1000",
+        "text": "financing",
+        "suffix_key": "http://eurovoc.europa.eu/1000",
+        "background_color": "#10a9aa",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3258",
+        "text": "financing of the EU budget",
+        "suffix_key": "http://eurovoc.europa.eu/3258",
+        "background_color": "#06bdcc",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2504",
+        "text": "fiscal policy",
+        "suffix_key": "http://eurovoc.europa.eu/2504",
+        "background_color": "#d9f0cb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2476",
+        "text": "fisheries policy",
+        "suffix_key": "http://eurovoc.europa.eu/2476",
+        "background_color": "#f93cd9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5913",
+        "text": "fisheries structure",
+        "suffix_key": "http://eurovoc.europa.eu/5913",
+        "background_color": "#8183c9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3544",
+        "text": "fishery resources",
+        "suffix_key": "http://eurovoc.europa.eu/3544",
+        "background_color": "#792786",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1652",
+        "text": "fishing grounds",
+        "suffix_key": "http://eurovoc.europa.eu/1652",
+        "background_color": "#014284",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1372",
+        "text": "fishing industry",
+        "suffix_key": "http://eurovoc.europa.eu/1372",
+        "background_color": "#305ef8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2412",
+        "text": "fodder plant",
+        "suffix_key": "http://eurovoc.europa.eu/2412",
+        "background_color": "#032817",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6052",
+        "text": "food additive",
+        "suffix_key": "http://eurovoc.europa.eu/6052",
+        "background_color": "#22d4d5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1360",
+        "text": "food industry",
+        "suffix_key": "http://eurovoc.europa.eu/1360",
+        "background_color": "#9f579a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4416",
+        "text": "food technology",
+        "suffix_key": "http://eurovoc.europa.eu/4416",
+        "background_color": "#40b224",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2735",
+        "text": "foodstuff",
+        "suffix_key": "http://eurovoc.europa.eu/2735",
+        "background_color": "#02b8b0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2500",
+        "text": "foreign policy",
+        "suffix_key": "http://eurovoc.europa.eu/2500",
+        "background_color": "#9396a1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1063",
+        "text": "forest",
+        "suffix_key": "http://eurovoc.europa.eu/1063",
+        "background_color": "#8e421c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/651",
+        "text": "forestry economics",
+        "suffix_key": "http://eurovoc.europa.eu/651",
+        "background_color": "#642d0f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2505",
+        "text": "forestry policy",
+        "suffix_key": "http://eurovoc.europa.eu/2505",
+        "background_color": "#f86ee9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5437",
+        "text": "former socialist countries",
+        "suffix_key": "http://eurovoc.europa.eu/5437",
+        "background_color": "#b1139c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1630",
+        "text": "free movement of capital",
+        "suffix_key": "http://eurovoc.europa.eu/1630",
+        "background_color": "#c39eff",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1115",
+        "text": "fruit",
+        "suffix_key": "http://eurovoc.europa.eu/1115",
+        "background_color": "#06bf9d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/538",
+        "text": "fundamental rights",
+        "suffix_key": "http://eurovoc.europa.eu/538",
+        "background_color": "#35515b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/784",
+        "text": "general education",
+        "suffix_key": "http://eurovoc.europa.eu/784",
+        "background_color": "#5be55a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3300",
+        "text": "geographical distribution of the population",
+        "suffix_key": "http://eurovoc.europa.eu/3300",
+        "background_color": "#c842e8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3146",
+        "text": "geophysical environment",
+        "suffix_key": "http://eurovoc.europa.eu/3146",
+        "background_color": "#afad0b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3193",
+        "text": "goods and services",
+        "suffix_key": "http://eurovoc.europa.eu/3193",
+        "background_color": "#20b752",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1221",
+        "text": "habitat",
+        "suffix_key": "http://eurovoc.europa.eu/1221",
+        "background_color": "#02fd84",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2789",
+        "text": "health care profession",
+        "suffix_key": "http://eurovoc.europa.eu/2789",
+        "background_color": "#78dc35",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2479",
+        "text": "health policy",
+        "suffix_key": "http://eurovoc.europa.eu/2479",
+        "background_color": "#757aa8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_4ee83dea",
+        "text": "health technology",
+        "suffix_key": "http://eurovoc.europa.eu/c_4ee83dea",
+        "background_color": "#f93f64",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1690",
+        "text": "housing",
+        "suffix_key": "http://eurovoc.europa.eu/1690",
+        "background_color": "#3cd6cd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2496",
+        "text": "housing policy",
+        "suffix_key": "http://eurovoc.europa.eu/2496",
+        "background_color": "#eb6dd9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/584",
+        "text": "human rights",
+        "suffix_key": "http://eurovoc.europa.eu/584",
+        "background_color": "#59e268",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3074",
+        "text": "humanitarian aid",
+        "suffix_key": "http://eurovoc.europa.eu/3074",
+        "background_color": "#2dee55",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1274",
+        "text": "hydrocarbon",
+        "suffix_key": "http://eurovoc.europa.eu/1274",
+        "background_color": "#23ce60",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1754",
+        "text": "illness",
+        "suffix_key": "http://eurovoc.europa.eu/1754",
+        "background_color": "#14d138",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/929",
+        "text": "implementation of the budget",
+        "suffix_key": "http://eurovoc.europa.eu/929",
+        "background_color": "#fe94d1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2488",
+        "text": "import policy",
+        "suffix_key": "http://eurovoc.europa.eu/2488",
+        "background_color": "#32da1f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3659",
+        "text": "income",
+        "suffix_key": "http://eurovoc.europa.eu/3659",
+        "background_color": "#558059",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3632",
+        "text": "industrial manufacturing",
+        "suffix_key": "http://eurovoc.europa.eu/3632",
+        "background_color": "#3297e5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2413",
+        "text": "industrial plant",
+        "suffix_key": "http://eurovoc.europa.eu/2413",
+        "background_color": "#3fde5c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2507",
+        "text": "industrial policy",
+        "suffix_key": "http://eurovoc.europa.eu/2507",
+        "background_color": "#1c1373",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2720",
+        "text": "industrial production",
+        "suffix_key": "http://eurovoc.europa.eu/2720",
+        "background_color": "#02a224",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4303",
+        "text": "industrial structures",
+        "suffix_key": "http://eurovoc.europa.eu/4303",
+        "background_color": "#a2c429",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1422",
+        "text": "information",
+        "suffix_key": "http://eurovoc.europa.eu/1422",
+        "background_color": "#6e9a27",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2472",
+        "text": "information policy",
+        "suffix_key": "http://eurovoc.europa.eu/2472",
+        "background_color": "#f3e04a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4486",
+        "text": "information processing",
+        "suffix_key": "http://eurovoc.europa.eu/4486",
+        "background_color": "#3f64b0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4366",
+        "text": "information service",
+        "suffix_key": "http://eurovoc.europa.eu/4366",
+        "background_color": "#5b4300",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1405",
+        "text": "information technology industry",
+        "suffix_key": "http://eurovoc.europa.eu/1405",
+        "background_color": "#a58ba8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4515",
+        "text": "inland waterway transport",
+        "suffix_key": "http://eurovoc.europa.eu/4515",
+        "background_color": "#524c99",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4179",
+        "text": "institutional activity",
+        "suffix_key": "http://eurovoc.europa.eu/4179",
+        "background_color": "#1d2aa1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4304",
+        "text": "institutional structure",
+        "suffix_key": "http://eurovoc.europa.eu/4304",
+        "background_color": "#dd778e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3151",
+        "text": "insurance",
+        "suffix_key": "http://eurovoc.europa.eu/3151",
+        "background_color": "#f8b7c5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2817",
+        "text": "intellectual property",
+        "suffix_key": "http://eurovoc.europa.eu/2817",
+        "background_color": "#36d692",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8473",
+        "text": "intergovernmental legal instrument",
+        "suffix_key": "http://eurovoc.europa.eu/8473",
+        "background_color": "#bda28a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1916",
+        "text": "internal migration",
+        "suffix_key": "http://eurovoc.europa.eu/1916",
+        "background_color": "#a0ce33",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3474",
+        "text": "international affairs",
+        "suffix_key": "http://eurovoc.europa.eu/3474",
+        "background_color": "#900d0f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3461",
+        "text": "international agreement",
+        "suffix_key": "http://eurovoc.europa.eu/3461",
+        "background_color": "#6cf0f9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/99",
+        "text": "international conflict",
+        "suffix_key": "http://eurovoc.europa.eu/99",
+        "background_color": "#f5a864",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4010",
+        "text": "international economic law",
+        "suffix_key": "http://eurovoc.europa.eu/4010",
+        "background_color": "#1cfff2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1016",
+        "text": "international finance",
+        "suffix_key": "http://eurovoc.europa.eu/1016",
+        "background_color": "#2fd5b9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3467",
+        "text": "international instrument",
+        "suffix_key": "http://eurovoc.europa.eu/3467",
+        "background_color": "#533899",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3476",
+        "text": "international issue",
+        "suffix_key": "http://eurovoc.europa.eu/3476",
+        "background_color": "#1c4ccf",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6922",
+        "text": "international labour law",
+        "suffix_key": "http://eurovoc.europa.eu/6922",
+        "background_color": "#137a19",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/565",
+        "text": "international law",
+        "suffix_key": "http://eurovoc.europa.eu/565",
+        "background_color": "#8ff370",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2189",
+        "text": "international organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2189",
+        "background_color": "#f738bb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3450",
+        "text": "international security",
+        "suffix_key": "http://eurovoc.europa.eu/3450",
+        "background_color": "#163bd4",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/11",
+        "text": "international trade",
+        "suffix_key": "http://eurovoc.europa.eu/11",
+        "background_color": "#20577e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3232",
+        "text": "interparliamentary relations",
+        "suffix_key": "http://eurovoc.europa.eu/3232",
+        "background_color": "#6610a0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1488",
+        "text": "investment",
+        "suffix_key": "http://eurovoc.europa.eu/1488",
+        "background_color": "#4f9fb8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1417",
+        "text": "iron and steel industry",
+        "suffix_key": "http://eurovoc.europa.eu/1417",
+        "background_color": "#ecc604",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2701",
+        "text": "judicial proceedings",
+        "suffix_key": "http://eurovoc.europa.eu/2701",
+        "background_color": "#675e39",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1737",
+        "text": "labour force",
+        "suffix_key": "http://eurovoc.europa.eu/1737",
+        "background_color": "#7dbed1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/557",
+        "text": "labour law",
+        "suffix_key": "http://eurovoc.europa.eu/557",
+        "background_color": "#29deb7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1802",
+        "text": "labour market",
+        "suffix_key": "http://eurovoc.europa.eu/1802",
+        "background_color": "#bc5c31",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3209",
+        "text": "labour relations",
+        "suffix_key": "http://eurovoc.europa.eu/3209",
+        "background_color": "#e2016d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4539",
+        "text": "land transport",
+        "suffix_key": "http://eurovoc.europa.eu/4539",
+        "background_color": "#bca2ba",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4630",
+        "text": "land use",
+        "suffix_key": "http://eurovoc.europa.eu/4630",
+        "background_color": "#54af1a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_415bab24",
+        "text": "language industry",
+        "suffix_key": "http://eurovoc.europa.eu/c_415bab24",
+        "background_color": "#b10819",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3954",
+        "text": "law relating to prisons",
+        "suffix_key": "http://eurovoc.europa.eu/3954",
+        "background_color": "#809f57",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1388",
+        "text": "leather industry",
+        "suffix_key": "http://eurovoc.europa.eu/1388",
+        "background_color": "#c4aa04",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/108",
+        "text": "leave on social grounds",
+        "suffix_key": "http://eurovoc.europa.eu/108",
+        "background_color": "#cde90a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5371",
+        "text": "legal action",
+        "suffix_key": "http://eurovoc.europa.eu/5371",
+        "background_color": "#5d4b88",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2351",
+        "text": "legal profession",
+        "suffix_key": "http://eurovoc.europa.eu/2351",
+        "background_color": "#b1f12d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3935",
+        "text": "legal science",
+        "suffix_key": "http://eurovoc.europa.eu/3935",
+        "background_color": "#86a359",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5923",
+        "text": "legal system",
+        "suffix_key": "http://eurovoc.europa.eu/5923",
+        "background_color": "#65a447",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2702",
+        "text": "legislative procedure",
+        "suffix_key": "http://eurovoc.europa.eu/2702",
+        "background_color": "#01a292",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1700",
+        "text": "leisure",
+        "suffix_key": "http://eurovoc.europa.eu/1700",
+        "background_color": "#c33904",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2059",
+        "text": "level of education",
+        "suffix_key": "http://eurovoc.europa.eu/2059",
+        "background_color": "#bf12c1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3941",
+        "text": "life sciences",
+        "suffix_key": "http://eurovoc.europa.eu/3941",
+        "background_color": "#8cf3b7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5962",
+        "text": "livestock",
+        "suffix_key": "http://eurovoc.europa.eu/5962",
+        "background_color": "#fb221b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/711",
+        "text": "livestock farming",
+        "suffix_key": "http://eurovoc.europa.eu/711",
+        "background_color": "#fce28f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1718",
+        "text": "machinery",
+        "suffix_key": "http://eurovoc.europa.eu/1718",
+        "background_color": "#150e70",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1748",
+        "text": "majority voting",
+        "suffix_key": "http://eurovoc.europa.eu/1748",
+        "background_color": "#e8b865",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1154",
+        "text": "management",
+        "suffix_key": "http://eurovoc.europa.eu/1154",
+        "background_color": "#1ebfe6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1155",
+        "text": "management accounting",
+        "suffix_key": "http://eurovoc.europa.eu/1155",
+        "background_color": "#cf6749",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4413",
+        "text": "management techniques",
+        "suffix_key": "http://eurovoc.europa.eu/4413",
+        "background_color": "#1635bc",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4184",
+        "text": "marital status",
+        "suffix_key": "http://eurovoc.europa.eu/4184",
+        "background_color": "#44bc1c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4522",
+        "text": "maritime transport",
+        "suffix_key": "http://eurovoc.europa.eu/4522",
+        "background_color": "#ae85ea",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1786",
+        "text": "market",
+        "suffix_key": "http://eurovoc.europa.eu/1786",
+        "background_color": "#2430dd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2656",
+        "text": "market prices",
+        "suffix_key": "http://eurovoc.europa.eu/2656",
+        "background_color": "#e22b0a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/13",
+        "text": "marketing",
+        "suffix_key": "http://eurovoc.europa.eu/13",
+        "background_color": "#5421f5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4418",
+        "text": "materials technology",
+        "suffix_key": "http://eurovoc.europa.eu/4418",
+        "background_color": "#7e4b79",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2014",
+        "text": "means of agricultural production",
+        "suffix_key": "http://eurovoc.europa.eu/2014",
+        "background_color": "#620ad7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2012",
+        "text": "means of communication",
+        "suffix_key": "http://eurovoc.europa.eu/2012",
+        "background_color": "#4b0d4a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2015",
+        "text": "means of transport",
+        "suffix_key": "http://eurovoc.europa.eu/2015",
+        "background_color": "#4dff1e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1410",
+        "text": "mechanical engineering",
+        "suffix_key": "http://eurovoc.europa.eu/1410",
+        "background_color": "#d53f90",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1834",
+        "text": "mechanical equipment",
+        "suffix_key": "http://eurovoc.europa.eu/1834",
+        "background_color": "#696ec7",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5881",
+        "text": "medical science",
+        "suffix_key": "http://eurovoc.europa.eu/5881",
+        "background_color": "#420180",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3820",
+        "text": "metallurgical industry",
+        "suffix_key": "http://eurovoc.europa.eu/3820",
+        "background_color": "#0b371a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1882",
+        "text": "metals",
+        "suffix_key": "http://eurovoc.europa.eu/1882",
+        "background_color": "#c0ce78",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1909",
+        "text": "migration",
+        "suffix_key": "http://eurovoc.europa.eu/1909",
+        "background_color": "#0ba581",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2647",
+        "text": "military equipment",
+        "suffix_key": "http://eurovoc.europa.eu/2647",
+        "background_color": "#3a00b9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2763",
+        "text": "milk product",
+        "suffix_key": "http://eurovoc.europa.eu/2763",
+        "background_color": "#61b75f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1411",
+        "text": "mining industry",
+        "suffix_key": "http://eurovoc.europa.eu/1411",
+        "background_color": "#897985",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2767",
+        "text": "mining product",
+        "suffix_key": "http://eurovoc.europa.eu/2767",
+        "background_color": "#d7f959",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3895",
+        "text": "miscellaneous industries",
+        "suffix_key": "http://eurovoc.europa.eu/3895",
+        "background_color": "#80821f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1954",
+        "text": "mode of transport",
+        "suffix_key": "http://eurovoc.europa.eu/1954",
+        "background_color": "#830efa",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2510",
+        "text": "monetary policy",
+        "suffix_key": "http://eurovoc.europa.eu/2510",
+        "background_color": "#3b159f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3239",
+        "text": "monetary relations",
+        "suffix_key": "http://eurovoc.europa.eu/3239",
+        "background_color": "#a97add",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1809",
+        "text": "money market",
+        "suffix_key": "http://eurovoc.europa.eu/1809",
+        "background_color": "#b236ce",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/56",
+        "text": "national accounts",
+        "suffix_key": "http://eurovoc.europa.eu/56",
+        "background_color": "#9f12fd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1346",
+        "text": "national independence",
+        "suffix_key": "http://eurovoc.europa.eu/1346",
+        "background_color": "#3e2bfb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3549",
+        "text": "natural resources",
+        "suffix_key": "http://eurovoc.europa.eu/3549",
+        "background_color": "#b88ed2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2191",
+        "text": "non-governmental organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2191",
+        "background_color": "#57147e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/753",
+        "text": "nuclear energy",
+        "suffix_key": "http://eurovoc.europa.eu/753",
+        "background_color": "#1dda39",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1412",
+        "text": "nuclear industry",
+        "suffix_key": "http://eurovoc.europa.eu/1412",
+        "background_color": "#d72f92",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5350",
+        "text": "nuclear power station",
+        "suffix_key": "http://eurovoc.europa.eu/5350",
+        "background_color": "#b3159c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2090",
+        "text": "nuisance",
+        "suffix_key": "http://eurovoc.europa.eu/2090",
+        "background_color": "#8596c5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1268",
+        "text": "nutrition",
+        "suffix_key": "http://eurovoc.europa.eu/1268",
+        "background_color": "#9b3095",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4276",
+        "text": "occupational status",
+        "suffix_key": "http://eurovoc.europa.eu/4276",
+        "background_color": "#5b1a6d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1432",
+        "text": "offence",
+        "suffix_key": "http://eurovoc.europa.eu/1432",
+        "background_color": "#0eb578",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1414",
+        "text": "oil industry",
+        "suffix_key": "http://eurovoc.europa.eu/1414",
+        "background_color": "#8b5531",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2414",
+        "text": "oleaginous plant",
+        "suffix_key": "http://eurovoc.europa.eu/2414",
+        "background_color": "#e15fdf",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5640",
+        "text": "operation of the Institutions",
+        "suffix_key": "http://eurovoc.europa.eu/5640",
+        "background_color": "#7cc931",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4189",
+        "text": "organisation",
+        "suffix_key": "http://eurovoc.europa.eu/4189",
+        "background_color": "#bd88ad",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2186",
+        "text": "organisation of elections",
+        "suffix_key": "http://eurovoc.europa.eu/2186",
+        "background_color": "#173d85",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2178",
+        "text": "organisation of professions",
+        "suffix_key": "http://eurovoc.europa.eu/2178",
+        "background_color": "#d442f6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2175",
+        "text": "organisation of teaching",
+        "suffix_key": "http://eurovoc.europa.eu/2175",
+        "background_color": "#11f422",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2181",
+        "text": "organisation of transport",
+        "suffix_key": "http://eurovoc.europa.eu/2181",
+        "background_color": "#ac836d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2184",
+        "text": "organisation of work",
+        "suffix_key": "http://eurovoc.europa.eu/2184",
+        "background_color": "#5e3ce2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3929",
+        "text": "ownership",
+        "suffix_key": "http://eurovoc.europa.eu/3929",
+        "background_color": "#6831d8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2242",
+        "text": "parliament",
+        "suffix_key": "http://eurovoc.europa.eu/2242",
+        "background_color": "#db11db",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2703",
+        "text": "parliamentary procedure",
+        "suffix_key": "http://eurovoc.europa.eu/2703",
+        "background_color": "#0ea684",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4157",
+        "text": "parliamentary seat",
+        "suffix_key": "http://eurovoc.europa.eu/4157",
+        "background_color": "#2a4e3a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2180",
+        "text": "party organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2180",
+        "background_color": "#5b83cb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2491",
+        "text": "pay policy",
+        "suffix_key": "http://eurovoc.europa.eu/2491",
+        "background_color": "#560f66",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6722",
+        "text": "peace",
+        "suffix_key": "http://eurovoc.europa.eu/6722",
+        "background_color": "#3d1f6c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3878",
+        "text": "penalty",
+        "suffix_key": "http://eurovoc.europa.eu/3878",
+        "background_color": "#5f872f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1163",
+        "text": "personnel administration",
+        "suffix_key": "http://eurovoc.europa.eu/1163",
+        "background_color": "#e696b4",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2364",
+        "text": "petrochemicals",
+        "suffix_key": "http://eurovoc.europa.eu/2364",
+        "background_color": "#dfc3d6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1415",
+        "text": "pharmaceutical industry",
+        "suffix_key": "http://eurovoc.europa.eu/1415",
+        "background_color": "#a8114c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5789",
+        "text": "philosophy of law",
+        "suffix_key": "http://eurovoc.europa.eu/5789",
+        "background_color": "#509ae1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/833",
+        "text": "physical environment",
+        "suffix_key": "http://eurovoc.europa.eu/833",
+        "background_color": "#5bcaef",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3946",
+        "text": "physical sciences",
+        "suffix_key": "http://eurovoc.europa.eu/3946",
+        "background_color": "#f8a785",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2493",
+        "text": "policy on agricultural structures",
+        "suffix_key": "http://eurovoc.europa.eu/2493",
+        "background_color": "#53d38c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1282",
+        "text": "political ideology",
+        "suffix_key": "http://eurovoc.europa.eu/1282",
+        "background_color": "#ba262e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1453",
+        "text": "political institution",
+        "suffix_key": "http://eurovoc.europa.eu/1453",
+        "background_color": "#eb04e4",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2258",
+        "text": "political parties",
+        "suffix_key": "http://eurovoc.europa.eu/2258",
+        "background_color": "#9af4ae",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2370",
+        "text": "political philosophy",
+        "suffix_key": "http://eurovoc.europa.eu/2370",
+        "background_color": "#0e8743",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2573",
+        "text": "political power",
+        "suffix_key": "http://eurovoc.europa.eu/2573",
+        "background_color": "#543e8c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3900",
+        "text": "political rights",
+        "suffix_key": "http://eurovoc.europa.eu/3900",
+        "background_color": "#1640e3",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3025",
+        "text": "political system",
+        "suffix_key": "http://eurovoc.europa.eu/3025",
+        "background_color": "#92c35b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4436",
+        "text": "political tendency",
+        "suffix_key": "http://eurovoc.europa.eu/4436",
+        "background_color": "#3d2617",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4704",
+        "text": "politics",
+        "suffix_key": "http://eurovoc.europa.eu/4704",
+        "background_color": "#4e2e02",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2524",
+        "text": "pollution",
+        "suffix_key": "http://eurovoc.europa.eu/2524",
+        "background_color": "#90758f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1707",
+        "text": "pollution control measures",
+        "suffix_key": "http://eurovoc.europa.eu/1707",
+        "background_color": "#ee82d1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3318",
+        "text": "population dynamics",
+        "suffix_key": "http://eurovoc.europa.eu/3318",
+        "background_color": "#ee1daf",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2512",
+        "text": "ports policy",
+        "suffix_key": "http://eurovoc.europa.eu/2512",
+        "background_color": "#e00535",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/41",
+        "text": "powers of parliament",
+        "suffix_key": "http://eurovoc.europa.eu/41",
+        "background_color": "#4189a6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1845",
+        "text": "precision engineering",
+        "suffix_key": "http://eurovoc.europa.eu/1845",
+        "background_color": "#fc7f24",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/87",
+        "text": "preparation for market",
+        "suffix_key": "http://eurovoc.europa.eu/87",
+        "background_color": "#59ef3f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5614",
+        "text": "pressure equipment",
+        "suffix_key": "http://eurovoc.europa.eu/5614",
+        "background_color": "#0a5813",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1039",
+        "text": "price fluctuation",
+        "suffix_key": "http://eurovoc.europa.eu/1039",
+        "background_color": "#86e9c0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2632",
+        "text": "prices",
+        "suffix_key": "http://eurovoc.europa.eu/2632",
+        "background_color": "#faa802",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2489",
+        "text": "prices policy",
+        "suffix_key": "http://eurovoc.europa.eu/2489",
+        "background_color": "#40e9d1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/566",
+        "text": "private international law",
+        "suffix_key": "http://eurovoc.europa.eu/566",
+        "background_color": "#ceddea",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2736",
+        "text": "processed food product",
+        "suffix_key": "http://eurovoc.europa.eu/2736",
+        "background_color": "#10b91d",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1258",
+        "text": "processed foodstuff",
+        "suffix_key": "http://eurovoc.europa.eu/1258",
+        "background_color": "#73113b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2707",
+        "text": "production",
+        "suffix_key": "http://eurovoc.europa.eu/2707",
+        "background_color": "#11185e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2481",
+        "text": "production policy",
+        "suffix_key": "http://eurovoc.europa.eu/2481",
+        "background_color": "#0c5827",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1687",
+        "text": "property leasing",
+        "suffix_key": "http://eurovoc.europa.eu/1687",
+        "background_color": "#f151fd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2775",
+        "text": "protein products",
+        "suffix_key": "http://eurovoc.europa.eu/2775",
+        "background_color": "#f80b8c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/77",
+        "text": "public administration",
+        "suffix_key": "http://eurovoc.europa.eu/77",
+        "background_color": "#154b9a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1810",
+        "text": "public contract",
+        "suffix_key": "http://eurovoc.europa.eu/1810",
+        "background_color": "#875a35",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/424",
+        "text": "public debt",
+        "suffix_key": "http://eurovoc.europa.eu/424",
+        "background_color": "#b0be89",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1018",
+        "text": "public finance",
+        "suffix_key": "http://eurovoc.europa.eu/1018",
+        "background_color": "#c57a1b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/567",
+        "text": "public international law",
+        "suffix_key": "http://eurovoc.europa.eu/567",
+        "background_color": "#b3b80a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2152",
+        "text": "public opinion",
+        "suffix_key": "http://eurovoc.europa.eu/2152",
+        "background_color": "#1dd4ef",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_4c7717f3",
+        "text": "public procurement",
+        "suffix_key": "http://eurovoc.europa.eu/c_4c7717f3",
+        "background_color": "#1b6899",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4045",
+        "text": "public safety",
+        "suffix_key": "http://eurovoc.europa.eu/4045",
+        "background_color": "#a3a55e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4565",
+        "text": "public works",
+        "suffix_key": "http://eurovoc.europa.eu/4565",
+        "background_color": "#d0a403",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1390",
+        "text": "refrigeration industry",
+        "suffix_key": "http://eurovoc.europa.eu/1390",
+        "background_color": "#e87dab",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6034",
+        "text": "regional and local authorities",
+        "suffix_key": "http://eurovoc.europa.eu/6034",
+        "background_color": "#5dab56",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2515",
+        "text": "regional policy",
+        "suffix_key": "http://eurovoc.europa.eu/2515",
+        "background_color": "#af3b4e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4840",
+        "text": "regions and communities of Belgium",
+        "suffix_key": "http://eurovoc.europa.eu/4840",
+        "background_color": "#f0e037",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6136",
+        "text": "regions of Austria",
+        "suffix_key": "http://eurovoc.europa.eu/6136",
+        "background_color": "#ab4ca4",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8301",
+        "text": "regions of Bulgaria",
+        "suffix_key": "http://eurovoc.europa.eu/8301",
+        "background_color": "#2b7dc0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_6acbfd25",
+        "text": "regions of Croatia",
+        "suffix_key": "http://eurovoc.europa.eu/c_6acbfd25",
+        "background_color": "#939d4e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/337",
+        "text": "regions of Denmark",
+        "suffix_key": "http://eurovoc.europa.eu/337",
+        "background_color": "#03abd2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7855",
+        "text": "regions of Estonia",
+        "suffix_key": "http://eurovoc.europa.eu/7855",
+        "background_color": "#d35365",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6135",
+        "text": "regions of Finland",
+        "suffix_key": "http://eurovoc.europa.eu/6135",
+        "background_color": "#1a8093",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1088",
+        "text": "regions of France",
+        "suffix_key": "http://eurovoc.europa.eu/1088",
+        "background_color": "#57848b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1329",
+        "text": "regions of Germany",
+        "suffix_key": "http://eurovoc.europa.eu/1329",
+        "background_color": "#986e98",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1184",
+        "text": "regions of Greece",
+        "suffix_key": "http://eurovoc.europa.eu/1184",
+        "background_color": "#0a10c0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7879",
+        "text": "regions of Hungary",
+        "suffix_key": "http://eurovoc.europa.eu/7879",
+        "background_color": "#ca54ad",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1506",
+        "text": "regions of Ireland",
+        "suffix_key": "http://eurovoc.europa.eu/1506",
+        "background_color": "#038a95",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1520",
+        "text": "regions of Italy",
+        "suffix_key": "http://eurovoc.europa.eu/1520",
+        "background_color": "#dcd415",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7861",
+        "text": "regions of Latvia",
+        "suffix_key": "http://eurovoc.europa.eu/7861",
+        "background_color": "#eb8358",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7868",
+        "text": "regions of Lithuania",
+        "suffix_key": "http://eurovoc.europa.eu/7868",
+        "background_color": "#068a5f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7814",
+        "text": "regions of Poland",
+        "suffix_key": "http://eurovoc.europa.eu/7814",
+        "background_color": "#ff9723",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2564",
+        "text": "regions of Portugal",
+        "suffix_key": "http://eurovoc.europa.eu/2564",
+        "background_color": "#bb3267",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/8189",
+        "text": "regions of Romania",
+        "suffix_key": "http://eurovoc.europa.eu/8189",
+        "background_color": "#6bb895",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7817",
+        "text": "regions of Slovakia",
+        "suffix_key": "http://eurovoc.europa.eu/7817",
+        "background_color": "#b8e5ff",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7815",
+        "text": "regions of Slovenia",
+        "suffix_key": "http://eurovoc.europa.eu/7815",
+        "background_color": "#811a0f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/864",
+        "text": "regions of Spain",
+        "suffix_key": "http://eurovoc.europa.eu/864",
+        "background_color": "#84ad7a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6138",
+        "text": "regions of Sweden",
+        "suffix_key": "http://eurovoc.europa.eu/6138",
+        "background_color": "#780ee5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/7816",
+        "text": "regions of the Czech Republic",
+        "suffix_key": "http://eurovoc.europa.eu/7816",
+        "background_color": "#3fcdfe",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2288",
+        "text": "regions of the Netherlands",
+        "suffix_key": "http://eurovoc.europa.eu/2288",
+        "background_color": "#51f886",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2972",
+        "text": "regulation of agricultural production",
+        "suffix_key": "http://eurovoc.europa.eu/2972",
+        "background_color": "#f18547",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3257",
+        "text": "religion",
+        "suffix_key": "http://eurovoc.europa.eu/3257",
+        "background_color": "#8ca368",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3273",
+        "text": "remuneration of work",
+        "suffix_key": "http://eurovoc.europa.eu/3273",
+        "background_color": "#ac5b19",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2914",
+        "text": "research",
+        "suffix_key": "http://eurovoc.europa.eu/2914",
+        "background_color": "#3da463",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2478",
+        "text": "research policy",
+        "suffix_key": "http://eurovoc.europa.eu/2478",
+        "background_color": "#3d119c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3581",
+        "text": "restriction on competition",
+        "suffix_key": "http://eurovoc.europa.eu/3581",
+        "background_color": "#b7badd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/802",
+        "text": "restrictive trade practice",
+        "suffix_key": "http://eurovoc.europa.eu/802",
+        "background_color": "#a3800e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2416",
+        "text": "root crop",
+        "suffix_key": "http://eurovoc.europa.eu/2416",
+        "background_color": "#e52c1f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1538",
+        "text": "ruling",
+        "suffix_key": "http://eurovoc.europa.eu/1538",
+        "background_color": "#989592",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4705",
+        "text": "school life",
+        "suffix_key": "http://eurovoc.europa.eu/4705",
+        "background_color": "#32e750",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4554",
+        "text": "schoolwork",
+        "suffix_key": "http://eurovoc.europa.eu/4554",
+        "background_color": "#658a4c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/445",
+        "text": "size of business",
+        "suffix_key": "http://eurovoc.europa.eu/445",
+        "background_color": "#95661c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_b2c019c8",
+        "text": "small state",
+        "suffix_key": "http://eurovoc.europa.eu/c_b2c019c8",
+        "background_color": "#d5db68",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1820",
+        "text": "social analysis",
+        "suffix_key": "http://eurovoc.europa.eu/1820",
+        "background_color": "#ab836f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4706",
+        "text": "social life",
+        "suffix_key": "http://eurovoc.europa.eu/4706",
+        "background_color": "#b5fb03",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2517",
+        "text": "social policy",
+        "suffix_key": "http://eurovoc.europa.eu/2517",
+        "background_color": "#74d038",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2690",
+        "text": "social problem",
+        "suffix_key": "http://eurovoc.europa.eu/2690",
+        "background_color": "#b56350",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3899",
+        "text": "social rights",
+        "suffix_key": "http://eurovoc.europa.eu/3899",
+        "background_color": "#113c48",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3956",
+        "text": "social sciences",
+        "suffix_key": "http://eurovoc.europa.eu/3956",
+        "background_color": "#951030",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4050",
+        "text": "social security",
+        "suffix_key": "http://eurovoc.europa.eu/4050",
+        "background_color": "#d11842",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/85",
+        "text": "social situation",
+        "suffix_key": "http://eurovoc.europa.eu/85",
+        "background_color": "#0ab430",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4305",
+        "text": "social structure",
+        "suffix_key": "http://eurovoc.europa.eu/4305",
+        "background_color": "#894ef6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3487",
+        "text": "sociocultural group",
+        "suffix_key": "http://eurovoc.europa.eu/3487",
+        "background_color": "#99fe36",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5275",
+        "text": "socioprofessional category",
+        "suffix_key": "http://eurovoc.europa.eu/5275",
+        "background_color": "#ca890f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/744",
+        "text": "soft energy",
+        "suffix_key": "http://eurovoc.europa.eu/744",
+        "background_color": "#927830",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4222",
+        "text": "source of law",
+        "suffix_key": "http://eurovoc.europa.eu/4222",
+        "background_color": "#590edd",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4185",
+        "text": "space policy",
+        "suffix_key": "http://eurovoc.europa.eu/4185",
+        "background_color": "#de7467",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/6382",
+        "text": "space science",
+        "suffix_key": "http://eurovoc.europa.eu/6382",
+        "background_color": "#d7dd4a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3092",
+        "text": "space transport",
+        "suffix_key": "http://eurovoc.europa.eu/3092",
+        "background_color": "#e5dc84",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3798",
+        "text": "special chemicals",
+        "suffix_key": "http://eurovoc.europa.eu/3798",
+        "background_color": "#ab42e5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4256",
+        "text": "statistics",
+        "suffix_key": "http://eurovoc.europa.eu/4256",
+        "background_color": "#a0ef6e",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4291",
+        "text": "storage",
+        "suffix_key": "http://eurovoc.europa.eu/4291",
+        "background_color": "#ad7d1f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5424",
+        "text": "sub-Saharan Africa",
+        "suffix_key": "http://eurovoc.europa.eu/5424",
+        "background_color": "#641224",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4314",
+        "text": "sugar",
+        "suffix_key": "http://eurovoc.europa.eu/4314",
+        "background_color": "#4730fe",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2292",
+        "text": "supply",
+        "suffix_key": "http://eurovoc.europa.eu/2292",
+        "background_color": "#248cfc",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2128",
+        "text": "supply and demand",
+        "suffix_key": "http://eurovoc.europa.eu/2128",
+        "background_color": "#a7d721",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2519",
+        "text": "tariff policy",
+        "suffix_key": "http://eurovoc.europa.eu/2519",
+        "background_color": "#cf9929",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1310",
+        "text": "tax",
+        "suffix_key": "http://eurovoc.europa.eu/1310",
+        "background_color": "#60f3f9",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1325",
+        "text": "tax on capital",
+        "suffix_key": "http://eurovoc.europa.eu/1325",
+        "background_color": "#f93354",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1321",
+        "text": "tax on consumption",
+        "suffix_key": "http://eurovoc.europa.eu/1321",
+        "background_color": "#848ab1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1326",
+        "text": "tax on income",
+        "suffix_key": "http://eurovoc.europa.eu/1326",
+        "background_color": "#06d78c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1021",
+        "text": "tax system",
+        "suffix_key": "http://eurovoc.europa.eu/1021",
+        "background_color": "#b5e559",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/778",
+        "text": "teaching",
+        "suffix_key": "http://eurovoc.europa.eu/778",
+        "background_color": "#c11573",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3278",
+        "text": "teaching materials",
+        "suffix_key": "http://eurovoc.europa.eu/3278",
+        "background_color": "#a16eeb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3683",
+        "text": "teaching method",
+        "suffix_key": "http://eurovoc.europa.eu/3683",
+        "background_color": "#415720",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3587",
+        "text": "technical profession",
+        "suffix_key": "http://eurovoc.europa.eu/3587",
+        "background_color": "#5c3d9a",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3641",
+        "text": "technical regulations",
+        "suffix_key": "http://eurovoc.europa.eu/3641",
+        "background_color": "#17ab90",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4415",
+        "text": "technology",
+        "suffix_key": "http://eurovoc.europa.eu/4415",
+        "background_color": "#d96186",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3522",
+        "text": "termination of employment",
+        "suffix_key": "http://eurovoc.europa.eu/3522",
+        "background_color": "#c01ed5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1418",
+        "text": "textile industry",
+        "suffix_key": "http://eurovoc.europa.eu/1418",
+        "background_color": "#37f84f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2417",
+        "text": "textile plant",
+        "suffix_key": "http://eurovoc.europa.eu/2417",
+        "background_color": "#8ca250",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5615",
+        "text": "thermal equipment",
+        "suffix_key": "http://eurovoc.europa.eu/5615",
+        "background_color": "#6f0db1",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4619",
+        "text": "town planning",
+        "suffix_key": "http://eurovoc.europa.eu/4619",
+        "background_color": "#bcd913",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2449",
+        "text": "trade policy",
+        "suffix_key": "http://eurovoc.europa.eu/2449",
+        "background_color": "#3a2dcf",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3185",
+        "text": "trade relations",
+        "suffix_key": "http://eurovoc.europa.eu/3185",
+        "background_color": "#fd7e57",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3584",
+        "text": "trade restriction",
+        "suffix_key": "http://eurovoc.europa.eu/3584",
+        "background_color": "#288f66",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/614",
+        "text": "trading operation",
+        "suffix_key": "http://eurovoc.europa.eu/614",
+        "background_color": "#85987f",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3131",
+        "text": "traffic regulations",
+        "suffix_key": "http://eurovoc.europa.eu/3131",
+        "background_color": "#fdd5f8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2494",
+        "text": "transport policy",
+        "suffix_key": "http://eurovoc.europa.eu/2494",
+        "background_color": "#e075fe",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3101",
+        "text": "transport price",
+        "suffix_key": "http://eurovoc.europa.eu/3101",
+        "background_color": "#7bb463",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3160",
+        "text": "transport regulations",
+        "suffix_key": "http://eurovoc.europa.eu/3160",
+        "background_color": "#ca5f91",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2001",
+        "text": "trends of opinion",
+        "suffix_key": "http://eurovoc.europa.eu/2001",
+        "background_color": "#c1efb8",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2418",
+        "text": "tropical plant",
+        "suffix_key": "http://eurovoc.europa.eu/2418",
+        "background_color": "#617c3c",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/813",
+        "text": "type of business",
+        "suffix_key": "http://eurovoc.europa.eu/813",
+        "background_color": "#470e87",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/962",
+        "text": "type of tenure",
+        "suffix_key": "http://eurovoc.europa.eu/962",
+        "background_color": "#35f903",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/5974",
+        "text": "unemployment",
+        "suffix_key": "http://eurovoc.europa.eu/5974",
+        "background_color": "#628503",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1398",
+        "text": "vacuum industry",
+        "suffix_key": "http://eurovoc.europa.eu/1398",
+        "background_color": "#3bc0a0",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1602",
+        "text": "vegetable",
+        "suffix_key": "http://eurovoc.europa.eu/1602",
+        "background_color": "#894bbe",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/795",
+        "text": "vocational education",
+        "suffix_key": "http://eurovoc.europa.eu/795",
+        "background_color": "#08cc1b",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1074",
+        "text": "vocational training",
+        "suffix_key": "http://eurovoc.europa.eu/1074",
+        "background_color": "#ed4255",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4750",
+        "text": "vote",
+        "suffix_key": "http://eurovoc.europa.eu/4750",
+        "background_color": "#12a972",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1953",
+        "text": "voting method",
+        "suffix_key": "http://eurovoc.europa.eu/1953",
+        "background_color": "#7c1276",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4697",
+        "text": "war victim",
+        "suffix_key": "http://eurovoc.europa.eu/4697",
+        "background_color": "#3d92ef",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/343",
+        "text": "waste",
+        "suffix_key": "http://eurovoc.europa.eu/343",
+        "background_color": "#bf8ddf",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1158",
+        "text": "waste management",
+        "suffix_key": "http://eurovoc.europa.eu/1158",
+        "background_color": "#9e5ed2",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_98d1408a",
+        "text": "water policy",
+        "suffix_key": "http://eurovoc.europa.eu/c_98d1408a",
+        "background_color": "#cfa207",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1004",
+        "text": "welfare",
+        "suffix_key": "http://eurovoc.europa.eu/1004",
+        "background_color": "#f6a220",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/3150",
+        "text": "wildlife",
+        "suffix_key": "http://eurovoc.europa.eu/3150",
+        "background_color": "#7459ee",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/1386",
+        "text": "wood industry",
+        "suffix_key": "http://eurovoc.europa.eu/1386",
+        "background_color": "#138082",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/4543",
+        "text": "work",
+        "suffix_key": "http://eurovoc.europa.eu/4543",
+        "background_color": "#8c2fa6",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/82",
+        "text": "working conditions",
+        "suffix_key": "http://eurovoc.europa.eu/82",
+        "background_color": "#63f173",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2551",
+        "text": "working population engaged in agriculture",
+        "suffix_key": "http://eurovoc.europa.eu/2551",
+        "background_color": "#acf5fb",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/c_789ead37",
+        "text": "world",
+        "suffix_key": "http://eurovoc.europa.eu/c_789ead37",
+        "background_color": "#0e9c25",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://eurovoc.europa.eu/2188",
+        "text": "world organisation",
+        "suffix_key": "http://eurovoc.europa.eu/2188",
+        "background_color": "#ab3401",
+        "text_color": "#ffffff"
+    }
+]

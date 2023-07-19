@@ -73,3 +73,22 @@ def save_ontology(prefix, ontology_uri, format = None):
         print(f"Failed to save the ontology: {e}")
 
     return
+
+
+    # Step 1: Parse XML data
+    #parser.parse_xml('data/akn/19410716_041U0633_VIGENZA_20220922.xml', output_file='data/jsonl/copyright_law.jsonl')
+"""	
+    df = pd.read_csv('data/resources/ontology/ontologies.csv')
+
+    for index, row in df.iterrows():        
+        try:
+            save_ontology(prefix = row['prefix'], ontology_uri=row['uri'], format = row['format'])
+        except:
+            print(row['uri'] + " not found")
+
+    #create_classes_and_properties()
+    # Step 4: Upload or send data to a web application through an API
+    #functions.send_data(transformed_data, 'http://api.example.com')
+    #jsonltolynx.convert_jsonl_to_lynx('data/jsonl/annotated/admin.jsonl', 'data/rdf/lynx.rdf', "http://lynx-project.eu/doc/samples/")
+
+"""
