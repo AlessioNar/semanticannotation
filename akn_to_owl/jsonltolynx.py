@@ -61,7 +61,12 @@ def convert_jsonl_to_lynx(jsonl_file, output_file, base_uri):
             g.add((entity_uri, RDF.type, LKG.LynxAnnotation))
             g.add((entity_uri, RDF.type, NIF.OffsetBasedString))
             g.add((entity_uri, NIF.referenceContext, doc_uri))
+            label = entity['label']
+            # Add the label property as a nif:AnnotationUnit, itsrdf:taIdentRef
+            g.add((entity_uri, RDF.type, NIF.AnnotationUnit))
+            g.add((NIF.AnnotationUnit, ITSRDF.taIdentRef, URIRef(label)))
 
+            g.add((entity_uri, LKG.label, Literal(label)))
             value = json_obj['text'][entity['start_offset']:entity['end_offset']]
 
             g.add((entity_uri, NIF.anchorOf, Literal(value)))

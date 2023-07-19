@@ -1,48 +1,43 @@
+import argparse
+import json
+import requests
+import pandas as pd
 from akn_to_owl import parser, owltojson, jsonltolynx
-import json 
+from akn_to_owl.skos import skos_to_json
 
-def main():
     # Step 1: Parse XML data
     #parser.parse_xml('data/akn/19410716_041U0633_VIGENZA_20220922.xml', output_file='data/jsonl/copyright_law.jsonl')
-    
-    # Step 2: Prepare ontologies for loading in doccano
-    creation_classes, creation_properties = owltojson.ontojson('data/ttl/copyrightonto-creationmodel.ttl')
-    action_classes, action_properties = owltojson.ontojson('data/ttl/copyrightonto-actionsmodel.ttl')
-    right_classes, right_properties = owltojson.ontojson('data/ttl/copyrightonto-rightsmodel.ttl')
-    mediavaluechain_classes, mediavaluechain_properties = owltojson.ontojson('data/ttl/mediavaluechain.ttl')
-    
+"""	
+    df = pd.read_csv('data/resources/ontology/ontologies.csv')
 
-    
-    classes = {**creation_classes, **action_classes, **right_classes, **mediavaluechain_classes}
-    properties = {**creation_properties, **action_properties, **right_properties, **mediavaluechain_properties}
+    for index, row in df.iterrows():        
+        try:
+            save_ontology(prefix = row['prefix'], ontology_uri=row['uri'], format = row['format'])
+        except:
+            print(row['uri'] + " not found")
 
-    # Reset the ids
-    for i, c in enumerate(classes.values()):
-        c['suffix_key'] = str(i + 1)
-
-    # Reset the ids
-    for i, p in enumerate(properties.values()):
-        p['suffix_key'] = str(i + 1)
-
-    # Save the classes to a file as a list of dictionaries
-    with open("data/json/classes.json", "w") as f:
-        json.dump(list(classes.values()), f)
-
-    with open("data/json/properties.json", "w") as f:
-        json.dump(list(properties.values()), f)
-
-    
-    #owltojson.ontojson('data/ttl/cdm.ttl')
-
-
+    #create_classes_and_properties()
     # Step 4: Upload or send data to a web application through an API
     #functions.send_data(transformed_data, 'http://api.example.com')
+    #jsonltolynx.convert_jsonl_to_lynx('data/jsonl/annotated/admin.jsonl', 'data/rdf/lynx.rdf', "http://lynx-project.eu/doc/samples/")
 
-    #jsonltolynx.convert_jsonl_to_lynx('data/jsonl/annotated/admin.jsonl',
-    #                                    'data/rdf/lynx.rdf', "http://lynx-project.eu/doc/samples/")
+"""
 
+def main():
+    parser = argparse.ArgumentParser(description='Converts AKN data to OWL, then to JSON-L and finally to LYNX.')
+    parser.add_argument('task', type=str, help='Task to perform, e.g., "skos"')
+    args = parser.parse_args()
 
-    
+    if args.task == "skos":
+
+        skos_to_json()
+
+    else:
+        print(f"Task {args.task} is not recognized.")
+        exit(1)
+
+    # You would need to provide more details about parser, owltojson, and jsonltolynx
+    # for me to be able to include them here.
 
 
 if __name__ == '__main__':
