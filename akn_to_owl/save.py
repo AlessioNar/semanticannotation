@@ -24,3 +24,52 @@ def create_classes_and_properties():
 
     with open("data/json/properties.json", "w") as f:
         json.dump(list(properties.values()), f)
+
+
+
+import rdflib
+from rdflib.util import guess_format
+    
+def save_ontology(prefix, ontology_uri, format = None):
+    # Download the ontology
+    try:
+        r = requests.get(ontology_uri)
+        print(f"Downloaded ontology from {ontology_uri}")
+    except requests.exceptions.RequestException as e:
+        print(f"Failed to download the ontology: {e}")
+        return
+    
+    # Guess the format if it is not provided
+    if format == None:
+        format = guess_format(r.content)
+
+    print(f"Format: {format}")
+
+
+    graph = rdflib.Graph()
+
+    # Load the content into the graph
+    try:
+        graph.parse(data=r.content, format=format)
+        print("Ontology parsed successfully.")
+    except rdflib.parser.ParserError as e:
+        print(f"Failed to parse the ontology: {e}")
+        return
+    
+    # Get the prefix of the ontology
+    try:
+        prefix = graph.namespace_manager.compute_qname(ontology_uri)[0]
+        print(f"Prefix: {prefix}")
+    except Exception as e:
+        print(f"Failed to get the prefix: {e}")
+        return
+
+    # Save the graph to a file
+    try:
+        destination = f"data/ttl/{prefix}.ttl"
+        graph.serialize(destination=destination, format="turtle")
+        print(f"Ontology saved as {destination}")
+    except Exception as e:
+        print(f"Failed to save the ontology: {e}")
+
+    return
