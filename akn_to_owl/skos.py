@@ -26,10 +26,10 @@ def parse_skos(file_path):
     # Get the concepts that have at least another concept under them
     qres = g.query(
         """
-        SELECT DISTINCT ?s ?label ?p
+       SELECT DISTINCT ?topConcept ?label ?p
         WHERE {
-            ?s skos:topConceptOf ?o .
-            ?s skos:prefLabel ?label .
+            ?s skos:hasTopConcept ?topConcept .
+            ?topConcept skos:prefLabel ?label .
             FILTER (lang(?label) = 'en')
             ?s ?p ?o .
         }
@@ -37,9 +37,10 @@ def parse_skos(file_path):
         initNs={"skos": SKOS}
     )
     print(f"Found {len(qres)} top concepts")
- 
+    
     # This loop will iterate over each row in the results of the SPARQL query (qres)
     for row in qres:
+        print(row)
 
         # Each row consists of three parts: the subject (s), label (prefLabel in English), and the predicate (p)
         s, label, p = row
@@ -50,7 +51,7 @@ def parse_skos(file_path):
         # Checking if the predicate (relationship type) of the triple is 'skos:narrower'
         # In SKOS, 'narrower' is used to express a hierarchical or taxonomic relationship between two concepts
         # If the predicate is 'skos:narrower', it means the subject is a broader concept than the object
-        if p == SKOS.topConceptOf:
+        if p == SKOS.hasTopConcept:
 
             # If the predicate is 'narrower', then we add this concept to our list of top classes
             # The concept is represented as a dictionary with the preferred English label (prefLabel) and the unique resource identifier (URI)
@@ -74,7 +75,7 @@ def write_to_file(data, file_path):
 
 def enrich_json(dictionary):
     """ 
-    Main function to enrich the JSONL file with random colors.
+    Main function to enrich the JSON file with random colors.
     """
     counter = 0
     dictionary = sorted(dictionary, key=lambda k: k['prefLabel'])
