@@ -66,7 +66,7 @@ class OntologyParser:
                 if not any(prop['text'] == property_name for prop in properties):
                     properties.append({
                         "text": property_name,
-                        "suffix_key": chr(97 + len(properties) % 26) * (len(properties) // 26 + 1),
+                        "suffix_key": str(s),
                         "background_color": str(color),
                         "text_color": "#ffffff"
                     })
@@ -77,8 +77,8 @@ class OntologyParser:
         return self.get_classes(), self.get_properties()
 
 
-def owl_to_json():
-    parser = OntologyParser('data/ttl/copyrightonto-actionsmodel.ttl')
+def owl_to_json(path):
+    parser = OntologyParser(path)
     classes, properties = parser.ontojson()
 
     if classes:

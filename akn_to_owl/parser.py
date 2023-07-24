@@ -2,161 +2,176 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import json
 
-def parse_xml(xml_file, output_file):
-    
-    # The file is in the akoma ntoso format
-    root = ET.parse(xml_file).getroot()
+class AkomaNtosoParser:
+    def __init__(self, xml_file):
+        self.xml_file = xml_file
+        root = ET.parse(self.xml_file).getroot()
+        self.chapters = self.extract_chapters(root)
+        self.articles = self.extract_articles(root)
+        self.paragraphs = self.extract_paragraphs(self.articles)
+        self.df = pd.DataFrame(self.paragraphs)
+        self.df = self.create_dataframe(self.df, self.chapters)
 
-    chapters = extract_chapters(root)
-    chapters.to_csv('data/csv/chapters.csv', index=False)
+    def extract_chapters(self, tree):
+        article_list = []
 
-    articles = extract_articles(root)
-    paragraphs = extract_paragraphs(articles)
-    
-    df = pd.DataFrame(paragraphs)
+        # Extract chapters and articles
+        chapters = tree.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}chapter")
+        for chapter in chapters:
+            chapter_eId = chapter.get('eId')
+            heading = chapter.findtext(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}heading")
+            articles = chapter.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}article")
+            for article in articles:
+                article_dict = {
+                    'article_id': article.get('eId'),
+                    'chapter_id': chapter_eId,
+                    'chapter_heading': heading
+                }
+                article_list.append(article_dict)
 
-    df = create_dataframe(df, chapters)
-    sentences = extract_sentences(df)
+        # Create DataFrame
+        chapters_df = pd.DataFrame(article_list)
 
-    export_jsonl(sentences, output_file)
-    
-    return None
+        return chapters_df
 
+    def extract_articles(self, root):
+        articles = []
+        for element in root.iter('{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}article'):
+            articles.append(element)
+            
+        return articles
 
-# In the xml tree, extract all the elements with the tag {http://docs.oasis-open.org/legaldocml/ns/akn/3.0}chapter, store their eId and heading
-# Then navigate the tree to find all the elements with the tag {http://docs.oasis-open.org/legaldocml/ns/akn/3.0}article, and store their eId associated with the chapter eId in a dataframe
-# It returns a dataframe with three columns: article_id, chapter_id, chapter_heading
-def extract_chapters(tree):
-    article_list = []
-
-    # Extract chapters and articles
-    chapters = tree.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}chapter")
-    for chapter in chapters:
-        chapter_eId = chapter.get('eId')
-        heading = chapter.findtext(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}heading")
-        articles = chapter.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}article")
+    def extract_paragraphs(self, articles):
+        paragraph_list = pd.DataFrame(columns=['article_id', 'paragraph_id', 'p_id', 'text', 'insertions', 'references'])
+        
         for article in articles:
-            article_dict = {
-                'article_id': article.get('eId'),
-                'chapter_id': chapter_eId,
-                'chapter_heading': heading
-            }
-            article_list.append(article_dict)
-
-    # Create DataFrame
-    df = pd.DataFrame(article_list)
-
-    return df
-
-
-# find all the articles from  the root of the xml file, going through all the xml file, recursively, with the following tag
-# {http://docs.oasis-open.org/legaldocml/ns/akn/3.0}article
-# and return a list of all the elements found
-def extract_articles(root):
-    articles = []
-    for element in root.iter('{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}article'):
-        articles.append(element)
-        
-    return articles
-
-# Extract the paragraphs from the articles and save them in a dataframe called paragraph_list
-def extract_paragraphs(articles):
-    paragraph_list = pd.DataFrame(columns=['article_id', 'paragraph_id', 'p_id', 'text', 'insertions', 'references'])
-    
-    for article in articles:
-        article_id = article.attrib['eId']
-        
-        # Check how many paragraphs are in the article. 
-        # If there is only one, then the id is para_1
-        if len(article.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}paragraph")) == 1:
+            article_id = article.attrib['eId']
             
-            # Assign the paragraph_id
-            paragraph_id = "para_1"
-            
-            # Extract the paragraph
-            paragraph = article.find(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}paragraph")
-            
-            p_list = extract_p(article_id, paragraph_id, paragraph)            
-            
-            # Convert the list to a dataframe
-            p_list = pd.DataFrame(p_list, columns=['article_id', 'paragraph_id', 'p_id', 'text', 'insertions', 'references'])
-
-            # Append the dataframe to the paragraph_list
-            paragraph_list = pd.concat([paragraph_list, p_list], ignore_index=True)
-            
-            # Here we are missing: the p level, whether it is a list or not
-                        
-        # If there are multiple paragraphs, then loop through them
-        else:
-            # Loop through all the paragraphs
-            # Set up a counter for the paragraphs
-            paragraph_counter = 0
-            for paragraph in article.iter('{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}paragraph'):                
-                # If the paragraph is empty or has only a double parenthesis, then continue with the next paragraph
-                if extract_text(paragraph) == "((" or extract_text(paragraph) == "))":
-                    # Continue with the next paragraph
-                    continue                
+            # Check how many paragraphs are in the article.
+            # If there is only one, then the id is para_1
+            if len(article.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}paragraph")) == 1:
+                # Assign the paragraph_id
+                paragraph_id = "para_1"
+                # Extract the paragraph
+                paragraph = article.find(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}paragraph")
+                p_list = self.extract_p(article_id, paragraph_id, paragraph)
+                # Convert the list to a dataframe
+                p_list = pd.DataFrame(p_list, columns=['article_id', 'paragraph_id', 'p_id', 'text', 'insertions', 'references'])
+                # Append the dataframe to the paragraph_list
+                paragraph_list = pd.concat([paragraph_list, p_list], ignore_index=True)
+                
+            else:
+                # Loop through all the paragraphs
+                paragraph_counter = 0
+                for paragraph in article.iter('{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}paragraph'):
+                    # If the paragraph is empty or has only a double parenthesis, then continue with the next paragraph
+                    if self.extract_text(paragraph) == "((" or self.extract_text(paragraph) == "))":
+                        continue
                     
-                # If the paragraph has an eId, then use it
-                if paragraph.get('eId') is not None:
-                    paragraph_id = paragraph.attrib['eId'].split('__')[1]
-                    
-                    p_list = extract_p(article_id, paragraph_id, paragraph)            
-                    # Convert the list to a dataframe
-                    p_list = pd.DataFrame(p_list, columns=['article_id', 'paragraph_id', 'p_id', 'text', 'insertions', 'references'])
-
-                    # Append the dataframe to the paragraph_list
-                    paragraph_list = pd.concat([paragraph_list, p_list], ignore_index=True)
-
-                    # Increase the counter
-                    provisional_para = paragraph_id.split('_')[1]
-                    # If there is a - in the paragraph_id, then we need to split it
-                    if '-' in provisional_para:
-                        # @TODO: This is not working properly - it would be better to evaluate the various cases (bis, ter, quater)
-                        paragraph_counter = int(provisional_para.split('-')[0])
+                    if paragraph.get('eId') is not None:
+                        paragraph_id = paragraph.attrib['eId'].split('__')[1]
                     else:
-                        paragraph_counter = int(provisional_para)
-                else:
-                    # Increase the counter
-                    paragraph_counter += 1
-                    # Assign the paragraph_id
-                    paragraph_id = "para_" + str(paragraph_counter)
-                    p_list = extract_p(article_id, paragraph_id, paragraph)            
+                        # Increase the counter
+                        paragraph_counter += 1
+                        # Assign the paragraph_id
+                        paragraph_id = "para_" + str(paragraph_counter)
+                    
+                    p_list = self.extract_p(article_id, paragraph_id, paragraph)
                     # Convert the list to a dataframe
                     p_list = pd.DataFrame(p_list, columns=['article_id', 'paragraph_id', 'p_id', 'text', 'insertions', 'references'])
-
                     # Append the dataframe to the paragraph_list
                     paragraph_list = pd.concat([paragraph_list, p_list], ignore_index=True)
 
-    return paragraph_list
+        return paragraph_list
 
-
-def extract_p(article_id, paragraph_id, paragraph):
-    p_list = []
-    elements = paragraph.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}p")
-    # Loop through the elements with an index
-    for index, element in enumerate(elements):
-        # Assign the p_id
-        p_id = "p_" + str(index + 1)
-        p_text = extract_text(element)
-        insertions = get_insertions(element)
-        references = get_references(element)
-        p_info = build_line(article_id, paragraph_id, p_id, p_text, insertions, references)
-        p_list.append(p_info)
+    def extract_p(self, article_id, paragraph_id, paragraph):
+        p_list = []
+        elements = paragraph.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}p")
+        for index, element in enumerate(elements):
+            # Assign the p_id
+            p_id = "p_" + str(index + 1)
+            p_text = self.extract_text(element)
+            insertions = self.get_insertions(element)
+            references = self.get_references(element)
+            p_info = self.build_line(article_id, paragraph_id, p_id, p_text, insertions, references)
+            p_list.append(p_info)
+        
+        return p_list 
     
-    return p_list
-
-
-def create_dataframe(df, chapters):
-    # merge the chapter and df dataframes based on the article_id
-    df = pd.merge(df, chapters, on='article_id', how='left')
+    def build_line(self, article_id, paragraph_id, p_id, p_text, insertions, references):
+        line = {
+            'article_id': article_id,
+            'paragraph_id': paragraph_id,
+            'p_id': p_id,
+            'text': p_text,
+            'insertions': insertions,
+            'references': references,
+            # 'list': list
+        }
+        return line 
     
-    # order the columns
-    df = df[['chapter_id', 'chapter_heading', 'article_id', 'paragraph_id', 'p_id', 'text', 'insertions', 'references']]
+    def export_jsonl(self, path):
+        # Convert each row of the dataframe to a dictionary
+        dict = self.df.to_dict('records')    
+            
+        # For every element in the list, print as a row in the json file
+        with open(path, 'w') as outfile:
+            for entry in dict:
+                json.dump(entry, outfile)
+                outfile.write('\n')
+    
 
-    df.to_csv('data/csv/copyright_law.csv', index=False)
+    # Extract the text from an element, recursively
+    def extract_text(self, element):
+        if element.text is not None:
+            text = element.text.strip()
+        else:
+            text = ''
 
-    return df
+        for child in element:
+            child_text = self.extract_text(child)
+            text += ' ' + child_text.strip()
+
+            if child.tail is not None:
+                tail_text = child.tail.strip()
+                if tail_text:
+                    text += ' ' + tail_text
+
+        
+        return text.strip()
+    
+        
+    def get_references(self, paragraph):
+        references = []
+        for reference in paragraph.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}ref"):        
+            reference_id = reference.attrib['eId']
+            reference_link = reference.attrib['href']
+            reference_text = self.extract_text(reference)
+
+            # Add the reference to the list
+            references.append((reference_id, reference_link, reference_text))
+        return references
+
+            
+
+    def get_insertions(self, paragraph):
+        insertions = []
+        for insertion in paragraph.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}ins"):
+            insertion_id = insertion.attrib['eId']
+            insertion_text = self.extract_text(insertion)
+            insertions.append((insertion_id, insertion_text))
+        return insertions
+
+    def create_dataframe(self, df, chapters):
+        # merge the chapter and df dataframes based on the article_id
+        df = pd.merge(df, chapters, on='article_id', how='left')
+        
+        # order the columns
+        df = df[['chapter_id', 'chapter_heading', 'article_id', 'paragraph_id', 'p_id', 'text', 'insertions', 'references']]
+
+        df.to_csv('data/csv/copyright_law.csv', index=False)
+
+        return df
 
 
 def extract_sentences(df):
@@ -211,67 +226,5 @@ def save_separate_chapters(df):
 
 
 
-# Extract the text from an element, recursively
-def extract_text(element):
-    if element.text is not None:
-        text = element.text.strip()
-    else:
-        text = ''
-
-    for child in element:
-        child_text = extract_text(child)
-        text += ' ' + child_text.strip()
-
-        if child.tail is not None:
-            tail_text = child.tail.strip()
-            if tail_text:
-                text += ' ' + tail_text
-
-    
-    return text.strip()
-
-def build_line(article_id, paragraph_id, p_id, p_text, insertions, references):
-    line = {
-        'article_id': article_id,
-        'paragraph_id': paragraph_id,
-        'p_id': p_id,
-        'text': p_text,
-        'insertions': insertions,
-        'references': references,
-        #'list': list
-    }
-    return line
-
-def get_references(paragraph):
-    references = []
-    for reference in paragraph.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}ref"):        
-        reference_id = reference.attrib['eId']
-        reference_link = reference.attrib['href']
-        reference_text = extract_text(reference)
-
-        # Add the reference to the list
-        references.append((reference_id, reference_link, reference_text))
-    return references
-
-        
-
-def get_insertions(paragraph):
-    insertions = []
-    for insertion in paragraph.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}ins"):
-        insertion_id = insertion.attrib['eId']
-        insertion_text = extract_text(insertion)
-        insertions.append((insertion_id, insertion_text))
-    return insertions
 
 
-
-
-def export_jsonl(df, filename):
-    # Convert each row of the dataframe to a dictionary
-    dict = df.to_dict('records')    
-        
-    # For every element in the list, print as a row in the json file
-    with open(filename, 'w') as outfile:
-        for entry in dict:
-            json.dump(entry, outfile)
-            outfile.write('\n')

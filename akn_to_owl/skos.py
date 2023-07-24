@@ -26,12 +26,13 @@ def parse_skos(file_path):
     # Get the concepts that have at least another concept under them
     qres = g.query(
         """
-       SELECT DISTINCT ?topConcept ?label ?p
-        WHERE {
-            ?s skos:hasTopConcept ?topConcept .
-            ?topConcept skos:prefLabel ?label .
-            FILTER (lang(?label) = 'en')
+       SELECT DISTINCT ?s ?label ?p ?o      
+         WHERE {
+            ?s a skos:Concept .
+            ?s skos:prefLabel ?label .
+            FILTER (lang(?prefLabel) = 'en')
             ?s ?p ?o .
+              FILTER NOT EXISTS { ?x skos:topConceptOf ?s . }
         }
         """,
         initNs={"skos": SKOS}
@@ -43,7 +44,7 @@ def parse_skos(file_path):
         print(row)
 
         # Each row consists of three parts: the subject (s), label (prefLabel in English), and the predicate (p)
-        s, label, p = row
+        s, label, p, o = row
 
         # Converting subject URI (an rdflib term) into a Python string for easy handling
         uri = s.toPython()
@@ -95,7 +96,7 @@ def skos_to_json():
     """ 
     Main function to parse SKOS file and write the extracted data to files.
     """
-    top_classes = parse_skos('data/skos/eurovoc_in_skos_core_concepts.rdf')
+    top_classes = parse_skos('data/skos/access-right-skos.rdf')
     if top_classes:
         top_classes = enrich_json(top_classes)
         write_to_file(top_classes, 'data/span/skos.json')
