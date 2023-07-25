@@ -1,0 +1,298 @@
+[
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/APR",
+        "prefix": "timeperiod",
+        "text": "timeperiod:April",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/APR",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/AUG",
+        "prefix": "timeperiod",
+        "text": "timeperiod:August",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/AUG",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/AUTUMN",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Autumn",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/AUTUMN",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/CALENDAR_DAY",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Calendar day",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/CALENDAR_DAY",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/DAY",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Day",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/DAY",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/DEC",
+        "prefix": "timeperiod",
+        "text": "timeperiod:December",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/DEC",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/FEB",
+        "prefix": "timeperiod",
+        "text": "timeperiod:February",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/FEB",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/FRI",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Friday",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/FRI",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/YEAR_HALF",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Half year",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/YEAR_HALF",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/HOUR",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Hour",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/HOUR",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/JAN",
+        "prefix": "timeperiod",
+        "text": "timeperiod:January",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/JAN",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/JUL",
+        "prefix": "timeperiod",
+        "text": "timeperiod:July",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/JUL",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/JUN",
+        "prefix": "timeperiod",
+        "text": "timeperiod:June",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/JUN",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/MAR",
+        "prefix": "timeperiod",
+        "text": "timeperiod:March",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/MAR",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/MAY",
+        "prefix": "timeperiod",
+        "text": "timeperiod:May",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/MAY",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/MIN",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Minute",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/MIN",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/MON",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Monday",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/MON",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/MONTH",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Month",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/MONTH",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/NOV",
+        "prefix": "timeperiod",
+        "text": "timeperiod:November",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/NOV",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/OCT",
+        "prefix": "timeperiod",
+        "text": "timeperiod:October",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/OCT",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/OP_DATPRO",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Provisional data",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/OP_DATPRO",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/QUARTER",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Quarter",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/QUARTER",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/SAT",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Saturday",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/SAT",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/SEC",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Second",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/SEC",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/SEP",
+        "prefix": "timeperiod",
+        "text": "timeperiod:September",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/SEP",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/SPRING",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Spring",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/SPRING",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/SUMMER",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Summer",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/SUMMER",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/SUN",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Sunday",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/SUN",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/THU",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Thursday",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/THU",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/TUE",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Tuesday",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/TUE",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/UNKNOWN",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Unknown",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/UNKNOWN",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/UNLIMITED",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Unlimited",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/UNLIMITED",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/WED",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Wednesday",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/WED",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/WEEK",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Week",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/WEEK",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/WINTER",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Winter",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/WINTER",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/WORKING_DAY",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Working day",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/WORKING_DAY",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/timeperiod/YEAR",
+        "prefix": "timeperiod",
+        "text": "timeperiod:Year",
+        "suffix_key": "http://publications.europa.eu/resource/authority/timeperiod/YEAR",
+        "background_color": "#9593951",
+        "text_color": "#ffffff"
+    }
+]

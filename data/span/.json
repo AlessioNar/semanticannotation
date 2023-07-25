@@ -1,0 +1,240 @@
+[
+    {
+        "text": "rights:EconomicRights",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights",
+        "background_color": "#e359af",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights"
+    },
+    {
+        "text": "rights:PrivateCopyException",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#PrivateCopyException",
+        "background_color": "#c64001",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#PrivateCopyException"
+    },
+    {
+        "text": "rights:IntegrityRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#IntegrityRight",
+        "background_color": "#dfd067",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#IntegrityRight"
+    },
+    {
+        "text": "rights:TranslationRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TranslationRight",
+        "background_color": "#be3f02",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TranslationRight"
+    },
+    {
+        "text": "rights:AdaptationRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#AdaptationRight",
+        "background_color": "#7b516a",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#AdaptationRight"
+    },
+    {
+        "text": "rights:MotionPictureRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MotionPictureRight",
+        "background_color": "#c368db",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MotionPictureRight"
+    },
+    {
+        "text": "rights:AttributionRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#AttributionRight",
+        "background_color": "#99154c",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#AttributionRight"
+    },
+    {
+        "text": "rights:FixationRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#FixationRight",
+        "background_color": "#c157f7",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#FixationRight"
+    },
+    {
+        "text": "rights:DistributionRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DistributionRight",
+        "background_color": "#442b81",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DistributionRight"
+    },
+    {
+        "text": "rights:MoralRights",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights",
+        "background_color": "#f03a51",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights"
+    },
+    {
+        "text": "rights:ParodyException",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ParodyException",
+        "background_color": "#954e4e",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ParodyException"
+    },
+    {
+        "text": "rights:BroadcastersRights",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#BroadcastersRights",
+        "background_color": "#feb5cc",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#BroadcastersRights"
+    },
+    {
+        "text": "rights:BroadcastingRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#BroadcastingRight",
+        "background_color": "#584f10",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#BroadcastingRight"
+    },
+    {
+        "text": "rights:ReportingException",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ReportingException",
+        "background_color": "#a89e38",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ReportingException"
+    },
+    {
+        "text": "rights:SynchronizationRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#SynchronizationRight",
+        "background_color": "#4479c7",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#SynchronizationRight"
+    },
+    {
+        "text": "rights:PublicPerformanceRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#PublicPerformanceRight",
+        "background_color": "#088e7d",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#PublicPerformanceRight"
+    },
+    {
+        "text": "rights:ReproductionRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ReproductionRight",
+        "background_color": "#985aa8",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ReproductionRight"
+    },
+    {
+        "text": "rights:PerformersRights",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#PerformersRights",
+        "background_color": "#efbef4",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#PerformersRights"
+    },
+    {
+        "text": "rights:EducationOrResearchException",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EducationOrResearchException",
+        "background_color": "#66690a",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EducationOrResearchException"
+    },
+    {
+        "text": "rights:TemporaryReproductionException",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TemporaryReproductionException",
+        "background_color": "#4c25be",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TemporaryReproductionException"
+    },
+    {
+        "text": "rights:OfficialActException",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#OfficialActException",
+        "background_color": "#a24532",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#OfficialActException"
+    },
+    {
+        "text": "rights:WithdrawalRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#WithdrawalRight",
+        "background_color": "#76e5e6",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#WithdrawalRight"
+    },
+    {
+        "text": "rights:Copyright",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#Copyright",
+        "background_color": "#e6492e",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#Copyright"
+    },
+    {
+        "text": "rights:RentalRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight",
+        "background_color": "#3b915b",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight"
+    },
+    {
+        "text": "rights:DisclosureRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DisclosureRight",
+        "background_color": "#08a968",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DisclosureRight"
+    },
+    {
+        "text": "rights:RelatedRights",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RelatedRights",
+        "background_color": "#75fb36",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RelatedRights"
+    },
+    {
+        "text": "rights:ProducersRights",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ProducersRights",
+        "background_color": "#f5b89c",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ProducersRights"
+    },
+    {
+        "text": "rights:MakingAvailableRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MakingAvailableRight",
+        "background_color": "#aeb9a5",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MakingAvailableRight"
+    },
+    {
+        "text": "rights:TransformationRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TransformationRight",
+        "background_color": "#cfd972",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TransformationRight"
+    },
+    {
+        "text": "rights:CommunicationRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight",
+        "background_color": "#58c814",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight"
+    },
+    {
+        "text": "rights:SoundRecordingRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#SoundRecordingRight",
+        "background_color": "#5a6eb2",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#SoundRecordingRight"
+    },
+    {
+        "text": "rights:CopyrightExceptions",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CopyrightExceptions",
+        "background_color": "#01d27a",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CopyrightExceptions"
+    },
+    {
+        "text": "rights:ImportationRight",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ImportationRight",
+        "background_color": "#5c2b21",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ImportationRight"
+    },
+    {
+        "text": "rights:QuotationException",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#QuotationException",
+        "background_color": "#e6a6a7",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#QuotationException"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "creation:Instance",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Instance",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Instance"
+    },
+    {
+        "text": "creation:AudiovisualRecording",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#AudiovisualRecording",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#AudiovisualRecording"
+    },
+    {
+        "text": "creation:Improvisation",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Improvisation",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Improvisation"
+    },
+    {
+        "text": "creation:Communication",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Communication",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Communication"
+    },
+    {
+        "text": "creation:Manifestation",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Manifestation",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Manifestation"
+    },
+    {
+        "text": "creation:LiveCommunication",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#LiveCommunication",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#LiveCommunication"
+    },
+    {
+        "text": "creation:Work",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Work",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Work"
+    },
+    {
+        "text": "creation:Recording",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Recording",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Recording"
+    },
+    {
+        "text": "creation:Performance",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Performance",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Performance"
+    },
+    {
+        "text": "creation:SoundRecording",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#SoundRecording",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#SoundRecording"
+    },
+    {
+        "text": "schema1:Intangible",
+        "suffix_key": "http://schema.org/Intangible",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "http://schema.org/Intangible"
+    },
+    {
+        "text": "schema1:Event",
+        "suffix_key": "http://schema.org/Event",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "http://schema.org/Event"
+    },
+    {
+        "text": "schema1:CreativeWork",
+        "suffix_key": "http://schema.org/CreativeWork",
+        "background_color": "#7aa3da",
+        "text_color": "#ffffff",
+        "uri": "http://schema.org/CreativeWork"
+    }
+]

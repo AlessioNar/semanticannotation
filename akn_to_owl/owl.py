@@ -37,7 +37,7 @@ class OntologyParser:
 
     def get_classes(self):
         classes = []
-
+        color = self.random_color()
         for subject in self.graph.subjects():
             if isinstance(subject, rdflib.term.URIRef) and (subject, RDF.type, OWL.Class) in self.graph:
                 class_name = self.get_prefix(subject)
@@ -46,7 +46,7 @@ class OntologyParser:
                     classes.append({
                         "text": class_name,
                         "suffix_key": str(subject),
-                        "background_color": self.random_color(),
+                        "background_color": color,
                         "text_color": "#ffffff",
                         "uri": str(subject)
                     })
@@ -55,10 +55,10 @@ class OntologyParser:
 
     def get_properties(self):
         properties = []
+        color = self.random_color()
 
         for s, p, o in self.graph.triples((None, rdflib.RDF.type, rdflib.OWL.ObjectProperty)):
-            if isinstance(s, rdflib.term.URIRef):
-                color = self.shade_color(properties[o]['background_color'], -10) if o in properties else self.random_color()
+            if isinstance(s, rdflib.term.URIRef):                
 
                 property_name = f"{self.get_prefix(s)}"
 
@@ -73,18 +73,22 @@ class OntologyParser:
 
         return properties
 
-    def ontojson(self):
-        return self.get_classes(), self.get_properties()
+    def parse_owl(self):
+        self.classes = self.get_classes()
+        self.properties = self.get_properties()
 
+        return self
 
-def owl_to_json(path):
-    parser = OntologyParser(path)
-    classes, properties = parser.ontojson()
-
-    if classes:
-        with open('data/span/classes.json', 'w') as f:
-            json.dump(classes, f, indent=4)
     
-    if properties:
-        with open('data/span/properties.json', 'w') as f:
-            json.dump(properties, f, indent=4)
+    def write_to_file(self, file_name):
+
+        if self.classes:
+            with open('data/span/' + file_name + '.json', 'w') as f:
+                json.dump(self.classes, f, indent=4)
+    
+        if self.properties:
+            with open('data/relations/'+ file_name + '.json', 'w') as f:
+                json.dump(self.properties, f, indent=4)
+
+
+    
