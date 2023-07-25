@@ -9,16 +9,55 @@ class LynxDocument:
     NIF = Namespace("http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#")
     DCT = Namespace("http://purl.org/dc/terms/")
     ITSRDF = Namespace("http://www.w3.org/2005/11/its/rdf#")
+    AKN = Namespace("http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13")
 
     def __init__(self, base_uri):
+        
         self.base_uri = base_uri
         self.g = self.initialize_graph()
+
+    def convert_akn_elements(self):
+
+        # Read the json file akn_elements.json as a tuple of (text, uri)
+        with open('data/json/akn_elements.json', 'r') as file:
+            # Read the json file akn_elements.json as a tuple of (text, uri)
+            self.akn_elements = json.load(file)
+
+        vocabulary = self.akn_elements.keys()
+        uris = self.akn_elements.values()
+        self.akn_elements = list(zip(vocabulary, uris))
+        # Save them as akomantoso.jsonl in the data directory
+        json_list = []
+        for element in self.akn_elements:
+           # Create json object
+            json_obj = {
+                'text': element[0],
+                'suffix_key': element[1],
+                'background_color': '#FF0000',
+                'font_color': '#FFFFFF'
+          }
+        
+            json_list.append(json_obj)
+        
+        with open('data/span/akomantoso.json', 'w') as outfile:
+            json.dump(json_list, outfile)           
+        
+        return self.akn_elements
 
     def initialize_graph(self):
         # Create an RDF graph
         g = Graph()
 
+        akomantoso = doc.convert_akn_elements()
+        # Load akomantoso into the graph
+            
+        # Load akn_elements into the graph
+        #for element in self.akn_elements:
+        #    g.add((URIRef(element['uri']), RDF.type, URIRef(element['type'])))
+        #    g.add((URIRef(element['uri']), RDFS.label, Literal(element['label'])))
+
         # Bind prefixes
+        g.bind("akn", self.AKN)
         g.bind("eli", self.ELI)
         g.bind("dct", self.DCT)
         g.bind("nif", self.NIF)
@@ -42,7 +81,7 @@ class LynxDocument:
         self.g.add((metadata, self.ELI.id_local, Literal("doc_" + str(json_obj['id']))))
         
         # I do not know whether ELI actually supports identifiers at the paragraph level or whether it is Akoma Ntoso that does
-        self.g.add((metadata, self.ELI.article, Literal(json_obj['article_id'])))
+        self.g.add((metadata, self.ELI.has_part, Literal(json_obj['article_id'])))
         self.g.add((metadata, self.ELI.chapter, Literal(json_obj['chapter_id'])))
         self.g.add((metadata, self.ELI.paragraph, Literal(json_obj['paragraph_id'])))
 
@@ -53,6 +92,7 @@ class LynxDocument:
         
         # Create the document URI
         doc_uri = self.doc_uri(json_obj)
+        
 
         # Add the document URI to the graph
         self.g.add((doc_uri, RDF.type, self.NIF.Context))

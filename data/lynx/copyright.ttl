@@ -6,7 +6,7 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://example.com/doc_1269#offset_0_620> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1269#offset_0_620> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf """Sono protette ai sensi di questa legge le opere dell'ingegno di carattere creativo che appartengono alla letteratura, alla musica, alle arti figurative, all'architettura, al teatro ed alla cinematografia, qualunque ne sia il modo o la forma di espressione. 
  
@@ -29,9 +29,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "620"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1269> .
+    nif:referenceContext <http://italian-copyright.it/doc_1269> .
 
-<http://example.com/doc_1270#offset_1426_1792> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_1426_1792> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Le banche di dati di cui al secondo comma dell'articolo 1, intese come raccolte di opere, dati o altri elementi indipendenti sistematicamente o metodicamente disposti ed individualmente accessibili mediante mezzi elettronici o in altro modo. La tutela delle banche di dati non si estende al loro contenuto e lascia impregiudicati diritti esistenti su tale contenuto." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -42,9 +42,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "1426"^^xsd:nonNegativeInteger ;
     nif:endIndex "1792"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_171_322> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_171_322> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "le opere e le composizioni musicali, con o senza parole, le opere drammatico-musicali e le variazioni musicali costituenti di per se' opera originale; " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -55,9 +55,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "171"^^xsd:nonNegativeInteger ;
     nif:endIndex "322"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_1798_1895> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_1798_1895> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " Le opere del disegno industriale che presentino di per se' carattere creativo e valore artistico" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -68,9 +68,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "1798"^^xsd:nonNegativeInteger ;
     nif:endIndex "1895"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_326_428> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_326_428> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " le opere coreografiche e pantomimiche, delle quali sia fissata la traccia per iscritto o altrimenti; " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -81,9 +81,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "326"^^xsd:nonNegativeInteger ;
     nif:endIndex "428"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_433_571> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_433_571> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "le opere della scultura, della pittura, dell'arte del disegno, della incisione e delle arti figurative similari, compresa la scenografia; " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -94,9 +94,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "433"^^xsd:nonNegativeInteger ;
     nif:endIndex "571"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_52_166> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_52_166> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "le opere letterarie, drammatiche, scientifiche, didattiche, religiose, tanto se in forma scritta quanto se orale; " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -107,9 +107,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "52"^^xsd:nonNegativeInteger ;
     nif:endIndex "166"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_575_616> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_575_616> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " i disegni e le opere dell'architettura; " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -120,9 +120,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "575"^^xsd:nonNegativeInteger ;
     nif:endIndex "616"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_621_788> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_621_788> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "le opere dell'arte cinematografica, muta o sonora, sempreche' non si tratti di semplice documentazione protetta ai sensi delle norme del capo quinto del titolo secondo" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -133,9 +133,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "621"^^xsd:nonNegativeInteger ;
     nif:endIndex "788"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_794_989> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_794_989> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " le opere fotografiche e quelle espresse con procedimento analogo a quello della fotografia sempre che non si tratti di semplice fotografia protetta ai sensi delle norme del capo V del titolo II." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -146,9 +146,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "794"^^xsd:nonNegativeInteger ;
     nif:endIndex "989"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1270#offset_994_1125> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1270#offset_994_1125> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " i programmi per elaboratore, in qualsiasi forma espressi purche' originali quale risultato di creazione intellettuale dell'autore." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -159,12 +159,12 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "994"^^xsd:nonNegativeInteger ;
     nif:endIndex "1125"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1270> .
+    nif:referenceContext <http://italian-copyright.it/doc_1270> .
 
-<http://example.com/doc_1271> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1271> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_28" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_28" ;
             eli:id_local "doc_1271" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -172,10 +172,10 @@
     nif:endIndex "18"^^xsd:nonNegativeInteger ;
     nif:isString "-------------------" .
 
-<http://example.com/doc_1272> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1272> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_28" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_28" ;
             eli:id_local "doc_1272" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -183,7 +183,7 @@
     nif:endIndex "17"^^xsd:nonNegativeInteger ;
     nif:isString "AGGIORNAMENTO (26)" .
 
-<http://example.com/doc_1274#offset_0_487> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1274#offset_0_487> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Le opere collettive, costituite dalla riunione di opere o di parti di opere, che hanno carattere di creazione autonoma, come risultato della scelta e del coordinamento ad un determinato fine letterario, scientifico, didattico, religioso, politico od artistico, quali le enciclopedie, i dizionari, le antologie, le riviste e i giornali, sono protette come opere originali, indipendentemente e senza pregiudizio dei diritti di autore sulle opere o sulle parti di opere di cui sono composte" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -194,9 +194,9 @@
             ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "487"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1274> .
+    nif:referenceContext <http://italian-copyright.it/doc_1274> .
 
-<http://example.com/doc_1275#offset_0_431> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1275#offset_0_431> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Senza pregiudizio dei diritti esistenti sull'opera originaria, sono altresi' protette le elaborazioni di carattere creativo dell'opera stessa, quali le traduzioni in altra lingua, le trasformazioni da una in altra forma letteraria od artistica, le modificazioni ed aggiunte che costituiscono un rifacimento sostanziale dell'opera originaria, gli adattamenti, le riduzioni, i compendi, le variazioni non costituenti opera originale." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -207,9 +207,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Manifestation> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "431"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1275> .
+    nif:referenceContext <http://italian-copyright.it/doc_1275> .
 
-<http://example.com/doc_1276#offset_0_153> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1276#offset_0_153> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Le disposizioni di questa legge non si applicano ai testi degli atti ufficiali dello stato e delle Amministrazioni pubbliche, sia italiane che straniere." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -220,9 +220,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#OfficialActException> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "153"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1276> .
+    nif:referenceContext <http://italian-copyright.it/doc_1276> .
 
-<http://example.com/doc_1277#offset_77_154> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1277#offset_77_154> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "creazione dell'opera, quale particolare espressione del lavoro intellettuale." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -233,9 +233,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Manifestation> ] ;
     nif:beginIndex "77"^^xsd:nonNegativeInteger ;
     nif:endIndex "154"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1277> .
+    nif:referenceContext <http://italian-copyright.it/doc_1277> .
 
-<http://example.com/doc_1278#offset_0_99> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1278#offset_0_99> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "E' considerato autore dell'opera collettiva chi organizza e dirige la creazione dell'opera stessa. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -245,9 +245,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "99"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1278> .
+    nif:referenceContext <http://italian-copyright.it/doc_1278> .
 
-<http://example.com/doc_1278#offset_103_185> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1278#offset_103_185> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "E' considerato autore delle elaborazioni l'elaboratore, nei limiti del suo lavoro." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -257,9 +257,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "103"^^xsd:nonNegativeInteger ;
     nif:endIndex "185"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1278> .
+    nif:referenceContext <http://italian-copyright.it/doc_1278> .
 
-<http://example.com/doc_1279#offset_0_29> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1279#offset_0_29> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "E' reputato autore dell'opera" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -269,9 +269,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "29"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1279> .
+    nif:referenceContext <http://italian-copyright.it/doc_1279> .
 
-<http://example.com/doc_1279#offset_140_224> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1279#offset_140_224> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "nella recitazione, esecuzione, rappresentazione o radiodiffusione dell'opera stessa." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -282,9 +282,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Performance> ] ;
     nif:beginIndex "140"^^xsd:nonNegativeInteger ;
     nif:endIndex "224"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1279> .
+    nif:referenceContext <http://italian-copyright.it/doc_1279> .
 
-<http://example.com/doc_1279#offset_229_377> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1279#offset_229_377> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Valgono come nome lo pseudonimo, il nome d'arte, la sigla o il segno convenzionale, che siano notoriamente conosciuti come equivalenti al nome vero." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -294,12 +294,12 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "229"^^xsd:nonNegativeInteger ;
     nif:endIndex "377"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1279> .
+    nif:referenceContext <http://italian-copyright.it/doc_1279> .
 
-<http://example.com/doc_1280> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1280> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_9" ;
-            eli:chapter "chp_II" ;
+    lkg:metadata [ eli:chapter "chp_II" ;
+            eli:has_part "art_9" ;
             eli:id_local "doc_1280" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -309,7 +309,7 @@
  
  Questa disposizione non si applica allorche' si tratti degli pseudonimi indicati nel secondo comma dell'articolo precedente.""" .
 
-<http://example.com/doc_1281#offset_0_156> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1281#offset_0_156> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Se l'opera e' stata creata con il contributo indistinguibile ed inscindibile di piu' persone, il diritto di autore appartiene in comune a tutti i coautori. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -319,9 +319,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "156"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1281> .
+    nif:referenceContext <http://italian-copyright.it/doc_1281> .
 
-<http://example.com/doc_1281#offset_320_606> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1281#offset_320_606> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " La difesa del diritto morale puo' peraltro essere sempre esercitata individualmente da ciascun coautore e l'opera non puo' essere pubblicata, se inedita, ne' puo' essere modificata o utilizzata in forma diversa da quella della prima pubblicazione, senza l'accordo di tutti i coautori. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -332,9 +332,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "320"^^xsd:nonNegativeInteger ;
     nif:endIndex "606"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1281> .
+    nif:referenceContext <http://italian-copyright.it/doc_1281> .
 
-<http://example.com/doc_1281#offset_606_850> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1281#offset_606_850> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Tuttavia, in caso di ingiustificato rifiuto di uno o piu' coautori, la pubblicazione, la modificazione o la nuova utilizzazione dell'opera puo' essere autorizzata dall'autorita' giudiziaria, alle condizioni e con le modalita' da essa stabilite." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -345,9 +345,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "606"^^xsd:nonNegativeInteger ;
     nif:endIndex "850"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1281> .
+    nif:referenceContext <http://italian-copyright.it/doc_1281> .
 
-<http://example.com/doc_1282#offset_0_197> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1282#offset_0_197> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Alle Amministrazioni dello Stato, al Partito Nazionale Fascista, alle Provincie ed ai Comuni spetta il diritto di autore sulle opere create e pubblicate sotto il loro nome ed a loro conto e spese. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -357,9 +357,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "197"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1282> .
+    nif:referenceContext <http://italian-copyright.it/doc_1282> .
 
-<http://example.com/doc_1282#offset_201_456> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1282#offset_201_456> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Lo stesso diritto spetta agli enti privati che non perseguano scopi di lucro, salvo diverso accordo con gli autori delle opere pubblicate, nonche' alle Accademie e agli altri enti pubblici culturali sulla raccolta dei loro atti e sulle loro pubblicazioni." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -369,9 +369,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "201"^^xsd:nonNegativeInteger ;
     nif:endIndex "456"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1282> .
+    nif:referenceContext <http://italian-copyright.it/doc_1282> .
 
-<http://example.com/doc_1283#offset_0_56> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1283#offset_0_56> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "L'autore ha il diritto esclusivo di pubblicare l'opera. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -382,9 +382,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#Copyright> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "56"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1283> .
+    nif:referenceContext <http://italian-copyright.it/doc_1283> .
 
-<http://example.com/doc_1283#offset_304_401> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1283#offset_304_401> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "E' considerata come prima pubblicazione la prima forma di esercizio del diritto di utilizzazione." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -395,9 +395,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Manifestation> ] ;
     nif:beginIndex "304"^^xsd:nonNegativeInteger ;
     nif:endIndex "401"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1283> .
+    nif:referenceContext <http://italian-copyright.it/doc_1283> .
 
-<http://example.com/doc_1283#offset_60_300> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1283#offset_60_300> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Ha altresi' il diritto esclusivo di utilizzare economicamente l'opera in ogni forma e modo, originale o derivato, nei limiti fissati da questa legge, ed in particolare con l'esercizio dei diritti esclusivi indicati negli articoli seguenti. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -408,9 +408,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "60"^^xsd:nonNegativeInteger ;
     nif:endIndex "300"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1283> .
+    nif:referenceContext <http://italian-copyright.it/doc_1283> .
 
-<http://example.com/doc_1284#offset_1_284> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1284#offset_1_284> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "(Salvo patto contrario, il datore di lavoro e' titolare del diritto esclusivo di utilizzazione economica del programma per elaboratore o della banca di dati creati dal lavoratore dipendente nell'esecuzione delle sue mansioni o su istruzioni impartite dallo stesso datore di lavoro.))" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -421,9 +421,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "1"^^xsd:nonNegativeInteger ;
     nif:endIndex "284"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1284> .
+    nif:referenceContext <http://italian-copyright.it/doc_1284> .
 
-<http://example.com/doc_1285#offset_2_229> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1285#offset_2_229> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Salvo patto contrario, qualora un'opera di disegno industriale sia creata dal lavoratore dipendente nell'esercizio delle sue mansioni, il datore di lavoro e' titolare dei diritti esclusivi di utilizzazione economica dell'opera." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -434,9 +434,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "2"^^xsd:nonNegativeInteger ;
     nif:endIndex "229"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1285> .
+    nif:referenceContext <http://italian-copyright.it/doc_1285> .
 
-<http://example.com/doc_1286#offset_0_339> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1286#offset_0_339> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto esclusivo di riprodurre ha per oggetto la moltiplicazione in copie diretta o indiretta, temporanea o permanente, in tutto o in parte dell'opera, in qualunque modo o forma, come la copiatura a mano, la stampa, la litografia, l'incisione, la fotografia, la fonografia, la cinematografia ed ogni altro procedimento di riproduzione." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -447,9 +447,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ReproductionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "339"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1286> .
+    nif:referenceContext <http://italian-copyright.it/doc_1286> .
 
-<http://example.com/doc_1287#offset_0_182> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1287#offset_0_182> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto esclusivo di trascrivere ha per oggetto l'uso dei mezzi atti a trasformare l'opera orale in opera scritta o riprodotta con uno dei mezzi indicati nell'articolo precedente." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -460,9 +460,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#FixationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "182"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1287> .
+    nif:referenceContext <http://italian-copyright.it/doc_1287> .
 
-<http://example.com/doc_1288#offset_0_335> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1288#offset_0_335> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto esclusivo di eseguire, rappresentare o recitare in pubblico ha per oggetto, la esecuzione, la rappresentazione o la recitazione, comunque effettuate, sia gratuitamente che a pagamento, dell'opera musicale, dell'opera drammatica, dell'opera cinematografica, di qualsiasi altra opera di pubblico spettacolo e dell'opera orale." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -473,9 +473,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#PublicPerformanceRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "335"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1288> .
+    nif:referenceContext <http://italian-copyright.it/doc_1288> .
 
-<http://example.com/doc_1288#offset_339_920> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1288#offset_339_920> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " Non e' considerata pubblica la esecuzione, rappresentazione o recitazione dell'opera entro la cerchia ordinaria della famiglia, del convitto, della scuola o dell'istituto di ricovero, purche' non effettuata a scopo di lucro. ((Non e' considerata pubblica la recitazione di opere letterarie effettuata, senza scopo di lucro, all'interno di musei, archivi e biblioteche pubblici ai fini esclusivi di promozione culturale e di valorizzazione delle opere stesse individuati in base a protocolli di intesa tra la SIAE e il Ministero dei beni e delle attivita' culturali e del turismo))" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -486,9 +486,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Performance> ] ;
     nif:beginIndex "339"^^xsd:nonNegativeInteger ;
     nif:endIndex "920"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1288> .
+    nif:referenceContext <http://italian-copyright.it/doc_1288> .
 
-<http://example.com/doc_1289#offset_0_592> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1289#offset_0_592> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Agli autori spetta un compenso ridotto quando l'esecuzione, rappresentazione o recitazione dell'opera avvengono nella sede dei centri o degli istituti di assistenza, formalmente istituiti nonche' delle associazioni di volontariato, purche' destinate ai soli soci ed invitati e sempre che non vengano effettuate a scopo di lucro. In mancanza di accordi fra la Societa' italiana degli autori ed editori (SIAE) e le associazioni di categoria interessate, la misura del compenso sara' determinata con decreto del Presidente del Consiglio dei Ministri, da emanare sentito il Ministro dell'interno." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -499,9 +499,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto.owl#PerformInPublic> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "592"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1289> .
+    nif:referenceContext <http://italian-copyright.it/doc_1289> .
 
-<http://example.com/doc_1300#offset_0_564> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1300#offset_0_564> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto esclusivo di comunicazione al pubblico su filo o senza filo dell'opera ha per oggetto l'impiego di uno dei mezzi di diffusione a distanza, quali il telegrafo, il telefono, la radio, la televisione ed altri mezzi analoghi e comprende la comunicazione al pubblico via satellite, la ritrasmissione ((...)) , nonche' le comunicazioni al pubblico codificate con condizioni particolari di accesso; comprende, altresi', la messa a disposizione del pubblico dell'opera in maniera che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -512,9 +512,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "564"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1300> .
+    nif:referenceContext <http://italian-copyright.it/doc_1300> .
 
-<http://example.com/doc_1301#offset_0_150> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1301#offset_0_150> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto di cui al comma 1 non si esaurisce con alcun atto di comunicazione al pubblico, ivi compresi gli atti di messa a disposizione del pubblico." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -525,9 +525,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "150"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1301> .
+    nif:referenceContext <http://italian-copyright.it/doc_1301> .
 
-<http://example.com/doc_1309#offset_0_166> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1309#offset_0_166> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "La ritrasmissione di programmi televisivi o radiofonici ai sensi del presente articolo e' autorizzata dai titolari del diritto esclusivo di comunicazione al pubblico." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -538,9 +538,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "166"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1309> .
+    nif:referenceContext <http://italian-copyright.it/doc_1309> .
 
-<http://example.com/doc_1310#offset_0_338> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1310#offset_0_338> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "I titolari del diritto d'autore e dei diritti connessi diversi dagli organismi di diffusione radiotelevisiva esercitano il diritto di concedere o rifiutare l'autorizzazione per una ritrasmissione all'operatore di un servizio di ritrasmissione che intenda acquisirne i diritti esclusivamente attraverso un organismo di gestione collettiva." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -551,9 +551,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "338"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1310> .
+    nif:referenceContext <http://italian-copyright.it/doc_1310> .
 
-<http://example.com/doc_1310#offset_305_338> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1310#offset_305_338> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "organismo di gestione collettiva." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -563,9 +563,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "305"^^xsd:nonNegativeInteger ;
     nif:endIndex "338"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1310> .
+    nif:referenceContext <http://italian-copyright.it/doc_1310> .
 
-<http://example.com/doc_1311#offset_0_215> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1311#offset_0_215> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Gli organismi di gestione collettiva di cui al presente articolo devono essere in possesso dei requisiti di cui all' articolo 8 del decreto legislativo 15 marzo 2017, n. 35 , e operare ai sensi del medesimo decreto." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -575,9 +575,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "215"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1311> .
+    nif:referenceContext <http://italian-copyright.it/doc_1311> .
 
-<http://example.com/doc_1313#offset_0_561> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1313#offset_0_561> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "I titolari dei diritti che non hanno conferito mandato a un organismo di gestione collettiva hanno gli stessi diritti e obblighi dei titolari che hanno conferito mandato all'organismo di gestione collettiva che ha stipulato un accordo con l'operatore del servizio di ritrasmissione. I titolari che non hanno conferito mandato a un organismo di gestione collettiva possono esercitare i diritti esclusivi di comunicazione al pubblico entro il termine di tre anni decorrenti dalla data della ritrasmissione che comprende la propria opera o altro materiale protetto" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -587,9 +587,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "561"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1313> .
+    nif:referenceContext <http://italian-copyright.it/doc_1313> .
 
-<http://example.com/doc_1314#offset_0_322> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1314#offset_0_322> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Quando l'emissione primaria proviene da un altro Stato membro dell'Unione europea e l'operatore del servizio di ritrasmissione intende acquisire i diritti di ritrasmissione per il territorio italiano, l'autorizzazione alla ritrasmissione e' rilasciata dagli organismi di gestione collettiva nazionali ai sensi del comma 5." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -599,9 +599,9 @@
             ns1:taConfidence 1 ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "322"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1314> .
+    nif:referenceContext <http://italian-copyright.it/doc_1314> .
 
-<http://example.com/doc_1332#offset_0_415> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1332#offset_0_415> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto esclusivo di distribuzione ha per oggetto la messa in commercio o in circolazione, o comunque a disposizione, del pubblico, con qualsiasi mezzo ed a qualsiasi titolo, dell'originale dell'opera o degli esemplari di essa e comprende, altresi', il diritto esclusivo di introdurre nel territorio degli Stati della Comunita' europea, a fini di distribuzione, le riproduzioni fatte negli Stati extracomunitari." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -612,9 +612,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DistributionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "415"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1332> .
+    nif:referenceContext <http://italian-copyright.it/doc_1332> .
 
-<http://example.com/doc_1333#offset_0_275> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1333#offset_0_275> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto di distribuzione dell'originale o di copie dell'opera non si esaurisce nella Comunita' europea, se non nel caso in cui la prima vendita o il primo atto di trasferimento della proprieta' nella Comunita' sia effettuato dal titolare del diritto o con il suo consenso." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -625,9 +625,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DistributionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "275"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1333> .
+    nif:referenceContext <http://italian-copyright.it/doc_1333> .
 
-<http://example.com/doc_1334#offset_0_255> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1334#offset_0_255> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Quanto disposto dal comma 2 non si applica alla messa a disposizione del pubblico di opere in modo che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente, anche nel caso in cui sia consentita la realizzazione di copie dell'opera." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -638,9 +638,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DistributionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "255"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1334> .
+    nif:referenceContext <http://italian-copyright.it/doc_1334> .
 
-<http://example.com/doc_1335#offset_0_262> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1335#offset_0_262> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Ai fini dell'esaurimento di cui al comma 2, non costituisce esercizio del diritto esclusivo di distribuzione la consegna gratuita di esemplari delle opere, effettuata o consentita dal titolare a fini promozionali, ovvero di insegnamento o di ricerca scientifica." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -651,9 +651,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EducationOrResearchException> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "262"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1335> .
+    nif:referenceContext <http://italian-copyright.it/doc_1335> .
 
-<http://example.com/doc_1336#offset_0_101> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1336#offset_0_101> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto esclusivo di tradurre ha per oggetto la traduzione dell'opera in altra lingua o dialetto. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -664,9 +664,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TranslationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "101"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1336> .
+    nif:referenceContext <http://italian-copyright.it/doc_1336> .
 
-<http://example.com/doc_1336#offset_104_251> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1336#offset_104_251> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " Il diritto esclusivo di elaborare comprende tutte le forme di modificazione, di elaborazione e di trasformazione dell'opera previste nell'art. 4. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -677,9 +677,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TransformationRight> ] ;
     nif:beginIndex "104"^^xsd:nonNegativeInteger ;
     nif:endIndex "251"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1336> .
+    nif:referenceContext <http://italian-copyright.it/doc_1336> .
 
-<http://example.com/doc_1336#offset_255_337> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1336#offset_255_337> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "L'autore ha altresi' il diritto esclusivo di pubblicare le sue opere in raccolta. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -690,9 +690,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#Copyright> ] ;
     nif:beginIndex "255"^^xsd:nonNegativeInteger ;
     nif:endIndex "337"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1336> .
+    nif:referenceContext <http://italian-copyright.it/doc_1336> .
 
-<http://example.com/doc_1336#offset_340_421> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1336#offset_340_421> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " Ha infine il diritto esclusivo di introdurre nell'opera qualsiasi modificazione." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -703,9 +703,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#AdaptationRight> ] ;
     nif:beginIndex "340"^^xsd:nonNegativeInteger ;
     nif:endIndex "421"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1336> .
+    nif:referenceContext <http://italian-copyright.it/doc_1336> .
 
-<http://example.com/doc_1337#offset_0_278> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1337#offset_0_278> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto esclusivo di noleggiare ha per oggetto la cessione in uso degli originali, di copie o di supporti di opere, tutelate dal diritto d'autore, fatta per un periodo limitato di tempo ed ai fini del conseguimento di un beneficio economico o commerciale diretto o indiretto." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -716,9 +716,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "278"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1337> .
+    nif:referenceContext <http://italian-copyright.it/doc_1337> .
 
-<http://example.com/doc_1338#offset_0_274> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1338#offset_0_274> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto esclusivo di dare in prestito ha per oggetto la cessione in uso degli originali, di copie o di supporti di opere, tutelate dal diritto d'autore, fatta da istituzioni aperte al pubblico, per un periodo di tempo limitato, a fini diversi da quelli di cui al comma 1." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -729,9 +729,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "274"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1338> .
+    nif:referenceContext <http://italian-copyright.it/doc_1338> .
 
-<http://example.com/doc_1339#offset_0_91> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1339#offset_0_91> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "L'autore ha il potere esclusivo di autorizzare il noleggio o il prestito da parte di terzi." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -742,9 +742,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "91"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1339> .
+    nif:referenceContext <http://italian-copyright.it/doc_1339> .
 
-<http://example.com/doc_1340#offset_0_156> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1340#offset_0_156> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "I suddetti diritti e poteri non si esauriscono con la vendita o con la distribuzione in qualsiasi forma degli originali, di copie o di supporti delle opere." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -755,9 +755,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "156"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1340> .
+    nif:referenceContext <http://italian-copyright.it/doc_1340> .
 
-<http://example.com/doc_1341#offset_0_676> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1341#offset_0_676> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "L'autore, anche in caso di cessione del diritto di noleggio ad un produttore di fonogrammi o di opere cinematografiche o audiovisive o sequenze di immagini in movimento, conserva il diritto di ottenere un'equa remunerazione per il noleggio da questi a sua volta concluso con terzi. Ogni patto contrario e' nullo.In difetto di accordo da concludersi tra le categorie interessate quali individuate dall'articolo 16, primo comma, del regolamento, detto compenso e' stabilito ((dall'Autorita' per le garanzie nelle comunicazioni secondo le procedure previste da apposito regolamento da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione)) ." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -768,9 +768,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "676"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1341> .
+    nif:referenceContext <http://italian-copyright.it/doc_1341> .
 
-<http://example.com/doc_1342#offset_0_108> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1342#offset_0_108> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "I commi da 1 a 4 non si applicano in relazione a progetti o disegni di edifici e ad opere di arte applicata." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -781,9 +781,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "108"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1342> .
+    nif:referenceContext <http://italian-copyright.it/doc_1342> .
 
-<http://example.com/doc_1347#offset_181_438> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1347#offset_181_438> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "l'autore conserva il diritto di rivendicare la paternita' dell'opera e di opporsi a qualsiasi deformazione, mutilazione od altra modificazione, ed a ogni atto a danno dell'opera stessa, che possano essere di pregiudizio al suo onore o alla sua reputazione))" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -794,9 +794,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "181"^^xsd:nonNegativeInteger ;
     nif:endIndex "438"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1347> .
+    nif:referenceContext <http://italian-copyright.it/doc_1347> .
 
-<http://example.com/doc_1347#offset_24_79> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1347#offset_24_79> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "diritti esclusivi di utilizzazione economica dell'opera" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -807,9 +807,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "24"^^xsd:nonNegativeInteger ;
     nif:endIndex "79"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1347> .
+    nif:referenceContext <http://italian-copyright.it/doc_1347> .
 
-<http://example.com/doc_1347#offset_439_876> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1347#offset_439_876> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Tuttavia nelle opere dell'architettura l'autore non puo' opporsi alle modificazioni che si rendessero necessarie nel corso della realizzazione. Del pari non potra' opporsi a quelle altre modificazioni che si rendesse necessario apportare all'opera gia' realizzata. Pero' se all'opera sia riconosciuta dalla competente autorita' statale importante carattere artistico spetteranno all'autore lo studio e l'attuazione di tali modificazioni." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -820,9 +820,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "439"^^xsd:nonNegativeInteger ;
     nif:endIndex "876"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1347> .
+    nif:referenceContext <http://italian-copyright.it/doc_1347> .
 
-<http://example.com/doc_1348#offset_0_439> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1348#offset_0_439> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf """L'autore di un'opera anonima o pseudonima ha sempre il diritto di rivelarsi e di far riconoscere in giudizio la sua qualita' di autore. 
  
@@ -837,9 +837,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#AttributionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "439"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1348> .
+    nif:referenceContext <http://italian-copyright.it/doc_1348> .
 
-<http://example.com/doc_1349#offset_0_62> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1349#offset_0_62> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "I diritti indicati nei precedenti articoli sono inalienabili. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -850,9 +850,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "62"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1349> .
+    nif:referenceContext <http://italian-copyright.it/doc_1349> .
 
-<http://example.com/doc_1349#offset_66_243> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1349#offset_66_243> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Tuttavia l'autore che abbia conosciute ed accettate le modificazioni della propria opera non e' piu' ammesso ad agire per impedirne l'esecuzione o per chiederne la soppressione." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -863,9 +863,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#IntegrityRight> ] ;
     nif:beginIndex "66"^^xsd:nonNegativeInteger ;
     nif:endIndex "243"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1349> .
+    nif:referenceContext <http://italian-copyright.it/doc_1349> .
 
-<http://example.com/doc_1350#offset_0_481> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1350#offset_0_481> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf """Dopo la morte dell'autore il diritto previsto nell'art. 20 puo' essere fatto valere, senza limite di tempo, dal coniuge e dai figli e, in loro mancanza, dai genitori e dagli altri ascendenti e dai discendenti diretti; mancando gli ascendenti ed i discendenti, dai fratelli e dalle sorelle e dai loro discendenti. 
  
@@ -880,9 +880,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "481"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1350> .
+    nif:referenceContext <http://italian-copyright.it/doc_1350> .
 
-<http://example.com/doc_1351#offset_0_199> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1351#offset_0_199> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Il diritto di pubblicare le opere inedite spetta agli eredi dell'autore o ai legatari delle opere stesse, salvo che l'autore abbia espressamente vietata la pubblicazione o l'abbia affidata ad altri. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -893,9 +893,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "199"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1351> .
+    nif:referenceContext <http://italian-copyright.it/doc_1351> .
 
-<http://example.com/doc_1351#offset_203_339> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1351#offset_203_339> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Qualora l'autore abbia fissato un termine per la pubblicazione, le opere inedite non possono essere pubblicate prima della sua scadenza." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -906,9 +906,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "203"^^xsd:nonNegativeInteger ;
     nif:endIndex "339"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1351> .
+    nif:referenceContext <http://italian-copyright.it/doc_1351> .
 
-<http://example.com/doc_1351#offset_343_688> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1351#offset_343_688> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf """ Quando le persone indicate nel primo comma siano piu' e vi sia tra loro dissenso, decide l'autorita' giudiziaria, sentito il pubblico ministero. E' rispettata, in ogni caso, la volonta' del defunto, quando risulti da scritto. 
  
@@ -923,9 +923,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "343"^^xsd:nonNegativeInteger ;
     nif:endIndex "688"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1351> .
+    nif:referenceContext <http://italian-copyright.it/doc_1351> .
 
-<http://example.com/doc_1352#offset_0_146> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1352#offset_0_146> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "I diritti di utilizzazione economica dell'opera durano tutta la vita dell'autore e sino al termine del cinquantesimo anno solare dopo la sua morte" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -936,9 +936,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "146"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1352> .
+    nif:referenceContext <http://italian-copyright.it/doc_1352> .
 
-<http://example.com/doc_1355#offset_0_361> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1355#offset_0_361> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -949,9 +949,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1355> .
+    nif:referenceContext <http://italian-copyright.it/doc_1355> .
 
-<http://example.com/doc_1356#offset_0_265> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1356#offset_0_265> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Nelle opere indicate nell'art. 10, nonche' in quelle drammatico-musicali, coreografiche e pantomimiche, la durata dei diritti utilizzazione economica spettanti a ciascuno dei coadiutori o dei collaboratori si determina sulla vita del coautore che muore per ultimo. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -962,9 +962,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "265"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1356> .
+    nif:referenceContext <http://italian-copyright.it/doc_1356> .
 
-<http://example.com/doc_1356#offset_269_702> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1356#offset_269_702> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Nelle opere collettive la durata dei diritti di utilizzazione economica spettante ad ogni collaboratore si determina sulla vita di ciascuno. La durata dei diritti di utilizzazione economica dell'opera come un tutto e' di cinquanta anni dalla prima pubblicazione, qualunque sia la forma nella quale la pubblicazione e' stata effettuata, salve le disposizioni dell'art. 30 per le riviste, i giornali e le altre opere periodiche. ((14))" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -975,9 +975,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "269"^^xsd:nonNegativeInteger ;
     nif:endIndex "702"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1356> .
+    nif:referenceContext <http://italian-copyright.it/doc_1356> .
 
-<http://example.com/doc_1359#offset_0_361> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1359#offset_0_361> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -988,9 +988,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1359> .
+    nif:referenceContext <http://italian-copyright.it/doc_1359> .
 
-<http://example.com/doc_1360#offset_0_531> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1360#offset_0_531> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf """Nelle opere anonime o pseudonime, fuori del caso previsto nel capoverso dell'art. 8, la durata dei diritti di utilizzazione economica e' di cinquant'anni a partire dalla prima pubblicazione, qualunque sia la forma nella quale essa e' stata effettuata. 
  
@@ -1005,9 +1005,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "531"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1360> .
+    nif:referenceContext <http://italian-copyright.it/doc_1360> .
 
-<http://example.com/doc_1363#offset_0_361> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1363#offset_0_361> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1018,9 +1018,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1363> .
+    nif:referenceContext <http://italian-copyright.it/doc_1363> .
 
-<http://example.com/doc_1365#offset_0_551> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1365#offset_0_551> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf """Per acquistare il beneficio della durata normale dei diritti esclusivi di utilizzazione economica, la rivelazione deve essere fatta mediante denuncia all'Ufficio della proprieta' letteraria, scientifica ed artistica presso il Ministero della cultura popolare, secondo le disposizioni stabilite nel regolamento. 
  
@@ -1035,9 +1035,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "551"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1365> .
+    nif:referenceContext <http://italian-copyright.it/doc_1365> .
 
-<http://example.com/doc_1369#offset_0_645> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1369#offset_0_645> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "La durata dei diritti esclusivi di utilizzazione economica spettanti, a termini dell'art. 11, alle Amministrazioni dello Stato, al Partito Nazionale Fascista, alle Provincie, ai Comuni, alle Accademie, agli enti pubblici culturali nonche' agli enti privati che non perseguano scopi di lucro, e' di vent'anni a partire dalla prima pubblicazione, qualunque sia la forma nella quale la pubblicazione e' stata effettuata. Per le comunicazioni e le memorie pubblicate dalle Accademie e dagli altri enti pubblici culturali tale durata e' ridotta a due anni; trascorsi i quali, l'autore riprende integralmente la libera disponibilita' dei suoi scritti." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1048,9 +1048,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "645"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1369> .
+    nif:referenceContext <http://italian-copyright.it/doc_1369> .
 
-<http://example.com/doc_1370#offset_0_291> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1370#offset_0_291> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Quando le parti o i volumi di una stessa opera siano pubblicati separatamente, in tempi diversi, la durata dei diritti di utilizzazione economica, che sia fissata ad anni, decorre per ciascuna parte o per ciascun volume dall'anno della pubblicazione. Le frazioni di anno giovano all'autore. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1061,9 +1061,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "291"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1370> .
+    nif:referenceContext <http://italian-copyright.it/doc_1370> .
 
-<http://example.com/doc_1370#offset_295_501> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1370#offset_295_501> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Se si tratta di opera collettiva periodica, quale la rivista o il giornale, la durata dei diritti e' calcolata egualmente a partire dalla fine di ogni anno dalla pubblicazione dei singoli fascicoli o numeri" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1074,9 +1074,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "295"^^xsd:nonNegativeInteger ;
     nif:endIndex "501"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1370> .
+    nif:referenceContext <http://italian-copyright.it/doc_1370> .
 
-<http://example.com/doc_1371#offset_0_241> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1371#offset_0_241> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "((Nelle opere pubblicate per la prima volta dopo la morte dell'autore, che non ricadono nella previsione dell'articolo 85-ter, la durata dei diritti esclusivi di utilizzazione economica e' di settant'anni a partire dalla morte dell'autore.))" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1087,9 +1087,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "241"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1371> .
+    nif:referenceContext <http://italian-copyright.it/doc_1371> .
 
-<http://example.com/doc_1374#offset_0_361> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1374#offset_0_361> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1100,9 +1100,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1374> .
+    nif:referenceContext <http://italian-copyright.it/doc_1374> .
 
-<http://example.com/doc_1375#offset_0_448> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1375#offset_0_448> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "((Fermo restando quanto stabilito dall'articolo 44, i diritti di utilizzazione economica dell'opera cinematografica o assimilata durano sino al termine del settantesimo anno dopo la morte dell'ultima persona sopravvissuta fra le seguenti persone: il direttore artistico, gli autori della sceneggiatura, ivi compreso l'autore del dialogo, e l'autore della musica specificamente creata per essere utilizzata nell'opera cinematografica o assimilata.))" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1113,9 +1113,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "448"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1375> .
+    nif:referenceContext <http://italian-copyright.it/doc_1375> .
 
-<http://example.com/doc_1378#offset_0_361> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1378#offset_0_361> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1126,9 +1126,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1378> .
+    nif:referenceContext <http://italian-copyright.it/doc_1378> .
 
-<http://example.com/doc_1379#offset_0_135> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1379#offset_0_135> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "((I diritti di utilizzazione economica dell'opera fotografica durano sino al termine del settantesimo anno dopo la morte dell'autore.))" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1139,9 +1139,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "135"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1379> .
+    nif:referenceContext <http://italian-copyright.it/doc_1379> .
 
-<http://example.com/doc_1382#offset_0_361> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1382#offset_0_361> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1152,9 +1152,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1382> .
+    nif:referenceContext <http://italian-copyright.it/doc_1382> .
 
-<http://example.com/doc_1383#offset_0_290> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1383#offset_0_290> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "((I termini finali di durata dei diritti di utilizzazione economica previsti dalle disposizioni della presente sezione si computano, nei rispettivi casi, a decorrere dal 1 gennaio dell'anno successivo a quello in cui si verifica la morte dell'autore o altro evento considerato dalla norma))" ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1165,9 +1165,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "290"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1383> .
+    nif:referenceContext <http://italian-copyright.it/doc_1383> .
 
-<http://example.com/doc_1384#offset_0_405> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1384#offset_0_405> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Alla scadenza della durata di protezione di un'opera delle arti visive, anche come individuate all'articolo 2, il materiale derivante da un atto di riproduzione di tale opera non e' soggetto al diritto d'autore o a diritti connessi, salvo che costituisca un'opera originale. Restano ferme le disposizioni in materia di riproduzione dei beni culturali di cui al decreto legislativo 22 gennaio 2004, n. 42 ." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1178,9 +1178,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ReproductionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "405"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1384> .
+    nif:referenceContext <http://italian-copyright.it/doc_1384> .
 
-<http://example.com/doc_1390#offset_0_146> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1390#offset_0_146> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "L'esercizio dei diritti di utilizzazione economica spetta all'autore della parte musicale, salvi tra le parti i diritti derivanti dalla comunione." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1191,9 +1191,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "146"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1390> .
+    nif:referenceContext <http://italian-copyright.it/doc_1390> .
 
-<http://example.com/doc_1390#offset_150_280> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1390#offset_150_280> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " Il profitto della utilizzazione economica e' ripartito in proporzione del valore del rispettivo contributo letterario o musicale." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1204,9 +1204,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "150"^^xsd:nonNegativeInteger ;
     nif:endIndex "280"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1390> .
+    nif:referenceContext <http://italian-copyright.it/doc_1390> .
 
-<http://example.com/doc_1390#offset_284_426> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1390#offset_284_426> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf " Nelle opere liriche si considera che il valore della parte musicale rappresenti la frazione di tre quarti del valore complessivo dell'opera. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1217,9 +1217,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "284"^^xsd:nonNegativeInteger ;
     nif:endIndex "426"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1390> .
+    nif:referenceContext <http://italian-copyright.it/doc_1390> .
 
-<http://example.com/doc_1390#offset_430_582> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1390#offset_430_582> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Nelle operette, nei melologhi, nelle composizioni musicali con parole, nei balli e balletti musicali, il valore dei due contributi si considera uguale. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1230,9 +1230,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "430"^^xsd:nonNegativeInteger ;
     nif:endIndex "582"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1390> .
+    nif:referenceContext <http://italian-copyright.it/doc_1390> .
 
-<http://example.com/doc_1390#offset_586_726> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1390#offset_586_726> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Ciascuno dei collaboratori ha diritto di utilizzare separatamente e indipendentemente la propria opera, salvo il disposto dei casi seguenti." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1243,9 +1243,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#Copyright> ] ;
     nif:beginIndex "586"^^xsd:nonNegativeInteger ;
     nif:endIndex "726"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1390> .
+    nif:referenceContext <http://italian-copyright.it/doc_1390> .
 
-<http://example.com/doc_1393#offset_0_408> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1393#offset_0_408> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Nelle opere coreografiche o pantomimiche e nelle altre composte di musica, di parola e di danze o di mimica, quali le riviste musicali ed opere simili, in cui la parte musicale non ha funzione o valore principale, l'esercizio dei diritti di utilizzazione economica, salvo patto contrario, spetta all'autore della parte coreografica o pantomimica e, nelle riviste musicali, all'autore della parte letteraria. " ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1256,9 +1256,9 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "408"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1393> .
+    nif:referenceContext <http://italian-copyright.it/doc_1393> .
 
-<http://example.com/doc_1394#offset_0_180> a lkg:LynxAnnotation,
+<http://italian-copyright.it/doc_1394#offset_0_180> a lkg:LynxAnnotation,
         nif:OffsetBasedString ;
     nif:anchorOf "Nell'opera collettiva, salvo patto in contrario, il diritto di utilizzazione economica spetta all'editore dell'opera stessa, senza pregiudizio derivante dall'applicazione dell'art." ;
     nif:annotationUnit [ a nif:AnnotationUnit ;
@@ -1269,12 +1269,12 @@
             ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "180"^^xsd:nonNegativeInteger ;
-    nif:referenceContext <http://example.com/doc_1394> .
+    nif:referenceContext <http://italian-copyright.it/doc_1394> .
 
-<http://example.com/doc_1269> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1269> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_1" ;
-            eli:chapter "chp_I" ;
+    lkg:metadata [ eli:chapter "chp_I" ;
+            eli:has_part "art_1" ;
             eli:id_local "doc_1269" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1284,10 +1284,10 @@
  
  Sono altresi' protetti i programmi per elaboratore come opere letterarie ai sensi della Convenzione di Berna sulla protezione delle opere letterarie ed artistiche ratificata e resa esecutiva con legge 20 giugno 1978, n. 399 ((, nonche' le banche di dati che per la scelta o la disposizione del materiale costituiscono una creazione intellettuale dell'autore))""" .
 
-<http://example.com/doc_1274> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1274> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_3" ;
-            eli:chapter "chp_I" ;
+    lkg:metadata [ eli:chapter "chp_I" ;
+            eli:has_part "art_3" ;
             eli:id_local "doc_1274" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1295,10 +1295,10 @@
     nif:endIndex "487"^^xsd:nonNegativeInteger ;
     nif:isString "Le opere collettive, costituite dalla riunione di opere o di parti di opere, che hanno carattere di creazione autonoma, come risultato della scelta e del coordinamento ad un determinato fine letterario, scientifico, didattico, religioso, politico od artistico, quali le enciclopedie, i dizionari, le antologie, le riviste e i giornali, sono protette come opere originali, indipendentemente e senza pregiudizio dei diritti di autore sulle opere o sulle parti di opere di cui sono composte." .
 
-<http://example.com/doc_1275> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1275> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_4" ;
-            eli:chapter "chp_I" ;
+    lkg:metadata [ eli:chapter "chp_I" ;
+            eli:has_part "art_4" ;
             eli:id_local "doc_1275" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1306,10 +1306,10 @@
     nif:endIndex "430"^^xsd:nonNegativeInteger ;
     nif:isString "Senza pregiudizio dei diritti esistenti sull'opera originaria, sono altresi' protette le elaborazioni di carattere creativo dell'opera stessa, quali le traduzioni in altra lingua, le trasformazioni da una in altra forma letteraria od artistica, le modificazioni ed aggiunte che costituiscono un rifacimento sostanziale dell'opera originaria, gli adattamenti, le riduzioni, i compendi, le variazioni non costituenti opera originale." .
 
-<http://example.com/doc_1276> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1276> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_5" ;
-            eli:chapter "chp_I" ;
+    lkg:metadata [ eli:chapter "chp_I" ;
+            eli:has_part "art_5" ;
             eli:id_local "doc_1276" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1317,10 +1317,10 @@
     nif:endIndex "152"^^xsd:nonNegativeInteger ;
     nif:isString "Le disposizioni di questa legge non si applicano ai testi degli atti ufficiali dello stato e delle Amministrazioni pubbliche, sia italiane che straniere." .
 
-<http://example.com/doc_1277> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1277> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_6" ;
-            eli:chapter "chp_II" ;
+    lkg:metadata [ eli:chapter "chp_II" ;
+            eli:has_part "art_6" ;
             eli:id_local "doc_1277" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1328,10 +1328,10 @@
     nif:endIndex "153"^^xsd:nonNegativeInteger ;
     nif:isString "Il titolo originario dell'acquisto del diritto di autore e' costituito dalla creazione dell'opera, quale particolare espressione del lavoro intellettuale." .
 
-<http://example.com/doc_1284> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1284> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_12-bis" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_12-bis" ;
             eli:id_local "doc_1284" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1339,10 +1339,10 @@
     nif:endIndex "283"^^xsd:nonNegativeInteger ;
     nif:isString "((Salvo patto contrario, il datore di lavoro e' titolare del diritto esclusivo di utilizzazione economica del programma per elaboratore o della banca di dati creati dal lavoratore dipendente nell'esecuzione delle sue mansioni o su istruzioni impartite dallo stesso datore di lavoro.))" .
 
-<http://example.com/doc_1285> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1285> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_12-ter" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_12-ter" ;
             eli:id_local "doc_1285" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1350,10 +1350,10 @@
     nif:endIndex "230"^^xsd:nonNegativeInteger ;
     nif:isString "((Salvo patto contrario, qualora un'opera di disegno industriale sia creata dal lavoratore dipendente nell'esercizio delle sue mansioni, il datore di lavoro e' titolare dei diritti esclusivi di utilizzazione economica dell'opera.))" .
 
-<http://example.com/doc_1286> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1286> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_13" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_13" ;
             eli:id_local "doc_1286" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1361,10 +1361,10 @@
     nif:endIndex "338"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di riprodurre ha per oggetto la moltiplicazione in copie diretta o indiretta, temporanea o permanente, in tutto o in parte dell'opera, in qualunque modo o forma, come la copiatura a mano, la stampa, la litografia, l'incisione, la fotografia, la fonografia, la cinematografia ed ogni altro procedimento di riproduzione." .
 
-<http://example.com/doc_1287> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1287> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_14" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_14" ;
             eli:id_local "doc_1287" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1372,10 +1372,10 @@
     nif:endIndex "181"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di trascrivere ha per oggetto l'uso dei mezzi atti a trasformare l'opera orale in opera scritta o riprodotta con uno dei mezzi indicati nell'articolo precedente." .
 
-<http://example.com/doc_1289> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1289> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_15-bis" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_15-bis" ;
             eli:id_local "doc_1289" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1383,10 +1383,10 @@
     nif:endIndex "591"^^xsd:nonNegativeInteger ;
     nif:isString "Agli autori spetta un compenso ridotto quando l'esecuzione, rappresentazione o recitazione dell'opera avvengono nella sede dei centri o degli istituti di assistenza, formalmente istituiti nonche' delle associazioni di volontariato, purche' destinate ai soli soci ed invitati e sempre che non vengano effettuate a scopo di lucro. In mancanza di accordi fra la Societa' italiana degli autori ed editori (SIAE) e le associazioni di categoria interessate, la misura del compenso sara' determinata con decreto del Presidente del Consiglio dei Ministri, da emanare sentito il Ministro dell'interno." .
 
-<http://example.com/doc_1300> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1300> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_16" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_16" ;
             eli:id_local "doc_1300" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1394,10 +1394,10 @@
     nif:endIndex "563"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di comunicazione al pubblico su filo o senza filo dell'opera ha per oggetto l'impiego di uno dei mezzi di diffusione a distanza, quali il telegrafo, il telefono, la radio, la televisione ed altri mezzi analoghi e comprende la comunicazione al pubblico via satellite, la ritrasmissione ((...)) , nonche' le comunicazioni al pubblico codificate con condizioni particolari di accesso; comprende, altresi', la messa a disposizione del pubblico dell'opera in maniera che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente." .
 
-<http://example.com/doc_1301> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1301> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_16" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_16" ;
             eli:id_local "doc_1301" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1405,10 +1405,10 @@
     nif:endIndex "149"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto di cui al comma 1 non si esaurisce con alcun atto di comunicazione al pubblico, ivi compresi gli atti di messa a disposizione del pubblico." .
 
-<http://example.com/doc_1309> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1309> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_16-ter" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_16-ter" ;
             eli:id_local "doc_1309" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1416,10 +1416,10 @@
     nif:endIndex "165"^^xsd:nonNegativeInteger ;
     nif:isString "La ritrasmissione di programmi televisivi o radiofonici ai sensi del presente articolo e' autorizzata dai titolari del diritto esclusivo di comunicazione al pubblico." .
 
-<http://example.com/doc_1311> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1311> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_16-ter" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_16-ter" ;
             eli:id_local "doc_1311" ;
             eli:paragraph "para_4" ;
             dct:language "it" ] ;
@@ -1427,10 +1427,10 @@
     nif:endIndex "214"^^xsd:nonNegativeInteger ;
     nif:isString "Gli organismi di gestione collettiva di cui al presente articolo devono essere in possesso dei requisiti di cui all' articolo 8 del decreto legislativo 15 marzo 2017, n. 35 , e operare ai sensi del medesimo decreto." .
 
-<http://example.com/doc_1313> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1313> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_16-ter" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_16-ter" ;
             eli:id_local "doc_1313" ;
             eli:paragraph "para_6" ;
             dct:language "it" ] ;
@@ -1438,10 +1438,10 @@
     nif:endIndex "561"^^xsd:nonNegativeInteger ;
     nif:isString "I titolari dei diritti che non hanno conferito mandato a un organismo di gestione collettiva hanno gli stessi diritti e obblighi dei titolari che hanno conferito mandato all'organismo di gestione collettiva che ha stipulato un accordo con l'operatore del servizio di ritrasmissione. I titolari che non hanno conferito mandato a un organismo di gestione collettiva possono esercitare i diritti esclusivi di comunicazione al pubblico entro il termine di tre anni decorrenti dalla data della ritrasmissione che comprende la propria opera o altro materiale protetto." .
 
-<http://example.com/doc_1314> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1314> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_16-ter" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_16-ter" ;
             eli:id_local "doc_1314" ;
             eli:paragraph "para_7" ;
             dct:language "it" ] ;
@@ -1449,10 +1449,10 @@
     nif:endIndex "321"^^xsd:nonNegativeInteger ;
     nif:isString "Quando l'emissione primaria proviene da un altro Stato membro dell'Unione europea e l'operatore del servizio di ritrasmissione intende acquisire i diritti di ritrasmissione per il territorio italiano, l'autorizzazione alla ritrasmissione e' rilasciata dagli organismi di gestione collettiva nazionali ai sensi del comma 5." .
 
-<http://example.com/doc_1332> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1332> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_17" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_17" ;
             eli:id_local "doc_1332" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1460,10 +1460,10 @@
     nif:endIndex "414"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di distribuzione ha per oggetto la messa in commercio o in circolazione, o comunque a disposizione, del pubblico, con qualsiasi mezzo ed a qualsiasi titolo, dell'originale dell'opera o degli esemplari di essa e comprende, altresi', il diritto esclusivo di introdurre nel territorio degli Stati della Comunita' europea, a fini di distribuzione, le riproduzioni fatte negli Stati extracomunitari." .
 
-<http://example.com/doc_1333> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1333> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_17" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_17" ;
             eli:id_local "doc_1333" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1471,10 +1471,10 @@
     nif:endIndex "274"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto di distribuzione dell'originale o di copie dell'opera non si esaurisce nella Comunita' europea, se non nel caso in cui la prima vendita o il primo atto di trasferimento della proprieta' nella Comunita' sia effettuato dal titolare del diritto o con il suo consenso." .
 
-<http://example.com/doc_1334> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1334> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_17" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_17" ;
             eli:id_local "doc_1334" ;
             eli:paragraph "para_3" ;
             dct:language "it" ] ;
@@ -1482,10 +1482,10 @@
     nif:endIndex "254"^^xsd:nonNegativeInteger ;
     nif:isString "Quanto disposto dal comma 2 non si applica alla messa a disposizione del pubblico di opere in modo che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente, anche nel caso in cui sia consentita la realizzazione di copie dell'opera." .
 
-<http://example.com/doc_1335> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1335> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_17" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_17" ;
             eli:id_local "doc_1335" ;
             eli:paragraph "para_4" ;
             dct:language "it" ] ;
@@ -1493,10 +1493,10 @@
     nif:endIndex "261"^^xsd:nonNegativeInteger ;
     nif:isString "Ai fini dell'esaurimento di cui al comma 2, non costituisce esercizio del diritto esclusivo di distribuzione la consegna gratuita di esemplari delle opere, effettuata o consentita dal titolare a fini promozionali, ovvero di insegnamento o di ricerca scientifica." .
 
-<http://example.com/doc_1337> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1337> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_18-bis" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_18-bis" ;
             eli:id_local "doc_1337" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1504,10 +1504,10 @@
     nif:endIndex "277"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di noleggiare ha per oggetto la cessione in uso degli originali, di copie o di supporti di opere, tutelate dal diritto d'autore, fatta per un periodo limitato di tempo ed ai fini del conseguimento di un beneficio economico o commerciale diretto o indiretto." .
 
-<http://example.com/doc_1338> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1338> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_18-bis" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_18-bis" ;
             eli:id_local "doc_1338" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1515,10 +1515,10 @@
     nif:endIndex "273"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di dare in prestito ha per oggetto la cessione in uso degli originali, di copie o di supporti di opere, tutelate dal diritto d'autore, fatta da istituzioni aperte al pubblico, per un periodo di tempo limitato, a fini diversi da quelli di cui al comma 1." .
 
-<http://example.com/doc_1339> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1339> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_18-bis" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_18-bis" ;
             eli:id_local "doc_1339" ;
             eli:paragraph "para_3" ;
             dct:language "it" ] ;
@@ -1526,10 +1526,10 @@
     nif:endIndex "90"^^xsd:nonNegativeInteger ;
     nif:isString "L'autore ha il potere esclusivo di autorizzare il noleggio o il prestito da parte di terzi." .
 
-<http://example.com/doc_1340> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1340> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_18-bis" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_18-bis" ;
             eli:id_local "doc_1340" ;
             eli:paragraph "para_4" ;
             dct:language "it" ] ;
@@ -1537,10 +1537,10 @@
     nif:endIndex "155"^^xsd:nonNegativeInteger ;
     nif:isString "I suddetti diritti e poteri non si esauriscono con la vendita o con la distribuzione in qualsiasi forma degli originali, di copie o di supporti delle opere." .
 
-<http://example.com/doc_1341> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1341> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_18-bis" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_18-bis" ;
             eli:id_local "doc_1341" ;
             eli:paragraph "para_5" ;
             dct:language "it" ] ;
@@ -1548,10 +1548,10 @@
     nif:endIndex "682"^^xsd:nonNegativeInteger ;
     nif:isString "L'autore, anche in caso di cessione del diritto di noleggio ad un produttore di fonogrammi o di opere cinematografiche o audiovisive o sequenze di immagini in movimento, conserva il diritto di ottenere un'equa remunerazione per il noleggio da questi a sua volta concluso con terzi. Ogni patto contrario e' nullo.In difetto di accordo da concludersi tra le categorie interessate quali individuate dall'articolo 16, primo comma, del regolamento, detto compenso e' stabilito ((dall'Autorita' per le garanzie nelle comunicazioni secondo le procedure previste da apposito regolamento da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione)) . ((53))" .
 
-<http://example.com/doc_1342> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1342> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_18-bis" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_18-bis" ;
             eli:id_local "doc_1342" ;
             eli:paragraph "para_6" ;
             dct:language "it" ] ;
@@ -1559,10 +1559,10 @@
     nif:endIndex "107"^^xsd:nonNegativeInteger ;
     nif:isString "I commi da 1 a 4 non si applicano in relazione a progetti o disegni di edifici e ad opere di arte applicata." .
 
-<http://example.com/doc_1348> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1348> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_21" ;
-            eli:chapter "chp_IV" ;
+    lkg:metadata [ eli:chapter "chp_IV" ;
+            eli:has_part "art_21" ;
             eli:id_local "doc_1348" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1572,10 +1572,10 @@
  
  Nonostante qualunque precedente patto contrario, gli aventi causa dell'autore che si sia rivelato ne dovranno indicare il nome nelle pubblicazioni, riproduzioni, trascrizioni, esecuzioni, rappresentazioni, recitazioni e diffusioni o in qualsiasi altra forma di manifestazione o annuncio al pubblico.""" .
 
-<http://example.com/doc_1350> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1350> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_23" ;
-            eli:chapter "chp_IV" ;
+    lkg:metadata [ eli:chapter "chp_IV" ;
+            eli:has_part "art_23" ;
             eli:id_local "doc_1350" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1585,10 +1585,10 @@
  
  L'azione, qualora finalita' pubbliche lo esigano, puo' altresi' essere esercitata dal Ministro per la cultura popolare, sentita l'Associazione sindacale competente.""" .
 
-<http://example.com/doc_1352> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1352> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_25" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_25" ;
             eli:id_local "doc_1352" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1596,10 +1596,10 @@
     nif:endIndex "153"^^xsd:nonNegativeInteger ;
     nif:isString "I diritti di utilizzazione economica dell'opera durano tutta la vita dell'autore e sino al termine del cinquantesimo anno solare dopo la sua morte. ((14))" .
 
-<http://example.com/doc_1355> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1355> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-bis" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-bis" ;
             eli:id_local "doc_1355" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1607,10 +1607,10 @@
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1359> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1359> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-bis" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-bis" ;
             eli:id_local "doc_1359" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1618,10 +1618,10 @@
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1360> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1360> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_27" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_27" ;
             eli:id_local "doc_1360" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1631,10 +1631,10 @@
  
  Se prima della scadenza di detto termine l'autore si e' rivelato o la rivelazione e' fatta dalle persone indicate dall'art. 23 o da persone autorizzate dall'autore, nelle forme stabilite dall'articolo seguente, si applica il termine di durata determinato nell'art. 25. ((14))""" .
 
-<http://example.com/doc_1363> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1363> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-bis" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-bis" ;
             eli:id_local "doc_1363" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1642,10 +1642,10 @@
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1365> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1365> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_28" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_28" ;
             eli:id_local "doc_1365" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1655,10 +1655,10 @@
  
  La denuncia di rivelazione e' pubblicata nelle forme stabilite da dette disposizioni ed ha effetto a partire dalla data del deposito della denuncia di fronte ai terzi che abbiano acquistati diritti sull'opera come anonima o pseudonima. ((26))""" .
 
-<http://example.com/doc_1369> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1369> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_29" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_29" ;
             eli:id_local "doc_1369" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1666,10 +1666,10 @@
     nif:endIndex "644"^^xsd:nonNegativeInteger ;
     nif:isString "La durata dei diritti esclusivi di utilizzazione economica spettanti, a termini dell'art. 11, alle Amministrazioni dello Stato, al Partito Nazionale Fascista, alle Provincie, ai Comuni, alle Accademie, agli enti pubblici culturali nonche' agli enti privati che non perseguano scopi di lucro, e' di vent'anni a partire dalla prima pubblicazione, qualunque sia la forma nella quale la pubblicazione e' stata effettuata. Per le comunicazioni e le memorie pubblicate dalle Accademie e dagli altri enti pubblici culturali tale durata e' ridotta a due anni; trascorsi i quali, l'autore riprende integralmente la libera disponibilita' dei suoi scritti." .
 
-<http://example.com/doc_1371> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1371> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_31" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_31" ;
             eli:id_local "doc_1371" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1677,10 +1677,10 @@
     nif:endIndex "240"^^xsd:nonNegativeInteger ;
     nif:isString "((Nelle opere pubblicate per la prima volta dopo la morte dell'autore, che non ricadono nella previsione dell'articolo 85-ter, la durata dei diritti esclusivi di utilizzazione economica e' di settant'anni a partire dalla morte dell'autore.))" .
 
-<http://example.com/doc_1374> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1374> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-bis" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-bis" ;
             eli:id_local "doc_1374" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1688,10 +1688,10 @@
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1375> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1375> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32" ;
             eli:id_local "doc_1375" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1699,10 +1699,10 @@
     nif:endIndex "447"^^xsd:nonNegativeInteger ;
     nif:isString "((Fermo restando quanto stabilito dall'articolo 44, i diritti di utilizzazione economica dell'opera cinematografica o assimilata durano sino al termine del settantesimo anno dopo la morte dell'ultima persona sopravvissuta fra le seguenti persone: il direttore artistico, gli autori della sceneggiatura, ivi compreso l'autore del dialogo, e l'autore della musica specificamente creata per essere utilizzata nell'opera cinematografica o assimilata.))" .
 
-<http://example.com/doc_1378> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1378> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-bis" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-bis" ;
             eli:id_local "doc_1378" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1710,10 +1710,10 @@
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1379> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1379> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-bis" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-bis" ;
             eli:id_local "doc_1379" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1721,10 +1721,10 @@
     nif:endIndex "134"^^xsd:nonNegativeInteger ;
     nif:isString "((I diritti di utilizzazione economica dell'opera fotografica durano sino al termine del settantesimo anno dopo la morte dell'autore.))" .
 
-<http://example.com/doc_1382> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1382> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-bis" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-bis" ;
             eli:id_local "doc_1382" ;
             eli:paragraph "para_2" ;
             dct:language "it" ] ;
@@ -1732,10 +1732,10 @@
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1383> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1383> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-ter" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-ter" ;
             eli:id_local "doc_1383" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1743,10 +1743,10 @@
     nif:endIndex "289"^^xsd:nonNegativeInteger ;
     nif:isString "((I termini finali di durata dei diritti di utilizzazione economica previsti dalle disposizioni della presente sezione si computano, nei rispettivi casi, a decorrere dal 1 gennaio dell'anno successivo a quello in cui si verifica la morte dell'autore o altro evento considerato dalla norma))" .
 
-<http://example.com/doc_1384> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1384> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_32-quater" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_32-quater" ;
             eli:id_local "doc_1384" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1754,10 +1754,10 @@
     nif:endIndex "404"^^xsd:nonNegativeInteger ;
     nif:isString "Alla scadenza della durata di protezione di un'opera delle arti visive, anche come individuate all'articolo 2, il materiale derivante da un atto di riproduzione di tale opera non e' soggetto al diritto d'autore o a diritti connessi, salvo che costituisca un'opera originale. Restano ferme le disposizioni in materia di riproduzione dei beni culturali di cui al decreto legislativo 22 gennaio 2004, n. 42 ." .
 
-<http://example.com/doc_1393> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1393> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_37" ;
-            eli:chapter "chp_VI" ;
+    lkg:metadata [ eli:chapter "chp_VI" ;
+            eli:has_part "art_37" ;
             eli:id_local "doc_1393" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1767,10 +1767,10 @@
  
  Con le modificazioni richieste dalle norme del comma precedente sono applicabili a queste opere le disposizioni degli articoli 35 e 36.""" .
 
-<http://example.com/doc_1394> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1394> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_38" ;
-            eli:chapter "chp_VII" ;
+    lkg:metadata [ eli:chapter "chp_VII" ;
+            eli:has_part "art_38" ;
             eli:id_local "doc_1394" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1778,10 +1778,10 @@
     nif:endIndex "179"^^xsd:nonNegativeInteger ;
     nif:isString "Nell'opera collettiva, salvo patto in contrario, il diritto di utilizzazione economica spetta all'editore dell'opera stessa, senza pregiudizio derivante dall'applicazione dell'art." .
 
-<http://example.com/doc_1278> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1278> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_7" ;
-            eli:chapter "chp_II" ;
+    lkg:metadata [ eli:chapter "chp_II" ;
+            eli:has_part "art_7" ;
             eli:id_local "doc_1278" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1791,10 +1791,10 @@
  
  E' considerato autore delle elaborazioni l'elaboratore, nei limiti del suo lavoro.""" .
 
-<http://example.com/doc_1282> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1282> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_11" ;
-            eli:chapter "chp_II" ;
+    lkg:metadata [ eli:chapter "chp_II" ;
+            eli:has_part "art_11" ;
             eli:id_local "doc_1282" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1804,10 +1804,10 @@
  
  Lo stesso diritto spetta agli enti privati che non perseguano scopi di lucro, salvo diverso accordo con gli autori delle opere pubblicate, nonche' alle Accademie e agli altri enti pubblici culturali sulla raccolta dei loro atti e sulle loro pubblicazioni.""" .
 
-<http://example.com/doc_1288> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1288> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_15" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_15" ;
             eli:id_local "doc_1288" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1817,10 +1817,10 @@
  
  Non e' considerata pubblica la esecuzione, rappresentazione o recitazione dell'opera entro la cerchia ordinaria della famiglia, del convitto, della scuola o dell'istituto di ricovero, purche' non effettuata a scopo di lucro. ((Non e' considerata pubblica la recitazione di opere letterarie effettuata, senza scopo di lucro, all'interno di musei, archivi e biblioteche pubblici ai fini esclusivi di promozione culturale e di valorizzazione delle opere stesse individuati in base a protocolli di intesa tra la SIAE e il Ministero dei beni e delle attivita' culturali e del turismo))""" .
 
-<http://example.com/doc_1310> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1310> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_16-ter" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_16-ter" ;
             eli:id_local "doc_1310" ;
             eli:paragraph "para_3" ;
             dct:language "it" ] ;
@@ -1828,10 +1828,10 @@
     nif:endIndex "337"^^xsd:nonNegativeInteger ;
     nif:isString "I titolari del diritto d'autore e dei diritti connessi diversi dagli organismi di diffusione radiotelevisiva esercitano il diritto di concedere o rifiutare l'autorizzazione per una ritrasmissione all'operatore di un servizio di ritrasmissione che intenda acquisirne i diritti esclusivamente attraverso un organismo di gestione collettiva." .
 
-<http://example.com/doc_1349> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1349> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_22" ;
-            eli:chapter "chp_IV" ;
+    lkg:metadata [ eli:chapter "chp_IV" ;
+            eli:has_part "art_22" ;
             eli:id_local "doc_1349" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1841,10 +1841,10 @@
  
  Tuttavia l'autore che abbia conosciute ed accettate le modificazioni della propria opera non e' piu' ammesso ad agire per impedirne l'esecuzione o per chiederne la soppressione.""" .
 
-<http://example.com/doc_1356> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1356> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_26" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_26" ;
             eli:id_local "doc_1356" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1854,10 +1854,10 @@
  
  Nelle opere collettive la durata dei diritti di utilizzazione economica spettante ad ogni collaboratore si determina sulla vita di ciascuno. La durata dei diritti di utilizzazione economica dell'opera come un tutto e' di cinquanta anni dalla prima pubblicazione, qualunque sia la forma nella quale la pubblicazione e' stata effettuata, salve le disposizioni dell'art. 30 per le riviste, i giornali e le altre opere periodiche. ((14))""" .
 
-<http://example.com/doc_1370> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1370> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_30" ;
-            eli:chapter "chp_V" ;
+    lkg:metadata [ eli:chapter "chp_V" ;
+            eli:has_part "art_30" ;
             eli:id_local "doc_1370" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1867,10 +1867,10 @@
  
  Se si tratta di opera collettiva periodica, quale la rivista o il giornale, la durata dei diritti e' calcolata egualmente a partire dalla fine di ogni anno dalla pubblicazione dei singoli fascicoli o numeri.""" .
 
-<http://example.com/doc_1279> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1279> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_8" ;
-            eli:chapter "chp_II" ;
+    lkg:metadata [ eli:chapter "chp_II" ;
+            eli:has_part "art_8" ;
             eli:id_local "doc_1279" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1880,10 +1880,10 @@
  
  Valgono come nome lo pseudonimo, il nome d'arte, la sigla o il segno convenzionale, che siano notoriamente conosciuti come equivalenti al nome vero.""" .
 
-<http://example.com/doc_1281> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1281> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_10" ;
-            eli:chapter "chp_II" ;
+    lkg:metadata [ eli:chapter "chp_II" ;
+            eli:has_part "art_10" ;
             eli:id_local "doc_1281" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1895,10 +1895,10 @@
  
  Sono applicabili le disposizioni che regolano la comunione. La difesa del diritto morale puo' peraltro essere sempre esercitata individualmente da ciascun coautore e l'opera non puo' essere pubblicata, se inedita, ne' puo' essere modificata o utilizzata in forma diversa da quella della prima pubblicazione, senza l'accordo di tutti i coautori. Tuttavia, in caso di ingiustificato rifiuto di uno o piu' coautori, la pubblicazione, la modificazione o la nuova utilizzazione dell'opera puo' essere autorizzata dall'autorita' giudiziaria, alle condizioni e con le modalita' da essa stabilite.""" .
 
-<http://example.com/doc_1283> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1283> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_12" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_12" ;
             eli:id_local "doc_1283" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1910,10 +1910,10 @@
  
  E' considerata come prima pubblicazione la prima forma di esercizio del diritto di utilizzazione.""" .
 
-<http://example.com/doc_1347> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1347> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_20" ;
-            eli:chapter "chp_IV" ;
+    lkg:metadata [ eli:chapter "chp_IV" ;
+            eli:has_part "art_20" ;
             eli:id_local "doc_1347" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1921,10 +1921,10 @@
     nif:endIndex "875"^^xsd:nonNegativeInteger ;
     nif:isString "((Indipendentemente dai diritti esclusivi di utilizzazione economica dell'opera, previsti nelle disposizioni della sezione precedente, ed anche dopo la cessione dei diritti stessi, l'autore conserva il diritto di rivendicare la paternita' dell'opera e di opporsi a qualsiasi deformazione, mutilazione od altra modificazione, ed a ogni atto a danno dell'opera stessa, che possano essere di pregiudizio al suo onore o alla sua reputazione)) Tuttavia nelle opere dell'architettura l'autore non puo' opporsi alle modificazioni che si rendessero necessarie nel corso della realizzazione. Del pari non potra' opporsi a quelle altre modificazioni che si rendesse necessario apportare all'opera gia' realizzata. Pero' se all'opera sia riconosciuta dalla competente autorita' statale importante carattere artistico spetteranno all'autore lo studio e l'attuazione di tali modificazioni." .
 
-<http://example.com/doc_1351> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1351> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_24" ;
-            eli:chapter "chp_IV" ;
+    lkg:metadata [ eli:chapter "chp_IV" ;
+            eli:has_part "art_24" ;
             eli:id_local "doc_1351" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1938,10 +1938,10 @@
  
  Sono applicabili a queste opere le disposizioni contenute nella sezione seconda del capo secondo del titolo terzo.""" .
 
-<http://example.com/doc_1336> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1336> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_18" ;
-            eli:chapter "chp_III" ;
+    lkg:metadata [ eli:chapter "chp_III" ;
+            eli:has_part "art_18" ;
             eli:id_local "doc_1336" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1955,10 +1955,10 @@
  
  Ha infine il diritto esclusivo di introdurre nell'opera qualsiasi modificazione.""" .
 
-<http://example.com/doc_1390> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1390> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_34" ;
-            eli:chapter "chp_VI" ;
+    lkg:metadata [ eli:chapter "chp_VI" ;
+            eli:has_part "art_34" ;
             eli:id_local "doc_1390" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;
@@ -1974,10 +1974,10 @@
  
  Ciascuno dei collaboratori ha diritto di utilizzare separatamente e indipendentemente la propria opera, salvo il disposto dei casi seguenti.""" .
 
-<http://example.com/doc_1270> a lkg:LynxDocument,
+<http://italian-copyright.it/doc_1270> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:article "art_2" ;
-            eli:chapter "chp_I" ;
+    lkg:metadata [ eli:chapter "chp_I" ;
+            eli:has_part "art_2" ;
             eli:id_local "doc_1270" ;
             eli:paragraph "para_1" ;
             dct:language "it" ] ;

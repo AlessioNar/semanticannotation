@@ -1,0 +1,164 @@
+[
+  {
+    "text": "akn:clause",
+    "suffix_key": "http://example.link.com/akn#clause",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:section",
+    "suffix_key": "http://example.link.com/akn#section",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:part",
+    "suffix_key": "http://example.link.com/akn#part",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:paragraph",
+    "suffix_key": "http://example.link.com/akn#paragraph",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:chapter",
+    "suffix_key": "http://example.link.com/akn#chapter",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:title",
+    "suffix_key": "http://example.link.com/akn#title",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:article",
+    "suffix_key": "http://example.link.com/akn#article",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:book",
+    "suffix_key": "http://example.link.com/akn#book",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:tome",
+    "suffix_key": "http://example.link.com/akn#tome",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:division",
+    "suffix_key": "http://example.link.com/akn#division",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:list",
+    "suffix_key": "http://example.link.com/akn#list",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:point",
+    "suffix_key": "http://example.link.com/akn#point",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:indent",
+    "suffix_key": "http://example.link.com/akn#indent",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:alinea",
+    "suffix_key": "http://example.link.com/akn#alinea",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:rule",
+    "suffix_key": "http://example.link.com/akn#rule",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:subrule",
+    "suffix_key": "http://example.link.com/akn#subrule",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:proviso",
+    "suffix_key": "http://example.link.com/akn#proviso",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:subsection",
+    "suffix_key": "http://example.link.com/akn#subsection",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:subpart",
+    "suffix_key": "http://example.link.com/akn#subpart",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:subparagraph",
+    "suffix_key": "http://example.link.com/akn#subparagraph",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:subchapter",
+    "suffix_key": "http://example.link.com/akn#subchapter",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:subtitle",
+    "suffix_key": "http://example.link.com/akn#subtitle",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:subdivision",
+    "suffix_key": "http://example.link.com/akn#subdivision",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:subclause",
+    "suffix_key": "http://example.link.com/akn#subclause",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:sublist",
+    "suffix_key": "http://example.link.com/akn#sublist",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:level",
+    "suffix_key": "http://example.link.com/akn#level",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  },
+  {
+    "text": "akn:transitional",
+    "suffix_key": "http://example.link.com/akn#transitional",
+    "background_color": "#FF0000",
+    "font_color": "#FFFFFF"
+  }
+]

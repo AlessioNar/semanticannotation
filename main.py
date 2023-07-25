@@ -13,8 +13,11 @@ def main():
     args = parser.parse_args()
     
     
-    if args.task == "akn":        
+    if args.task == "akn":
+        print(f'Instantiating AkomaNtosoParser for file: {args.file}')        
         parser = AkomaNtosoParser(args.file)
+
+
         parser.export_jsonl(args.output)
         
 
@@ -45,9 +48,11 @@ def main():
 
         # Merge jsonl output with jsonl origin to extend with metadata
         annotated = get_metadata('data/jsonl/origin/paragraph.jsonl', args.file)
+        
 
         print(f'Creating LynxDocument')
-        doc = LynxDocument("http://example.com/")
+        doc = LynxDocument("http://italian-copyright.it/")
+
         print(f'Parsing jsonl file: {args.file}')
         doc.load_from_jsonl(annotated)        
 

@@ -3,20 +3,27 @@ import pandas as pd
 import json
 
 class AkomaNtosoParser:
-    def __init__(self, xml_file):
-        self.xml_file = xml_file
-        root = ET.parse(self.xml_file).getroot()
-        self.chapters = self.extract_chapters(root)
+    
+    def __init__(self, xml_file):        
+        
+        root = ET.parse(xml_file).getroot()
+
+        self.chapters = self.extract_chapters(root)        
         self.articles = self.extract_articles(root)
         self.paragraphs = self.extract_paragraphs(self.articles)
-        self.df = pd.DataFrame(self.paragraphs)
-        self.df = self.create_dataframe(self.df, self.chapters)
+        self.df = pd.DataFrame(self.paragraphs)   
+        self.df = self.create_dataframe(self.df, self.chapters)     
+        
+        return None
+    
 
     def extract_chapters(self, tree):
         article_list = []
 
         # Extract chapters and articles
+
         chapters = tree.findall(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}chapter")
+        
         for chapter in chapters:
             chapter_eId = chapter.get('eId')
             heading = chapter.findtext(".//{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}heading")
@@ -164,6 +171,7 @@ class AkomaNtosoParser:
 
     def create_dataframe(self, df, chapters):
         # merge the chapter and df dataframes based on the article_id
+        
         df = pd.merge(df, chapters, on='article_id', how='left')
         
         # order the columns
