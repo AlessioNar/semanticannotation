@@ -19,16 +19,20 @@ def main():
 
     elif args.task == "skos":
         # if there is another argument, use it as the file path
+        print(f'Parsing skos file: {file_name}')
         file_name = args.file.split('.')[0]
         file_name = file_name.split('/')[-1]
         skos_parser = SKOSParser(args.file)
+
         # Get the name of the file without the extension
         top_classes = skos_parser.parse_skos()
+        print(f'Writing to file: {file_name}')
         if top_classes:
             top_classes = SKOSParser.enrich_json(top_classes)
             SKOSParser.write_to_file(top_classes, 'data/span/'+ file_name +'.json')
 
     elif args.task == "owl":
+        print(f'Parsing owl file: {args.file}')
         parser = OntologyParser(args.file)
         parser = parser.parse_owl()
         file_name = args.file.split('\\')[-1]
@@ -37,10 +41,13 @@ def main():
         parser.write_to_file(file_name)
     
     elif args.task == "jsonl":
-        # Then you can use the class like this:
+        
+        print(f'Creating LynxDocument')
         doc = LynxDocument("http://example.com/")
+        print(f'Parsing jsonl file: {args.file}')
         doc.load_from_jsonl("data/jsonl/annotated/copyright.jsonl")
-        doc.save_to_turtle("data/lynx/copyright.ttl")        
+        print(f'Writing to file: {args.output}')
+        doc.save_to_turtle(args.output)        
         
     else:
         print(f"Task {args.task} is not recognized.")
