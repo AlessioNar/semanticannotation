@@ -1,5 +1,5 @@
 import argparse
-from akn_to_owl.parser import AkomaNtosoParser
+from akn_to_owl.akn import AkomaNtosoParser
 from akn_to_owl.skos import SKOSParser
 from akn_to_owl.owl import OntologyParser
 from akn_to_owl.lynx import LynxDocument
@@ -8,13 +8,13 @@ def main():
     parser = argparse.ArgumentParser(description='Converts AKN data to OWL, then to JSON-L and finally to LYNX.')
     parser.add_argument('task', type=str, help='Task to perform, e.g., "skos"')
     parser.add_argument('file', type=str, nargs='?', help='File to parse, e.g., "data/akn/20230331_23G00044_VIGENZA_20230530.xml"')
+    parser.add_argument('output', type=str, nargs='?', help='Output file, e.g., "data/jsonl/origin/copyright.jsonl"')
     args = parser.parse_args()
     
     
-    if args.task == "akn":
-        xml_file = 'data/akn/20230331_23G00044_VIGENZA_20230530.xml'
-        parser = AkomaNtosoParser(xml_file)
-        parser.export_jsonl('data/jsonl/origin/new.jsonl')
+    if args.task == "akn":        
+        parser = AkomaNtosoParser(args.file)
+        parser.export_jsonl(args.output)
         
 
     elif args.task == "skos":

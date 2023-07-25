@@ -35,17 +35,34 @@ class LynxDocument:
         # Serialize the graph to Turtle and write to the output file
         self.g.serialize(destination=output_file, format='turtle')
     
+
+    def metadata(self, doc_uri, json_obj):
+        metadata = BNode()
+        self.g.add((doc_uri, self.LKG.metadata, metadata))
+        self.g.add((metadata, self.DCT.language, Literal("it")))
+        self.g.add((metadata, self.ELI.id_local, Literal("doc_" + str(json_obj['id']))))
+
+    def doc_uri(self, json_obj):
+        return URIRef(self.base_uri + "doc_" + str(json_obj['id']).strip())
+    
     def create_document(self, json_obj):
-        doc_uri = URIRef(self.base_uri + "doc_" + str(json_obj['id']).strip())        
+        
+        # Create the document URI
+        doc_uri = self.doc_uri(json_obj)
+
+        # Add the document URI to the graph
         self.g.add((doc_uri, RDF.type, self.NIF.Context))
         self.g.add((doc_uri, RDF.type, self.LKG.LynxDocument))
 
-        # Add the metadata    
-        metadata = BNode()
-        self.g.add((doc_uri, self.LKG.metadata, metadata))
-        self.g.add((metadata, self.DCT.language, Literal("it")))  # Add dct:language "it"
-        self.g.add((metadata, self.ELI.id_local, Literal("doc_" + str(json_obj['id']))))  # Add eli:id_local "id"
-        
+        # Add the metadata
+        self.metadata(doc_uri, json_obj)
+
+        # Add the text
+        self.text(doc_uri, json_obj)
+
+
+
+    def text(self, doc_uri, json_obj):
         # Add the text property
         text = json_obj['text']
         self.g.add((doc_uri, self.NIF.isString, Literal(text)))
@@ -56,6 +73,8 @@ class LynxDocument:
         offset_end = index - 1
         self.g.add((doc_uri, self.NIF.beginIndex, Literal(offset_ini, datatype=XSD.nonNegativeInteger)))
         self.g.add((doc_uri, self.NIF.endIndex, Literal(offset_end, datatype=XSD.nonNegativeInteger)))
+    
+    def annotations(self, doc_uri, json_obj):
 
         # Add entity annotations
         entities = json_obj['entities']
