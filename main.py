@@ -45,11 +45,12 @@ def main():
 
         # Merge jsonl output with jsonl origin to extend with metadata
         annotated = get_metadata('data/jsonl/origin/paragraph.jsonl', args.file)
-    
+
         print(f'Creating LynxDocument')
         doc = LynxDocument("http://example.com/")
         print(f'Parsing jsonl file: {args.file}')
-        doc.load_from_jsonl(annotated)
+        doc.load_from_jsonl(annotated)        
+
         print(f'Writing to file: {args.output}')
         doc.save_to_turtle(args.output)        
         

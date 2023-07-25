@@ -1,5 +1,6 @@
 import json
 from rdflib import Graph, URIRef, Literal, Namespace, RDF, XSD, BNode
+import os
 
 class LynxDocument:
     # Define the namespaces
@@ -79,6 +80,9 @@ class LynxDocument:
         self.g.add((doc_uri, self.NIF.endIndex, Literal(offset_end, datatype=XSD.nonNegativeInteger)))
     
     def annotations(self, doc_uri, json_obj):
+        
+        classes = self.get_entities_uri()
+    
 
         # Add entity annotations
         entities = json_obj['entities']
@@ -104,8 +108,35 @@ class LynxDocument:
             self.g.add((annotation_unit, self.ITSRDF.taAnnotatorsRef, URIRef("https://alessionardin.eu")))
             self.g.add((annotation_unit, self.ITSRDF.taClassRef, URIRef(label)))
             self.g.add((annotation_unit, self.ITSRDF.taConfidence, Literal(1)))
-            #self.g.add((annotation_unit, self.ITSRDF.taIdentRef, LKG.Date)) This is the complete URI of the class. It needs to be
-            # Supplied by the original data (ontology parser)
+
+            # check if the label is in the classes tuple at the first position
+            for label, uri in classes:
+                if label == entity['label']:
+                    self.g.add((annotation_unit, self.ITSRDF.taIdentRef, URIRef(uri)))
+                    break
+            
+    
             self.g.add((annotation_unit, RDF.value, Literal(value)))
-            
-            
+    
+    def get_entities_uri(self):
+        # List to store the tuples of (text, uri)
+        entities_list = []
+        data_dir = 'data/span'
+
+        # Iterate over all files in the data directory
+        for filename in os.listdir(data_dir):
+            if filename.endswith('.json'):
+                with open(os.path.join(data_dir, filename), 'r') as file:
+                    data = json.load(file)
+
+                    # Extract the text and URI of the entities and add them to the list
+                    for entity in data:
+                        entities_list.append((entity.get('text', ''), entity.get('uri', '')))
+
+        # Remove duplicates by converting the list to a set and back to a list
+        entities_list = list(set(entities_list))
+
+        return entities_list
+
+
+

@@ -16,15 +16,17 @@
  
  Sono altresi' protetti i programmi per elaboratore come opere letterarie ai sensi della Convenzione di Berna sulla protezione delle opere letterarie ed artistiche ratificata e resa esecutiva con legge 20 giugno 1978, n. 399 ((, nonche' le banche di dati che per la scelta o la disposizione del materiale costituiscono una creazione intellettuale dell'autore))""" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
-            ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ],
+            ns1:taClassRef <creation:Work> ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Work> ],
         [ a nif:AnnotationUnit ;
             rdf:value """Sono protette ai sensi di questa legge le opere dell'ingegno di carattere creativo che appartengono alla letteratura, alla musica, alle arti figurative, all'architettura, al teatro ed alla cinematografia, qualunque ne sia il modo o la forma di espressione. 
  
  Sono altresi' protetti i programmi per elaboratore come opere letterarie ai sensi della Convenzione di Berna sulla protezione delle opere letterarie ed artistiche ratificata e resa esecutiva con legge 20 giugno 1978, n. 399 ((, nonche' le banche di dati che per la scelta o la disposizione del materiale costituiscono una creazione intellettuale dell'autore))""" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
-            ns1:taClassRef <creation:Work> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taClassRef <schema1:CreativeWork> ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "620"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1269> .
@@ -36,7 +38,8 @@
             rdf:value "Le banche di dati di cui al secondo comma dell'articolo 1, intese come raccolte di opere, dati o altri elementi indipendenti sistematicamente o metodicamente disposti ed individualmente accessibili mediante mezzi elettronici o in altro modo. La tutela delle banche di dati non si estende al loro contenuto e lascia impregiudicati diritti esistenti su tale contenuto." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "1426"^^xsd:nonNegativeInteger ;
     nif:endIndex "1792"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -48,7 +51,8 @@
             rdf:value "le opere e le composizioni musicali, con o senza parole, le opere drammatico-musicali e le variazioni musicali costituenti di per se' opera originale; " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "171"^^xsd:nonNegativeInteger ;
     nif:endIndex "322"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -60,7 +64,8 @@
             rdf:value " Le opere del disegno industriale che presentino di per se' carattere creativo e valore artistico" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "1798"^^xsd:nonNegativeInteger ;
     nif:endIndex "1895"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -72,7 +77,8 @@
             rdf:value " le opere coreografiche e pantomimiche, delle quali sia fissata la traccia per iscritto o altrimenti; " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "326"^^xsd:nonNegativeInteger ;
     nif:endIndex "428"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -84,7 +90,8 @@
             rdf:value "le opere della scultura, della pittura, dell'arte del disegno, della incisione e delle arti figurative similari, compresa la scenografia; " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "433"^^xsd:nonNegativeInteger ;
     nif:endIndex "571"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -96,7 +103,8 @@
             rdf:value "le opere letterarie, drammatiche, scientifiche, didattiche, religiose, tanto se in forma scritta quanto se orale; " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "52"^^xsd:nonNegativeInteger ;
     nif:endIndex "166"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -108,7 +116,8 @@
             rdf:value " i disegni e le opere dell'architettura; " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "575"^^xsd:nonNegativeInteger ;
     nif:endIndex "616"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -120,7 +129,8 @@
             rdf:value "le opere dell'arte cinematografica, muta o sonora, sempreche' non si tratti di semplice documentazione protetta ai sensi delle norme del capo quinto del titolo secondo" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "621"^^xsd:nonNegativeInteger ;
     nif:endIndex "788"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -132,7 +142,8 @@
             rdf:value " le opere fotografiche e quelle espresse con procedimento analogo a quello della fotografia sempre che non si tratti di semplice fotografia protetta ai sensi delle norme del capo V del titolo II." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "794"^^xsd:nonNegativeInteger ;
     nif:endIndex "989"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -144,7 +155,8 @@
             rdf:value " i programmi per elaboratore, in qualsiasi forma espressi purche' originali quale risultato di creazione intellettuale dell'autore." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "994"^^xsd:nonNegativeInteger ;
     nif:endIndex "1125"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1270> .
@@ -178,7 +190,8 @@
             rdf:value "Le opere collettive, costituite dalla riunione di opere o di parti di opere, che hanno carattere di creazione autonoma, come risultato della scelta e del coordinamento ad un determinato fine letterario, scientifico, didattico, religioso, politico od artistico, quali le enciclopedie, i dizionari, le antologie, le riviste e i giornali, sono protette come opere originali, indipendentemente e senza pregiudizio dei diritti di autore sulle opere o sulle parti di opere di cui sono composte" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <schema1:CreativeWork> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <http://schema.org/CreativeWork> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "487"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1274> .
@@ -190,7 +203,8 @@
             rdf:value "Senza pregiudizio dei diritti esistenti sull'opera originaria, sono altresi' protette le elaborazioni di carattere creativo dell'opera stessa, quali le traduzioni in altra lingua, le trasformazioni da una in altra forma letteraria od artistica, le modificazioni ed aggiunte che costituiscono un rifacimento sostanziale dell'opera originaria, gli adattamenti, le riduzioni, i compendi, le variazioni non costituenti opera originale." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <creation:Manifestation> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Manifestation> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "431"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1275> .
@@ -202,7 +216,8 @@
             rdf:value "Le disposizioni di questa legge non si applicano ai testi degli atti ufficiali dello stato e delle Amministrazioni pubbliche, sia italiane che straniere." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:OfficialActException> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#OfficialActException> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "153"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1276> .
@@ -214,7 +229,8 @@
             rdf:value "creazione dell'opera, quale particolare espressione del lavoro intellettuale." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <creation:Manifestation> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Manifestation> ] ;
     nif:beginIndex "77"^^xsd:nonNegativeInteger ;
     nif:endIndex "154"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1277> .
@@ -262,7 +278,8 @@
             rdf:value "nella recitazione, esecuzione, rappresentazione o radiodiffusione dell'opera stessa." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <creation:Performance> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Performance> ] ;
     nif:beginIndex "140"^^xsd:nonNegativeInteger ;
     nif:endIndex "224"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1279> .
@@ -311,7 +328,8 @@
             rdf:value " La difesa del diritto morale puo' peraltro essere sempre esercitata individualmente da ciascun coautore e l'opera non puo' essere pubblicata, se inedita, ne' puo' essere modificata o utilizzata in forma diversa da quella della prima pubblicazione, senza l'accordo di tutti i coautori. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:MoralRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "320"^^xsd:nonNegativeInteger ;
     nif:endIndex "606"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1281> .
@@ -323,7 +341,8 @@
             rdf:value "Tuttavia, in caso di ingiustificato rifiuto di uno o piu' coautori, la pubblicazione, la modificazione o la nuova utilizzazione dell'opera puo' essere autorizzata dall'autorita' giudiziaria, alle condizioni e con le modalita' da essa stabilite." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:MoralRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "606"^^xsd:nonNegativeInteger ;
     nif:endIndex "850"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1281> .
@@ -359,7 +378,8 @@
             rdf:value "L'autore ha il diritto esclusivo di pubblicare l'opera. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:Copyright> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#Copyright> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "56"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1283> .
@@ -371,7 +391,8 @@
             rdf:value "E' considerata come prima pubblicazione la prima forma di esercizio del diritto di utilizzazione." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <creation:Manifestation> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Manifestation> ] ;
     nif:beginIndex "304"^^xsd:nonNegativeInteger ;
     nif:endIndex "401"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1283> .
@@ -383,7 +404,8 @@
             rdf:value "Ha altresi' il diritto esclusivo di utilizzare economicamente l'opera in ogni forma e modo, originale o derivato, nei limiti fissati da questa legge, ed in particolare con l'esercizio dei diritti esclusivi indicati negli articoli seguenti. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "60"^^xsd:nonNegativeInteger ;
     nif:endIndex "300"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1283> .
@@ -395,7 +417,8 @@
             rdf:value "(Salvo patto contrario, il datore di lavoro e' titolare del diritto esclusivo di utilizzazione economica del programma per elaboratore o della banca di dati creati dal lavoratore dipendente nell'esecuzione delle sue mansioni o su istruzioni impartite dallo stesso datore di lavoro.))" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "1"^^xsd:nonNegativeInteger ;
     nif:endIndex "284"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1284> .
@@ -407,7 +430,8 @@
             rdf:value "Salvo patto contrario, qualora un'opera di disegno industriale sia creata dal lavoratore dipendente nell'esercizio delle sue mansioni, il datore di lavoro e' titolare dei diritti esclusivi di utilizzazione economica dell'opera." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "2"^^xsd:nonNegativeInteger ;
     nif:endIndex "229"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1285> .
@@ -419,7 +443,8 @@
             rdf:value "Il diritto esclusivo di riprodurre ha per oggetto la moltiplicazione in copie diretta o indiretta, temporanea o permanente, in tutto o in parte dell'opera, in qualunque modo o forma, come la copiatura a mano, la stampa, la litografia, l'incisione, la fotografia, la fonografia, la cinematografia ed ogni altro procedimento di riproduzione." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:ReproductionRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ReproductionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "339"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1286> .
@@ -431,7 +456,8 @@
             rdf:value "Il diritto esclusivo di trascrivere ha per oggetto l'uso dei mezzi atti a trasformare l'opera orale in opera scritta o riprodotta con uno dei mezzi indicati nell'articolo precedente." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:FixationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#FixationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "182"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1287> .
@@ -443,7 +469,8 @@
             rdf:value "Il diritto esclusivo di eseguire, rappresentare o recitare in pubblico ha per oggetto, la esecuzione, la rappresentazione o la recitazione, comunque effettuate, sia gratuitamente che a pagamento, dell'opera musicale, dell'opera drammatica, dell'opera cinematografica, di qualsiasi altra opera di pubblico spettacolo e dell'opera orale." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:PublicPerformanceRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#PublicPerformanceRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "335"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1288> .
@@ -455,7 +482,8 @@
             rdf:value " Non e' considerata pubblica la esecuzione, rappresentazione o recitazione dell'opera entro la cerchia ordinaria della famiglia, del convitto, della scuola o dell'istituto di ricovero, purche' non effettuata a scopo di lucro. ((Non e' considerata pubblica la recitazione di opere letterarie effettuata, senza scopo di lucro, all'interno di musei, archivi e biblioteche pubblici ai fini esclusivi di promozione culturale e di valorizzazione delle opere stesse individuati in base a protocolli di intesa tra la SIAE e il Ministero dei beni e delle attivita' culturali e del turismo))" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <creation:Performance> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl#Performance> ] ;
     nif:beginIndex "339"^^xsd:nonNegativeInteger ;
     nif:endIndex "920"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1288> .
@@ -467,7 +495,8 @@
             rdf:value "Agli autori spetta un compenso ridotto quando l'esecuzione, rappresentazione o recitazione dell'opera avvengono nella sede dei centri o degli istituti di assistenza, formalmente istituiti nonche' delle associazioni di volontariato, purche' destinate ai soli soci ed invitati e sempre che non vengano effettuate a scopo di lucro. In mancanza di accordi fra la Societa' italiana degli autori ed editori (SIAE) e le associazioni di categoria interessate, la misura del compenso sara' determinata con decreto del Presidente del Consiglio dei Ministri, da emanare sentito il Ministro dell'interno." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <cro:PerformInPublic> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto.owl#PerformInPublic> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "592"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1289> .
@@ -479,7 +508,8 @@
             rdf:value "Il diritto esclusivo di comunicazione al pubblico su filo o senza filo dell'opera ha per oggetto l'impiego di uno dei mezzi di diffusione a distanza, quali il telegrafo, il telefono, la radio, la televisione ed altri mezzi analoghi e comprende la comunicazione al pubblico via satellite, la ritrasmissione ((...)) , nonche' le comunicazioni al pubblico codificate con condizioni particolari di accesso; comprende, altresi', la messa a disposizione del pubblico dell'opera in maniera che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:CommunicationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "564"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1300> .
@@ -491,7 +521,8 @@
             rdf:value "Il diritto di cui al comma 1 non si esaurisce con alcun atto di comunicazione al pubblico, ivi compresi gli atti di messa a disposizione del pubblico." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:CommunicationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "150"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1301> .
@@ -503,7 +534,8 @@
             rdf:value "La ritrasmissione di programmi televisivi o radiofonici ai sensi del presente articolo e' autorizzata dai titolari del diritto esclusivo di comunicazione al pubblico." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:CommunicationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "166"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1309> .
@@ -515,7 +547,8 @@
             rdf:value "I titolari del diritto d'autore e dei diritti connessi diversi dagli organismi di diffusione radiotelevisiva esercitano il diritto di concedere o rifiutare l'autorizzazione per una ritrasmissione all'operatore di un servizio di ritrasmissione che intenda acquisirne i diritti esclusivamente attraverso un organismo di gestione collettiva." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:CommunicationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "338"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1310> .
@@ -575,7 +608,8 @@
             rdf:value "Il diritto esclusivo di distribuzione ha per oggetto la messa in commercio o in circolazione, o comunque a disposizione, del pubblico, con qualsiasi mezzo ed a qualsiasi titolo, dell'originale dell'opera o degli esemplari di essa e comprende, altresi', il diritto esclusivo di introdurre nel territorio degli Stati della Comunita' europea, a fini di distribuzione, le riproduzioni fatte negli Stati extracomunitari." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:DistributionRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DistributionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "415"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1332> .
@@ -587,7 +621,8 @@
             rdf:value "Il diritto di distribuzione dell'originale o di copie dell'opera non si esaurisce nella Comunita' europea, se non nel caso in cui la prima vendita o il primo atto di trasferimento della proprieta' nella Comunita' sia effettuato dal titolare del diritto o con il suo consenso." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:DistributionRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DistributionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "275"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1333> .
@@ -599,7 +634,8 @@
             rdf:value "Quanto disposto dal comma 2 non si applica alla messa a disposizione del pubblico di opere in modo che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente, anche nel caso in cui sia consentita la realizzazione di copie dell'opera." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:DistributionRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#DistributionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "255"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1334> .
@@ -611,7 +647,8 @@
             rdf:value "Ai fini dell'esaurimento di cui al comma 2, non costituisce esercizio del diritto esclusivo di distribuzione la consegna gratuita di esemplari delle opere, effettuata o consentita dal titolare a fini promozionali, ovvero di insegnamento o di ricerca scientifica." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EducationOrResearchException> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EducationOrResearchException> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "262"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1335> .
@@ -623,7 +660,8 @@
             rdf:value "Il diritto esclusivo di tradurre ha per oggetto la traduzione dell'opera in altra lingua o dialetto. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:TranslationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TranslationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "101"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1336> .
@@ -635,7 +673,8 @@
             rdf:value " Il diritto esclusivo di elaborare comprende tutte le forme di modificazione, di elaborazione e di trasformazione dell'opera previste nell'art. 4. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:TransformationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#TransformationRight> ] ;
     nif:beginIndex "104"^^xsd:nonNegativeInteger ;
     nif:endIndex "251"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1336> .
@@ -647,7 +686,8 @@
             rdf:value "L'autore ha altresi' il diritto esclusivo di pubblicare le sue opere in raccolta. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:Copyright> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#Copyright> ] ;
     nif:beginIndex "255"^^xsd:nonNegativeInteger ;
     nif:endIndex "337"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1336> .
@@ -659,7 +699,8 @@
             rdf:value " Ha infine il diritto esclusivo di introdurre nell'opera qualsiasi modificazione." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:AdaptationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#AdaptationRight> ] ;
     nif:beginIndex "340"^^xsd:nonNegativeInteger ;
     nif:endIndex "421"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1336> .
@@ -671,7 +712,8 @@
             rdf:value "Il diritto esclusivo di noleggiare ha per oggetto la cessione in uso degli originali, di copie o di supporti di opere, tutelate dal diritto d'autore, fatta per un periodo limitato di tempo ed ai fini del conseguimento di un beneficio economico o commerciale diretto o indiretto." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:RentalRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "278"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1337> .
@@ -683,7 +725,8 @@
             rdf:value "Il diritto esclusivo di dare in prestito ha per oggetto la cessione in uso degli originali, di copie o di supporti di opere, tutelate dal diritto d'autore, fatta da istituzioni aperte al pubblico, per un periodo di tempo limitato, a fini diversi da quelli di cui al comma 1." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:RentalRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "274"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1338> .
@@ -695,7 +738,8 @@
             rdf:value "L'autore ha il potere esclusivo di autorizzare il noleggio o il prestito da parte di terzi." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:RentalRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "91"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1339> .
@@ -707,7 +751,8 @@
             rdf:value "I suddetti diritti e poteri non si esauriscono con la vendita o con la distribuzione in qualsiasi forma degli originali, di copie o di supporti delle opere." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:RentalRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "156"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1340> .
@@ -719,7 +764,8 @@
             rdf:value "L'autore, anche in caso di cessione del diritto di noleggio ad un produttore di fonogrammi o di opere cinematografiche o audiovisive o sequenze di immagini in movimento, conserva il diritto di ottenere un'equa remunerazione per il noleggio da questi a sua volta concluso con terzi. Ogni patto contrario e' nullo.In difetto di accordo da concludersi tra le categorie interessate quali individuate dall'articolo 16, primo comma, del regolamento, detto compenso e' stabilito ((dall'Autorita' per le garanzie nelle comunicazioni secondo le procedure previste da apposito regolamento da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione)) ." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:RentalRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "676"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1341> .
@@ -731,7 +777,8 @@
             rdf:value "I commi da 1 a 4 non si applicano in relazione a progetti o disegni di edifici e ad opere di arte applicata." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:RentalRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#RentalRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "108"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1342> .
@@ -743,7 +790,8 @@
             rdf:value "l'autore conserva il diritto di rivendicare la paternita' dell'opera e di opporsi a qualsiasi deformazione, mutilazione od altra modificazione, ed a ogni atto a danno dell'opera stessa, che possano essere di pregiudizio al suo onore o alla sua reputazione))" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:MoralRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "181"^^xsd:nonNegativeInteger ;
     nif:endIndex "438"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1347> .
@@ -755,7 +803,8 @@
             rdf:value "diritti esclusivi di utilizzazione economica dell'opera" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "24"^^xsd:nonNegativeInteger ;
     nif:endIndex "79"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1347> .
@@ -767,7 +816,8 @@
             rdf:value "Tuttavia nelle opere dell'architettura l'autore non puo' opporsi alle modificazioni che si rendessero necessarie nel corso della realizzazione. Del pari non potra' opporsi a quelle altre modificazioni che si rendesse necessario apportare all'opera gia' realizzata. Pero' se all'opera sia riconosciuta dalla competente autorita' statale importante carattere artistico spetteranno all'autore lo studio e l'attuazione di tali modificazioni." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:MoralRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "439"^^xsd:nonNegativeInteger ;
     nif:endIndex "876"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1347> .
@@ -783,7 +833,8 @@
  Nonostante qualunque precedente patto contrario, gli aventi causa dell'autore che si sia rivelato ne dovranno indicare il nome nelle pubblicazioni, riproduzioni, trascrizioni, esecuzioni, rappresentazioni, recitazioni e diffusioni o in qualsiasi altra forma di manifestazione o annuncio al pubblico.""" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:AttributionRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#AttributionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "439"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1348> .
@@ -795,7 +846,8 @@
             rdf:value "I diritti indicati nei precedenti articoli sono inalienabili. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:MoralRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "62"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1349> .
@@ -807,7 +859,8 @@
             rdf:value "Tuttavia l'autore che abbia conosciute ed accettate le modificazioni della propria opera non e' piu' ammesso ad agire per impedirne l'esecuzione o per chiederne la soppressione." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:IntegrityRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#IntegrityRight> ] ;
     nif:beginIndex "66"^^xsd:nonNegativeInteger ;
     nif:endIndex "243"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1349> .
@@ -823,7 +876,8 @@
  L'azione, qualora finalita' pubbliche lo esigano, puo' altresi' essere esercitata dal Ministro per la cultura popolare, sentita l'Associazione sindacale competente.""" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:MoralRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#MoralRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "481"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1350> .
@@ -835,7 +889,8 @@
             rdf:value "Il diritto di pubblicare le opere inedite spetta agli eredi dell'autore o ai legatari delle opere stesse, salvo che l'autore abbia espressamente vietata la pubblicazione o l'abbia affidata ad altri. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:CommunicationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "199"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1351> .
@@ -847,7 +902,8 @@
             rdf:value "Qualora l'autore abbia fissato un termine per la pubblicazione, le opere inedite non possono essere pubblicate prima della sua scadenza." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:CommunicationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "203"^^xsd:nonNegativeInteger ;
     nif:endIndex "339"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1351> .
@@ -863,7 +919,8 @@
  Sono applicabili a queste opere le disposizioni contenute nella sezione seconda del capo secondo del titolo terzo.""" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:CommunicationRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#CommunicationRight> ] ;
     nif:beginIndex "343"^^xsd:nonNegativeInteger ;
     nif:endIndex "688"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1351> .
@@ -875,7 +932,8 @@
             rdf:value "I diritti di utilizzazione economica dell'opera durano tutta la vita dell'autore e sino al termine del cinquantesimo anno solare dopo la sua morte" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "146"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1352> .
@@ -887,7 +945,8 @@
             rdf:value "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1355> .
@@ -899,7 +958,8 @@
             rdf:value "Nelle opere indicate nell'art. 10, nonche' in quelle drammatico-musicali, coreografiche e pantomimiche, la durata dei diritti utilizzazione economica spettanti a ciascuno dei coadiutori o dei collaboratori si determina sulla vita del coautore che muore per ultimo. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "265"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1356> .
@@ -911,7 +971,8 @@
             rdf:value "Nelle opere collettive la durata dei diritti di utilizzazione economica spettante ad ogni collaboratore si determina sulla vita di ciascuno. La durata dei diritti di utilizzazione economica dell'opera come un tutto e' di cinquanta anni dalla prima pubblicazione, qualunque sia la forma nella quale la pubblicazione e' stata effettuata, salve le disposizioni dell'art. 30 per le riviste, i giornali e le altre opere periodiche. ((14))" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "269"^^xsd:nonNegativeInteger ;
     nif:endIndex "702"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1356> .
@@ -923,7 +984,8 @@
             rdf:value "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1359> .
@@ -939,7 +1001,8 @@
  Se prima della scadenza di detto termine l'autore si e' rivelato o la rivelazione e' fatta dalle persone indicate dall'art. 23 o da persone autorizzate dall'autore, nelle forme stabilite dall'articolo seguente, si applica il termine di durata determinato nell'art. 25. ((14))""" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "531"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1360> .
@@ -951,7 +1014,8 @@
             rdf:value "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1363> .
@@ -967,7 +1031,8 @@
  La denuncia di rivelazione e' pubblicata nelle forme stabilite da dette disposizioni ed ha effetto a partire dalla data del deposito della denuncia di fronte ai terzi che abbiano acquistati diritti sull'opera come anonima o pseudonima. """ ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "551"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1365> .
@@ -979,7 +1044,8 @@
             rdf:value "La durata dei diritti esclusivi di utilizzazione economica spettanti, a termini dell'art. 11, alle Amministrazioni dello Stato, al Partito Nazionale Fascista, alle Provincie, ai Comuni, alle Accademie, agli enti pubblici culturali nonche' agli enti privati che non perseguano scopi di lucro, e' di vent'anni a partire dalla prima pubblicazione, qualunque sia la forma nella quale la pubblicazione e' stata effettuata. Per le comunicazioni e le memorie pubblicate dalle Accademie e dagli altri enti pubblici culturali tale durata e' ridotta a due anni; trascorsi i quali, l'autore riprende integralmente la libera disponibilita' dei suoi scritti." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "645"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1369> .
@@ -991,7 +1057,8 @@
             rdf:value "Quando le parti o i volumi di una stessa opera siano pubblicati separatamente, in tempi diversi, la durata dei diritti di utilizzazione economica, che sia fissata ad anni, decorre per ciascuna parte o per ciascun volume dall'anno della pubblicazione. Le frazioni di anno giovano all'autore. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "291"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1370> .
@@ -1003,7 +1070,8 @@
             rdf:value "Se si tratta di opera collettiva periodica, quale la rivista o il giornale, la durata dei diritti e' calcolata egualmente a partire dalla fine di ogni anno dalla pubblicazione dei singoli fascicoli o numeri" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "295"^^xsd:nonNegativeInteger ;
     nif:endIndex "501"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1370> .
@@ -1015,7 +1083,8 @@
             rdf:value "((Nelle opere pubblicate per la prima volta dopo la morte dell'autore, che non ricadono nella previsione dell'articolo 85-ter, la durata dei diritti esclusivi di utilizzazione economica e' di settant'anni a partire dalla morte dell'autore.))" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "241"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1371> .
@@ -1027,7 +1096,8 @@
             rdf:value "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1374> .
@@ -1039,7 +1109,8 @@
             rdf:value "((Fermo restando quanto stabilito dall'articolo 44, i diritti di utilizzazione economica dell'opera cinematografica o assimilata durano sino al termine del settantesimo anno dopo la morte dell'ultima persona sopravvissuta fra le seguenti persone: il direttore artistico, gli autori della sceneggiatura, ivi compreso l'autore del dialogo, e l'autore della musica specificamente creata per essere utilizzata nell'opera cinematografica o assimilata.))" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "448"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1375> .
@@ -1051,7 +1122,8 @@
             rdf:value "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1378> .
@@ -1063,7 +1135,8 @@
             rdf:value "((I diritti di utilizzazione economica dell'opera fotografica durano sino al termine del settantesimo anno dopo la morte dell'autore.))" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "135"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1379> .
@@ -1075,7 +1148,8 @@
             rdf:value "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "361"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1382> .
@@ -1087,7 +1161,8 @@
             rdf:value "((I termini finali di durata dei diritti di utilizzazione economica previsti dalle disposizioni della presente sezione si computano, nei rispettivi casi, a decorrere dal 1 gennaio dell'anno successivo a quello in cui si verifica la morte dell'autore o altro evento considerato dalla norma))" ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "290"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1383> .
@@ -1099,7 +1174,8 @@
             rdf:value "Alla scadenza della durata di protezione di un'opera delle arti visive, anche come individuate all'articolo 2, il materiale derivante da un atto di riproduzione di tale opera non e' soggetto al diritto d'autore o a diritti connessi, salvo che costituisca un'opera originale. Restano ferme le disposizioni in materia di riproduzione dei beni culturali di cui al decreto legislativo 22 gennaio 2004, n. 42 ." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:ReproductionRight> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#ReproductionRight> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "405"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1384> .
@@ -1111,7 +1187,8 @@
             rdf:value "L'esercizio dei diritti di utilizzazione economica spetta all'autore della parte musicale, salvi tra le parti i diritti derivanti dalla comunione." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "146"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1390> .
@@ -1123,7 +1200,8 @@
             rdf:value " Il profitto della utilizzazione economica e' ripartito in proporzione del valore del rispettivo contributo letterario o musicale." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "150"^^xsd:nonNegativeInteger ;
     nif:endIndex "280"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1390> .
@@ -1135,7 +1213,8 @@
             rdf:value " Nelle opere liriche si considera che il valore della parte musicale rappresenti la frazione di tre quarti del valore complessivo dell'opera. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "284"^^xsd:nonNegativeInteger ;
     nif:endIndex "426"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1390> .
@@ -1147,7 +1226,8 @@
             rdf:value "Nelle operette, nei melologhi, nelle composizioni musicali con parole, nei balli e balletti musicali, il valore dei due contributi si considera uguale. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "430"^^xsd:nonNegativeInteger ;
     nif:endIndex "582"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1390> .
@@ -1159,7 +1239,8 @@
             rdf:value "Ciascuno dei collaboratori ha diritto di utilizzare separatamente e indipendentemente la propria opera, salvo il disposto dei casi seguenti." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:Copyright> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#Copyright> ] ;
     nif:beginIndex "586"^^xsd:nonNegativeInteger ;
     nif:endIndex "726"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1390> .
@@ -1171,7 +1252,8 @@
             rdf:value "Nelle opere coreografiche o pantomimiche e nelle altre composte di musica, di parola e di danze o di mimica, quali le riviste musicali ed opere simili, in cui la parte musicale non ha funzione o valore principale, l'esercizio dei diritti di utilizzazione economica, salvo patto contrario, spetta all'autore della parte coreografica o pantomimica e, nelle riviste musicali, all'autore della parte letteraria. " ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "408"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1393> .
@@ -1183,7 +1265,8 @@
             rdf:value "Nell'opera collettiva, salvo patto in contrario, il diritto di utilizzazione economica spetta all'editore dell'opera stessa, senza pregiudizio derivante dall'applicazione dell'art." ;
             ns1:taAnnotatorsRef <https://alessionardin.eu> ;
             ns1:taClassRef <rights:EconomicRights> ;
-            ns1:taConfidence 1 ] ;
+            ns1:taConfidence 1 ;
+            ns1:taIdentRef <https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl#EconomicRights> ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "180"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://example.com/doc_1394> .
