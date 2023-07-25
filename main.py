@@ -41,7 +41,6 @@ def main():
         parser.write_to_file(file_name)
     
     elif args.task == "jsonl":
-        
         print(f'Creating LynxDocument')
         doc = LynxDocument("http://example.com/")
         print(f'Parsing jsonl file: {args.file}')
