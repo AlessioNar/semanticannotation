@@ -2,7 +2,7 @@ import argparse
 from akn_to_owl.parser import AkomaNtosoParser
 from akn_to_owl.skos import SKOSParser
 from akn_to_owl.owl import OntologyParser
-from akn_to_owl.jsonltolynx import convert_jsonl_to_lynx
+from akn_to_owl.lynx import LynxDocument
 
 def main():
     parser = argparse.ArgumentParser(description='Converts AKN data to OWL, then to JSON-L and finally to LYNX.')
@@ -37,9 +37,10 @@ def main():
         parser.write_to_file(file_name)
     
     elif args.task == "jsonl":
-        jsonl_file = 'data/jsonl/annotated/copyright.jsonl'
-        output_file = 'data/lynx/copyright.ttl'
-        convert_jsonl_to_lynx(jsonl_file, output_file, "http://example.com/")
+        # Then you can use the class like this:
+        doc = LynxDocument("http://example.com/")
+        doc.load_from_jsonl("data/jsonl/annotated/copyright.jsonl")
+        doc.save_to_turtle("data/lynx/copyright.ttl")        
         
     else:
         print(f"Task {args.task} is not recognized.")

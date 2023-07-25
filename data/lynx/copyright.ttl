@@ -890,34 +890,25 @@
     nif:referenceContext <http://example.com/doc_1270> ;
     ns1:taIdentRef <schema1:CreativeWork> .
 
-<http://example.com/doc_1271> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1271> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1271" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1271" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "18"^^xsd:nonNegativeInteger ;
     nif:isString "-------------------" .
 
-<http://example.com/doc_1272> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1272> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1272" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1272" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "17"^^xsd:nonNegativeInteger ;
     nif:isString "AGGIORNAMENTO (26)" .
 
-<http://example.com/doc_1280> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1280> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1280" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1280" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "296"^^xsd:nonNegativeInteger ;
@@ -925,12 +916,9 @@
  
  Questa disposizione non si applica allorche' si tratti degli pseudonimi indicati nel secondo comma dell'articolo precedente.""" .
 
-<http://example.com/doc_1269> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1269> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1269" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1269" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "619"^^xsd:nonNegativeInteger ;
@@ -938,287 +926,209 @@
  
  Sono altresi' protetti i programmi per elaboratore come opere letterarie ai sensi della Convenzione di Berna sulla protezione delle opere letterarie ed artistiche ratificata e resa esecutiva con legge 20 giugno 1978, n. 399 ((, nonche' le banche di dati che per la scelta o la disposizione del materiale costituiscono una creazione intellettuale dell'autore))""" .
 
-<http://example.com/doc_1274> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1274> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1274" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1274" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "487"^^xsd:nonNegativeInteger ;
     nif:isString "Le opere collettive, costituite dalla riunione di opere o di parti di opere, che hanno carattere di creazione autonoma, come risultato della scelta e del coordinamento ad un determinato fine letterario, scientifico, didattico, religioso, politico od artistico, quali le enciclopedie, i dizionari, le antologie, le riviste e i giornali, sono protette come opere originali, indipendentemente e senza pregiudizio dei diritti di autore sulle opere o sulle parti di opere di cui sono composte." .
 
-<http://example.com/doc_1275> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1275> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1275" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1275" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "430"^^xsd:nonNegativeInteger ;
     nif:isString "Senza pregiudizio dei diritti esistenti sull'opera originaria, sono altresi' protette le elaborazioni di carattere creativo dell'opera stessa, quali le traduzioni in altra lingua, le trasformazioni da una in altra forma letteraria od artistica, le modificazioni ed aggiunte che costituiscono un rifacimento sostanziale dell'opera originaria, gli adattamenti, le riduzioni, i compendi, le variazioni non costituenti opera originale." .
 
-<http://example.com/doc_1276> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1276> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1276" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1276" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "152"^^xsd:nonNegativeInteger ;
     nif:isString "Le disposizioni di questa legge non si applicano ai testi degli atti ufficiali dello stato e delle Amministrazioni pubbliche, sia italiane che straniere." .
 
-<http://example.com/doc_1277> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1277> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1277" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1277" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "153"^^xsd:nonNegativeInteger ;
     nif:isString "Il titolo originario dell'acquisto del diritto di autore e' costituito dalla creazione dell'opera, quale particolare espressione del lavoro intellettuale." .
 
-<http://example.com/doc_1284> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1284> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1284" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1284" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "283"^^xsd:nonNegativeInteger ;
     nif:isString "((Salvo patto contrario, il datore di lavoro e' titolare del diritto esclusivo di utilizzazione economica del programma per elaboratore o della banca di dati creati dal lavoratore dipendente nell'esecuzione delle sue mansioni o su istruzioni impartite dallo stesso datore di lavoro.))" .
 
-<http://example.com/doc_1285> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1285> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1285" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1285" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "230"^^xsd:nonNegativeInteger ;
     nif:isString "((Salvo patto contrario, qualora un'opera di disegno industriale sia creata dal lavoratore dipendente nell'esercizio delle sue mansioni, il datore di lavoro e' titolare dei diritti esclusivi di utilizzazione economica dell'opera.))" .
 
-<http://example.com/doc_1286> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1286> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1286" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1286" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "338"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di riprodurre ha per oggetto la moltiplicazione in copie diretta o indiretta, temporanea o permanente, in tutto o in parte dell'opera, in qualunque modo o forma, come la copiatura a mano, la stampa, la litografia, l'incisione, la fotografia, la fonografia, la cinematografia ed ogni altro procedimento di riproduzione." .
 
-<http://example.com/doc_1287> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1287> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1287" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1287" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "181"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di trascrivere ha per oggetto l'uso dei mezzi atti a trasformare l'opera orale in opera scritta o riprodotta con uno dei mezzi indicati nell'articolo precedente." .
 
-<http://example.com/doc_1289> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1289> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1289" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1289" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "591"^^xsd:nonNegativeInteger ;
     nif:isString "Agli autori spetta un compenso ridotto quando l'esecuzione, rappresentazione o recitazione dell'opera avvengono nella sede dei centri o degli istituti di assistenza, formalmente istituiti nonche' delle associazioni di volontariato, purche' destinate ai soli soci ed invitati e sempre che non vengano effettuate a scopo di lucro. In mancanza di accordi fra la Societa' italiana degli autori ed editori (SIAE) e le associazioni di categoria interessate, la misura del compenso sara' determinata con decreto del Presidente del Consiglio dei Ministri, da emanare sentito il Ministro dell'interno." .
 
-<http://example.com/doc_1300> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1300> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1300" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1300" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "563"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di comunicazione al pubblico su filo o senza filo dell'opera ha per oggetto l'impiego di uno dei mezzi di diffusione a distanza, quali il telegrafo, il telefono, la radio, la televisione ed altri mezzi analoghi e comprende la comunicazione al pubblico via satellite, la ritrasmissione ((...)) , nonche' le comunicazioni al pubblico codificate con condizioni particolari di accesso; comprende, altresi', la messa a disposizione del pubblico dell'opera in maniera che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente." .
 
-<http://example.com/doc_1301> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1301> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1301" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1301" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "149"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto di cui al comma 1 non si esaurisce con alcun atto di comunicazione al pubblico, ivi compresi gli atti di messa a disposizione del pubblico." .
 
-<http://example.com/doc_1309> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1309> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1309" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1309" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "165"^^xsd:nonNegativeInteger ;
     nif:isString "La ritrasmissione di programmi televisivi o radiofonici ai sensi del presente articolo e' autorizzata dai titolari del diritto esclusivo di comunicazione al pubblico." .
 
-<http://example.com/doc_1311> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1311> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1311" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1311" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "214"^^xsd:nonNegativeInteger ;
     nif:isString "Gli organismi di gestione collettiva di cui al presente articolo devono essere in possesso dei requisiti di cui all' articolo 8 del decreto legislativo 15 marzo 2017, n. 35 , e operare ai sensi del medesimo decreto." .
 
-<http://example.com/doc_1313> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1313> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1313" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1313" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "561"^^xsd:nonNegativeInteger ;
     nif:isString "I titolari dei diritti che non hanno conferito mandato a un organismo di gestione collettiva hanno gli stessi diritti e obblighi dei titolari che hanno conferito mandato all'organismo di gestione collettiva che ha stipulato un accordo con l'operatore del servizio di ritrasmissione. I titolari che non hanno conferito mandato a un organismo di gestione collettiva possono esercitare i diritti esclusivi di comunicazione al pubblico entro il termine di tre anni decorrenti dalla data della ritrasmissione che comprende la propria opera o altro materiale protetto." .
 
-<http://example.com/doc_1314> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1314> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1314" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1314" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "321"^^xsd:nonNegativeInteger ;
     nif:isString "Quando l'emissione primaria proviene da un altro Stato membro dell'Unione europea e l'operatore del servizio di ritrasmissione intende acquisire i diritti di ritrasmissione per il territorio italiano, l'autorizzazione alla ritrasmissione e' rilasciata dagli organismi di gestione collettiva nazionali ai sensi del comma 5." .
 
-<http://example.com/doc_1332> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1332> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1332" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1332" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "414"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di distribuzione ha per oggetto la messa in commercio o in circolazione, o comunque a disposizione, del pubblico, con qualsiasi mezzo ed a qualsiasi titolo, dell'originale dell'opera o degli esemplari di essa e comprende, altresi', il diritto esclusivo di introdurre nel territorio degli Stati della Comunita' europea, a fini di distribuzione, le riproduzioni fatte negli Stati extracomunitari." .
 
-<http://example.com/doc_1333> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1333> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1333" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1333" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "274"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto di distribuzione dell'originale o di copie dell'opera non si esaurisce nella Comunita' europea, se non nel caso in cui la prima vendita o il primo atto di trasferimento della proprieta' nella Comunita' sia effettuato dal titolare del diritto o con il suo consenso." .
 
-<http://example.com/doc_1334> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1334> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1334" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1334" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "254"^^xsd:nonNegativeInteger ;
     nif:isString "Quanto disposto dal comma 2 non si applica alla messa a disposizione del pubblico di opere in modo che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente, anche nel caso in cui sia consentita la realizzazione di copie dell'opera." .
 
-<http://example.com/doc_1335> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1335> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1335" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1335" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "261"^^xsd:nonNegativeInteger ;
     nif:isString "Ai fini dell'esaurimento di cui al comma 2, non costituisce esercizio del diritto esclusivo di distribuzione la consegna gratuita di esemplari delle opere, effettuata o consentita dal titolare a fini promozionali, ovvero di insegnamento o di ricerca scientifica." .
 
-<http://example.com/doc_1337> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1337> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1337" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1337" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "277"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di noleggiare ha per oggetto la cessione in uso degli originali, di copie o di supporti di opere, tutelate dal diritto d'autore, fatta per un periodo limitato di tempo ed ai fini del conseguimento di un beneficio economico o commerciale diretto o indiretto." .
 
-<http://example.com/doc_1338> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1338> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1338" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1338" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "273"^^xsd:nonNegativeInteger ;
     nif:isString "Il diritto esclusivo di dare in prestito ha per oggetto la cessione in uso degli originali, di copie o di supporti di opere, tutelate dal diritto d'autore, fatta da istituzioni aperte al pubblico, per un periodo di tempo limitato, a fini diversi da quelli di cui al comma 1." .
 
-<http://example.com/doc_1339> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1339> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1339" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1339" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "90"^^xsd:nonNegativeInteger ;
     nif:isString "L'autore ha il potere esclusivo di autorizzare il noleggio o il prestito da parte di terzi." .
 
-<http://example.com/doc_1340> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1340> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1340" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1340" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "155"^^xsd:nonNegativeInteger ;
     nif:isString "I suddetti diritti e poteri non si esauriscono con la vendita o con la distribuzione in qualsiasi forma degli originali, di copie o di supporti delle opere." .
 
-<http://example.com/doc_1341> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1341> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1341" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1341" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "682"^^xsd:nonNegativeInteger ;
     nif:isString "L'autore, anche in caso di cessione del diritto di noleggio ad un produttore di fonogrammi o di opere cinematografiche o audiovisive o sequenze di immagini in movimento, conserva il diritto di ottenere un'equa remunerazione per il noleggio da questi a sua volta concluso con terzi. Ogni patto contrario e' nullo.In difetto di accordo da concludersi tra le categorie interessate quali individuate dall'articolo 16, primo comma, del regolamento, detto compenso e' stabilito ((dall'Autorita' per le garanzie nelle comunicazioni secondo le procedure previste da apposito regolamento da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione)) . ((53))" .
 
-<http://example.com/doc_1342> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1342> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1342" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1342" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "107"^^xsd:nonNegativeInteger ;
     nif:isString "I commi da 1 a 4 non si applicano in relazione a progetti o disegni di edifici e ad opere di arte applicata." .
 
-<http://example.com/doc_1348> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1348> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1348" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1348" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "438"^^xsd:nonNegativeInteger ;
@@ -1226,12 +1136,9 @@
  
  Nonostante qualunque precedente patto contrario, gli aventi causa dell'autore che si sia rivelato ne dovranno indicare il nome nelle pubblicazioni, riproduzioni, trascrizioni, esecuzioni, rappresentazioni, recitazioni e diffusioni o in qualsiasi altra forma di manifestazione o annuncio al pubblico.""" .
 
-<http://example.com/doc_1350> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1350> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1350" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1350" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "480"^^xsd:nonNegativeInteger ;
@@ -1239,45 +1146,33 @@
  
  L'azione, qualora finalita' pubbliche lo esigano, puo' altresi' essere esercitata dal Ministro per la cultura popolare, sentita l'Associazione sindacale competente.""" .
 
-<http://example.com/doc_1352> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1352> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1352" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1352" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "153"^^xsd:nonNegativeInteger ;
     nif:isString "I diritti di utilizzazione economica dell'opera durano tutta la vita dell'autore e sino al termine del cinquantesimo anno solare dopo la sua morte. ((14))" .
 
-<http://example.com/doc_1355> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1355> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1355" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1355" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1359> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1359> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1359" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1359" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1360> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1360> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1360" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1360" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "530"^^xsd:nonNegativeInteger ;
@@ -1285,23 +1180,17 @@
  
  Se prima della scadenza di detto termine l'autore si e' rivelato o la rivelazione e' fatta dalle persone indicate dall'art. 23 o da persone autorizzate dall'autore, nelle forme stabilite dall'articolo seguente, si applica il termine di durata determinato nell'art. 25. ((14))""" .
 
-<http://example.com/doc_1363> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1363> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1363" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1363" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1365> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1365> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1365" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1365" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "556"^^xsd:nonNegativeInteger ;
@@ -1309,111 +1198,81 @@
  
  La denuncia di rivelazione e' pubblicata nelle forme stabilite da dette disposizioni ed ha effetto a partire dalla data del deposito della denuncia di fronte ai terzi che abbiano acquistati diritti sull'opera come anonima o pseudonima. ((26))""" .
 
-<http://example.com/doc_1369> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1369> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1369" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1369" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "644"^^xsd:nonNegativeInteger ;
     nif:isString "La durata dei diritti esclusivi di utilizzazione economica spettanti, a termini dell'art. 11, alle Amministrazioni dello Stato, al Partito Nazionale Fascista, alle Provincie, ai Comuni, alle Accademie, agli enti pubblici culturali nonche' agli enti privati che non perseguano scopi di lucro, e' di vent'anni a partire dalla prima pubblicazione, qualunque sia la forma nella quale la pubblicazione e' stata effettuata. Per le comunicazioni e le memorie pubblicate dalle Accademie e dagli altri enti pubblici culturali tale durata e' ridotta a due anni; trascorsi i quali, l'autore riprende integralmente la libera disponibilita' dei suoi scritti." .
 
-<http://example.com/doc_1371> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1371> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1371" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1371" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "240"^^xsd:nonNegativeInteger ;
     nif:isString "((Nelle opere pubblicate per la prima volta dopo la morte dell'autore, che non ricadono nella previsione dell'articolo 85-ter, la durata dei diritti esclusivi di utilizzazione economica e' di settant'anni a partire dalla morte dell'autore.))" .
 
-<http://example.com/doc_1374> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1374> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1374" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1374" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1375> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1375> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1375" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1375" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "447"^^xsd:nonNegativeInteger ;
     nif:isString "((Fermo restando quanto stabilito dall'articolo 44, i diritti di utilizzazione economica dell'opera cinematografica o assimilata durano sino al termine del settantesimo anno dopo la morte dell'ultima persona sopravvissuta fra le seguenti persone: il direttore artistico, gli autori della sceneggiatura, ivi compreso l'autore del dialogo, e l'autore della musica specificamente creata per essere utilizzata nell'opera cinematografica o assimilata.))" .
 
-<http://example.com/doc_1378> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1378> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1378" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1378" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1379> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1379> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1379" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1379" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "134"^^xsd:nonNegativeInteger ;
     nif:isString "((I diritti di utilizzazione economica dell'opera fotografica durano sino al termine del settantesimo anno dopo la morte dell'autore.))" .
 
-<http://example.com/doc_1382> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1382> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1382" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1382" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "360"^^xsd:nonNegativeInteger ;
     nif:isString "La L. 6 febbraio 1996, n. 52 , ha disposto (con l'art. 17, comma 1) che \"I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633 , e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni.\"" .
 
-<http://example.com/doc_1383> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1383> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1383" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1383" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "289"^^xsd:nonNegativeInteger ;
     nif:isString "((I termini finali di durata dei diritti di utilizzazione economica previsti dalle disposizioni della presente sezione si computano, nei rispettivi casi, a decorrere dal 1 gennaio dell'anno successivo a quello in cui si verifica la morte dell'autore o altro evento considerato dalla norma))" .
 
-<http://example.com/doc_1384> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1384> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1384" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1384" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "404"^^xsd:nonNegativeInteger ;
     nif:isString "Alla scadenza della durata di protezione di un'opera delle arti visive, anche come individuate all'articolo 2, il materiale derivante da un atto di riproduzione di tale opera non e' soggetto al diritto d'autore o a diritti connessi, salvo che costituisca un'opera originale. Restano ferme le disposizioni in materia di riproduzione dei beni culturali di cui al decreto legislativo 22 gennaio 2004, n. 42 ." .
 
-<http://example.com/doc_1393> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1393> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1393" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1393" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "546"^^xsd:nonNegativeInteger ;
@@ -1421,23 +1280,17 @@
  
  Con le modificazioni richieste dalle norme del comma precedente sono applicabili a queste opere le disposizioni degli articoli 35 e 36.""" .
 
-<http://example.com/doc_1394> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1394> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1394" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1394" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "179"^^xsd:nonNegativeInteger ;
     nif:isString "Nell'opera collettiva, salvo patto in contrario, il diritto di utilizzazione economica spetta all'editore dell'opera stessa, senza pregiudizio derivante dall'applicazione dell'art." .
 
-<http://example.com/doc_1278> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1278> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1278" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1278" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "184"^^xsd:nonNegativeInteger ;
@@ -1445,12 +1298,9 @@
  
  E' considerato autore delle elaborazioni l'elaboratore, nei limiti del suo lavoro.""" .
 
-<http://example.com/doc_1282> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1282> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1282" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1282" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "455"^^xsd:nonNegativeInteger ;
@@ -1458,12 +1308,9 @@
  
  Lo stesso diritto spetta agli enti privati che non perseguano scopi di lucro, salvo diverso accordo con gli autori delle opere pubblicate, nonche' alle Accademie e agli altri enti pubblici culturali sulla raccolta dei loro atti e sulle loro pubblicazioni.""" .
 
-<http://example.com/doc_1288> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1288> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1288" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1288" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "919"^^xsd:nonNegativeInteger ;
@@ -1471,23 +1318,17 @@
  
  Non e' considerata pubblica la esecuzione, rappresentazione o recitazione dell'opera entro la cerchia ordinaria della famiglia, del convitto, della scuola o dell'istituto di ricovero, purche' non effettuata a scopo di lucro. ((Non e' considerata pubblica la recitazione di opere letterarie effettuata, senza scopo di lucro, all'interno di musei, archivi e biblioteche pubblici ai fini esclusivi di promozione culturale e di valorizzazione delle opere stesse individuati in base a protocolli di intesa tra la SIAE e il Ministero dei beni e delle attivita' culturali e del turismo))""" .
 
-<http://example.com/doc_1310> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1310> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1310" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1310" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "337"^^xsd:nonNegativeInteger ;
     nif:isString "I titolari del diritto d'autore e dei diritti connessi diversi dagli organismi di diffusione radiotelevisiva esercitano il diritto di concedere o rifiutare l'autorizzazione per una ritrasmissione all'operatore di un servizio di ritrasmissione che intenda acquisirne i diritti esclusivamente attraverso un organismo di gestione collettiva." .
 
-<http://example.com/doc_1349> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1349> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1349" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1349" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "242"^^xsd:nonNegativeInteger ;
@@ -1495,12 +1336,9 @@
  
  Tuttavia l'autore che abbia conosciute ed accettate le modificazioni della propria opera non e' piu' ammesso ad agire per impedirne l'esecuzione o per chiederne la soppressione.""" .
 
-<http://example.com/doc_1356> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1356> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1356" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1356" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "701"^^xsd:nonNegativeInteger ;
@@ -1508,12 +1346,9 @@
  
  Nelle opere collettive la durata dei diritti di utilizzazione economica spettante ad ogni collaboratore si determina sulla vita di ciascuno. La durata dei diritti di utilizzazione economica dell'opera come un tutto e' di cinquanta anni dalla prima pubblicazione, qualunque sia la forma nella quale la pubblicazione e' stata effettuata, salve le disposizioni dell'art. 30 per le riviste, i giornali e le altre opere periodiche. ((14))""" .
 
-<http://example.com/doc_1370> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1370> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1370" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1370" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "501"^^xsd:nonNegativeInteger ;
@@ -1521,12 +1356,9 @@
  
  Se si tratta di opera collettiva periodica, quale la rivista o il giornale, la durata dei diritti e' calcolata egualmente a partire dalla fine di ogni anno dalla pubblicazione dei singoli fascicoli o numeri.""" .
 
-<http://example.com/doc_1279> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1279> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1279" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1279" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "376"^^xsd:nonNegativeInteger ;
@@ -1534,12 +1366,9 @@
  
  Valgono come nome lo pseudonimo, il nome d'arte, la sigla o il segno convenzionale, che siano notoriamente conosciuti come equivalenti al nome vero.""" .
 
-<http://example.com/doc_1281> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1281> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1281" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1281" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "849"^^xsd:nonNegativeInteger ;
@@ -1549,12 +1378,9 @@
  
  Sono applicabili le disposizioni che regolano la comunione. La difesa del diritto morale puo' peraltro essere sempre esercitata individualmente da ciascun coautore e l'opera non puo' essere pubblicata, se inedita, ne' puo' essere modificata o utilizzata in forma diversa da quella della prima pubblicazione, senza l'accordo di tutti i coautori. Tuttavia, in caso di ingiustificato rifiuto di uno o piu' coautori, la pubblicazione, la modificazione o la nuova utilizzazione dell'opera puo' essere autorizzata dall'autorita' giudiziaria, alle condizioni e con le modalita' da essa stabilite.""" .
 
-<http://example.com/doc_1283> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1283> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1283" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1283" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "400"^^xsd:nonNegativeInteger ;
@@ -1564,23 +1390,17 @@
  
  E' considerata come prima pubblicazione la prima forma di esercizio del diritto di utilizzazione.""" .
 
-<http://example.com/doc_1347> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1347> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1347" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1347" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "875"^^xsd:nonNegativeInteger ;
     nif:isString "((Indipendentemente dai diritti esclusivi di utilizzazione economica dell'opera, previsti nelle disposizioni della sezione precedente, ed anche dopo la cessione dei diritti stessi, l'autore conserva il diritto di rivendicare la paternita' dell'opera e di opporsi a qualsiasi deformazione, mutilazione od altra modificazione, ed a ogni atto a danno dell'opera stessa, che possano essere di pregiudizio al suo onore o alla sua reputazione)) Tuttavia nelle opere dell'architettura l'autore non puo' opporsi alle modificazioni che si rendessero necessarie nel corso della realizzazione. Del pari non potra' opporsi a quelle altre modificazioni che si rendesse necessario apportare all'opera gia' realizzata. Pero' se all'opera sia riconosciuta dalla competente autorita' statale importante carattere artistico spetteranno all'autore lo studio e l'attuazione di tali modificazioni." .
 
-<http://example.com/doc_1351> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1351> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1351" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1351" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "687"^^xsd:nonNegativeInteger ;
@@ -1592,12 +1412,9 @@
  
  Sono applicabili a queste opere le disposizioni contenute nella sezione seconda del capo secondo del titolo terzo.""" .
 
-<http://example.com/doc_1336> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1336> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1336" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1336" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "420"^^xsd:nonNegativeInteger ;
@@ -1609,12 +1426,9 @@
  
  Ha infine il diritto esclusivo di introdurre nell'opera qualsiasi modificazione.""" .
 
-<http://example.com/doc_1390> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1390> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1390" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1390" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "725"^^xsd:nonNegativeInteger ;
@@ -1628,12 +1442,9 @@
  
  Ciascuno dei collaboratori ha diritto di utilizzare separatamente e indipendentemente la propria opera, salvo il disposto dei casi seguenti.""" .
 
-<http://example.com/doc_1270> a lkg:Legislation,
-        lkg:LynxDocument,
+<http://example.com/doc_1270> a lkg:LynxDocument,
         nif:Context ;
-    lkg:metadata [ eli:first_date_entry_in_force "2001-01-01" ;
-            eli:id_local "doc_1270" ;
-            eli:jurisdictions "IT" ;
+    lkg:metadata [ eli:id_local "doc_1270" ;
             dct:language "it" ] ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:endIndex "1902"^^xsd:nonNegativeInteger ;
