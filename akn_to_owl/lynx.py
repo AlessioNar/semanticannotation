@@ -25,11 +25,9 @@ class LynxDocument:
 
         return g
     
-    def load_from_jsonl(self, jsonl_file):
-        with open(jsonl_file, 'r') as file:
-            for line in file:
-                json_obj = json.loads(line)
-                self.create_document(json_obj)
+    def load_from_jsonl(self, annotated):
+        for element in annotated:
+            self.create_document(element)
 
     def save_to_turtle(self, output_file):
         # Serialize the graph to Turtle and write to the output file
@@ -41,6 +39,11 @@ class LynxDocument:
         self.g.add((doc_uri, self.LKG.metadata, metadata))
         self.g.add((metadata, self.DCT.language, Literal("it")))
         self.g.add((metadata, self.ELI.id_local, Literal("doc_" + str(json_obj['id']))))
+        
+        # I do not know whether ELI actually supports identifiers at the paragraph level or whether it is Akoma Ntoso that does
+        self.g.add((metadata, self.ELI.article, Literal(json_obj['article_id'])))
+        self.g.add((metadata, self.ELI.chapter, Literal(json_obj['chapter_id'])))
+        self.g.add((metadata, self.ELI.paragraph, Literal(json_obj['paragraph_id'])))
 
     def doc_uri(self, json_obj):
         return URIRef(self.base_uri + "doc_" + str(json_obj['id']).strip())
@@ -59,6 +62,7 @@ class LynxDocument:
 
         # Add the text
         self.text(doc_uri, json_obj)
+        self.annotations(doc_uri, json_obj)
 
 
 
@@ -79,18 +83,29 @@ class LynxDocument:
         # Add entity annotations
         entities = json_obj['entities']
         for entity in entities:
-            entity_uri = URIRef(self.base_uri + "3988#offset_{}_{}".format(entity['start_offset'], entity['end_offset']))
+            # Create the annotation 
+            entity_uri = URIRef(doc_uri + "#offset_{}_{}".format(entity['start_offset'], entity['end_offset']))
             self.g.add((entity_uri, RDF.type, self.LKG.LynxAnnotation))
             self.g.add((entity_uri, RDF.type, self.NIF.OffsetBasedString))
             self.g.add((entity_uri, self.NIF.referenceContext, doc_uri))
-            
-            label = entity['label']
-            # Add the label property as a nif:AnnotationUnit, itsrdf:taIdentRef
-            self.g.add((entity_uri, RDF.type, self.NIF.AnnotationUnit))
-            self.g.add((entity_uri, self.ITSRDF.taIdentRef, URIRef(label)))  
-            self.g.add((entity_uri, self.LKG.label, Literal(label)))
-            
+
+            # Add the anchorOf, beginIndex and endIndex properties for the value
             value = json_obj['text'][entity['start_offset']:entity['end_offset']]
             self.g.add((entity_uri, self.NIF.anchorOf, Literal(value)))
             self.g.add((entity_uri, self.NIF.beginIndex, Literal(entity['start_offset'], datatype=XSD.nonNegativeInteger)))
             self.g.add((entity_uri, self.NIF.endIndex, Literal(entity['end_offset'], datatype=XSD.nonNegativeInteger)))
+            
+            label = entity['label']
+            
+            # Create a blank node for the annotation unit
+            annotation_unit = BNode()
+            self.g.add((entity_uri, self.NIF.annotationUnit, annotation_unit))
+            self.g.add((annotation_unit, RDF.type, self.NIF.AnnotationUnit))
+            self.g.add((annotation_unit, self.ITSRDF.taAnnotatorsRef, URIRef("https://alessionardin.eu")))
+            self.g.add((annotation_unit, self.ITSRDF.taClassRef, URIRef(label)))
+            self.g.add((annotation_unit, self.ITSRDF.taConfidence, Literal(1)))
+            #self.g.add((annotation_unit, self.ITSRDF.taIdentRef, LKG.Date)) This is the complete URI of the class. It needs to be
+            # Supplied by the original data (ontology parser)
+            self.g.add((annotation_unit, RDF.value, Literal(value)))
+            
+            

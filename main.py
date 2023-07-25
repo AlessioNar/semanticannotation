@@ -3,6 +3,7 @@ from akn_to_owl.akn import AkomaNtosoParser
 from akn_to_owl.skos import SKOSParser
 from akn_to_owl.owl import OntologyParser
 from akn_to_owl.lynx import LynxDocument
+from akn_to_owl.metadata import get_metadata
 
 def main():
     parser = argparse.ArgumentParser(description='Converts AKN data to OWL, then to JSON-L and finally to LYNX.')
@@ -41,10 +42,14 @@ def main():
         parser.write_to_file(file_name)
     
     elif args.task == "jsonl":
+
+        # Merge jsonl output with jsonl origin to extend with metadata
+        annotated = get_metadata('data/jsonl/origin/paragraph.jsonl', args.file)
+    
         print(f'Creating LynxDocument')
         doc = LynxDocument("http://example.com/")
         print(f'Parsing jsonl file: {args.file}')
-        doc.load_from_jsonl("data/jsonl/annotated/copyright.jsonl")
+        doc.load_from_jsonl(annotated)
         print(f'Writing to file: {args.output}')
         doc.save_to_turtle(args.output)        
         
