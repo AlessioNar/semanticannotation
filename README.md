@@ -37,10 +37,10 @@ python main.py akn data/akn/20230331_23G00044_VIGENZA_20230530.xml data/jsonl/or
 
 ```
 
-### License
+## License
 
-Include any licensing information here.
+This project is licensed under the MIT License, the same as Doccano. You can find the full text of the license in the [Doccano repository](https://github.com/doccano/doccano/blob/master/LICENSE) or in the LICENSE file.
 
-### Contact
+## Contact
 
-Provide contact information for any questions or support related to this code.
+For any questions, concerns, or support related to this code, please visit [alessionardin.eu](https://www.alessionardin.eu) or use the contact information provided on the website.
