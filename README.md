@@ -16,14 +16,25 @@ This repository contains code to convert Akoma Ntoso (AKN) documents into Web On
 
 List any dependencies or prerequisites needed to run the code here.
 
+
 ## Usage
 
-Provide instructions for how to run the code, including any command-line arguments or options.
+The script provides a command-line interface to convert AKN data to OWL, then to JSON-L, and finally to LYNX. The usage is as follows:
+
+### Command-line Arguments
+
+- `task`: The task to perform, e.g., "skos", "akn", "owl", "lynx".
+- `file`: The file to parse (optional).
+- `output`: The output file (optional).
 
 ### Example
 
+To instantiate the Akoma Ntoso Parser for a specific file and output the result to a given location, you can use:
+
 ```bash
-python main.py --input input_file.xml --output output_file.owl
+
+python main.py akn data/akn/20230331_23G00044_VIGENZA_20230530.xml data/jsonl/origin/copyright.jsonl
+
 ```
 
 ### License
