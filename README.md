@@ -1,4 +1,4 @@
-# AKN to OWL Conversion Tool
+# A semantic annotation pipeline for legislative documents
 
 This repository contains code to convert Akoma Ntoso (AKN) documents into Web Ontology Language (OWL) format.
 
