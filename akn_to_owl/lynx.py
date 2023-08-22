@@ -48,7 +48,7 @@ class LynxDocument:
         # Create an RDF graph
         g = Graph()
 
-        akomantoso = doc.convert_akn_elements()
+        akomantoso = self.convert_akn_elements()
         # Load akomantoso into the graph
             
         # Load akn_elements into the graph
@@ -122,7 +122,6 @@ class LynxDocument:
     def annotations(self, doc_uri, json_obj):
         
         classes = self.get_entities_uri()
-    
 
         # Add entity annotations
         entities = json_obj['entities']
