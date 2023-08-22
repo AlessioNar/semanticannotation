@@ -5,8 +5,7 @@ csv
 extracting.ipynb
 transformer.ipynb
 data/json
-other/
 akn_to_owl/__pycache__
 akn_to_owl/other.py
 old/*
-data/*
+data/*/*
