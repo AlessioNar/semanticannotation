@@ -1,0 +1,34 @@
+[
+    {
+        "uri": "http://publications.europa.eu/resource/authority/accessibility/inc",
+        "prefix": "accessibility",
+        "text": "accessibility:Accessibility criteria for persons with disabilities are included",
+        "suffix_key": "http://publications.europa.eu/resource/authority/accessibility/inc",
+        "background_color": "#4a36f5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/accessibility/n-inc",
+        "prefix": "accessibility",
+        "text": "accessibility:Accessibility criteria for persons with disabilities are not included because the procurement is not intended for use by natural persons",
+        "suffix_key": "http://publications.europa.eu/resource/authority/accessibility/n-inc",
+        "background_color": "#4a36f5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/accessibility/n-inc-just",
+        "prefix": "accessibility",
+        "text": "accessibility:Accessibility criteria for persons with disabilities are not included with the following justification",
+        "suffix_key": "http://publications.europa.eu/resource/authority/accessibility/n-inc-just",
+        "background_color": "#4a36f5",
+        "text_color": "#ffffff"
+    },
+    {
+        "uri": "http://publications.europa.eu/resource/authority/accessibility/OP_DATPRO",
+        "prefix": "accessibility",
+        "text": "accessibility:Provisional data",
+        "suffix_key": "http://publications.europa.eu/resource/authority/accessibility/OP_DATPRO",
+        "background_color": "#4a36f5",
+        "text_color": "#ffffff"
+    }
+]

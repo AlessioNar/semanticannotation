@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:euvoc="http://publications.europa.eu/ontology/euvoc#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/timeperiod">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/timeperiod"
+                       at:table.id="timeperiod"
+                       at:table.version.number="20230614-0">
+      <at:prefLabel xml:lang="en">Time period</at:prefLabel>
+      <rdfs:label xml:lang="en">Time period</rdfs:label>
+      <owl:versionInfo>20230614-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Time period</skos:prefLabel>
+   </skos:ConceptScheme>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/0d11eb8797c638353eb21430c51609cf">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-08-16</dct:created>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-21</dct:modified>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/TED_SCHEMA"/>
+      <rdf:value>INDEFINITE_DURATION</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/2c1f07577b52ede4f817c0eb44372358">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>OCT</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/334b7ca85bf01bf78af13b1216656fa5">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>SEP</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/3d378b584cd3b7ab8317dd88c589577f">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>MAR</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/3d628059a60c3ce4a0c530486a1a849a">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>JUN</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/42b1cabdc88c02af1df3ffbb66fcbcf2">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>DEC</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/5167b72a121cf2f163dd5ca664d76dad">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>NOV</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/76a7cb256ab6c3fc1a72dca3c6996269">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>AUG</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/88cc6d6f109ef2cae26f762a6babcdc6">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>APR</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/955c6a0763d475661214e17672178bbe">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-21</dct:modified>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/TED_SCHEMA"/>
+      <rdf:value>YEAR</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/9b4090d8738e2d7ee4d9343d94f09ee2">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-21</dct:modified>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/TED_SCHEMA"/>
+      <rdf:value>MONTH</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/APR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Април</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Duben</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">April</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">April</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Απρίλιος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">April</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Abril</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Aprill</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Huhtikuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Avril</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Aibreán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Travanj</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Április</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Aprile</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Balandis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Aprīlis</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">April</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">April</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Kwiecień</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Abril</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Aprilie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Apríl</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">April</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">April</skos:prefLabel>
+      <at:authority-code>APR</at:authority-code>
+      <at:op-code>APR</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>APR</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>APR</atold:op-code>
+      <dc:identifier>APR</dc:identifier>
+      <skos:altLabel xml:lang="bg">Апр</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Dub</skos:altLabel>
+      <skos:altLabel xml:lang="da">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="de">Apr.</skos:altLabel>
+      <skos:altLabel xml:lang="el">Απρ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="es">Abr</skos:altLabel>
+      <skos:altLabel xml:lang="et">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Huh</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Avr.</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Aib</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Tr</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Ápr.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Bal</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Kwi</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Abr.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Apr</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Apr</skos:altLabel>
+      <skos:definition xml:lang="en">The fourth month of the Gregorian calendar; it has 30 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/88cc6d6f109ef2cae26f762a6babcdc6"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/AUG"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Август</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Srpen</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">August</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">August</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αύγουστος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">August</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Agosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">August</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Elokuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Août</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Lúnasa</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Kolovoz</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Augusztus</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Agosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Rugpjūtis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Augusts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awwissu</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Augustus</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sierpień</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Agosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">August</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">August</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Avgust</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Augusti</skos:prefLabel>
+      <at:authority-code>AUG</at:authority-code>
+      <at:op-code>AUG</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>AUG</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>AUG</atold:op-code>
+      <dc:identifier>AUG</dc:identifier>
+      <skos:altLabel xml:lang="bg">Авг</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Srp</skos:altLabel>
+      <skos:altLabel xml:lang="da">Aug</skos:altLabel>
+      <skos:altLabel xml:lang="de">Aug.</skos:altLabel>
+      <skos:altLabel xml:lang="el">Αύγ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Aug</skos:altLabel>
+      <skos:altLabel xml:lang="es">Ago</skos:altLabel>
+      <skos:altLabel xml:lang="et">Aug</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Elo</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Lún</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Kol</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Aug.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Ago</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Rugp</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Aug</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Aww</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Aug</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Sie</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Ago.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Aug</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Aug</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Avg</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Aug</skos:altLabel>
+      <skos:definition xml:lang="en">The eighth month of the Gregorian calendar; it has 31 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/76a7cb256ab6c3fc1a72dca3c6996269"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/AUTUMN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Есен</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Podzim</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Efterår</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Herbst</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Φθινόπωρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Autumn</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Otoño</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Sügis</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Syksy</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Automne</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Fómhar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Jesen</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ősz</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Autunno</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ruduo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Rudens</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Ħarifa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Herfst</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Jesień</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Outuno</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Toamnă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Jeseň</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Jesen</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Höst</skos:prefLabel>
+      <at:authority-code>AUTUMN</at:authority-code>
+      <at:op-code>AUTUMN</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>AUTUMN</atold:op-code>
+      <dc:identifier>AUTUMN</dc:identifier>
+      <skos:altLabel xml:lang="en">Fall</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Najaar</skos:altLabel>
+      <skos:definition xml:lang="en">Traditionally the third of the four seasons in temperate regions, following summer and preceding winter.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/CALENDAR_DAY"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Календарен ден</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Kalendářní den</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Kalendardag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kalendertag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ημερολογιακή ημέρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Calendar day</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Día natural</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kalendripäev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kalenteripäivä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Jour civil</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Lá féilire</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Kalendarski dan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Naptári nap</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Giorno del calendario</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Kalendoriaus diena</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Kalendāra diena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Jum kalendarju</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Kalenderdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dzień kalendarzowy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dia do calendário</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Zi calendaristică</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Kalendárny deň</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Koledarski dan</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Kalenderdag</skos:prefLabel>
+      <at:authority-code>CALENDAR_DAY</at:authority-code>
+      <at:op-code>CALENDAR_DAY</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>CALENDAR_DAY</atold:op-code>
+      <dc:identifier>CALENDAR_DAY</dc:identifier>
+      <skos:altLabel xml:lang="bg">Календарни дни</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Kalendářní dny</skos:altLabel>
+      <skos:altLabel xml:lang="da">Kalenderdage</skos:altLabel>
+      <skos:altLabel xml:lang="de">Kalendertage</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ημερολογιακές ημέρες</skos:altLabel>
+      <skos:altLabel xml:lang="es">Días civiles</skos:altLabel>
+      <skos:altLabel xml:lang="et">Kalendripäeva</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Kalenteripäivää</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Jour calendaire</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Jours civils</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Kalendarska dana</skos:altLabel>
+      <skos:altLabel xml:lang="it">Giorni di calendario</skos:altLabel>
+      <skos:altLabel xml:lang="it">Giorno civile</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Kalendorinės dienos</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Kalendārās dienas</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Jumejn kalendarji</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Kalenderdagen</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Dni kalendarzowe</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Dias civis</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Zile calendaristice</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Kalendárne dni</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Koledarska dneva</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Kalenderdagar</skos:altLabel>
+      <skos:definition xml:lang="en">A timespan of exactly 24 hours, measured from one midnight to the next and having a conventional designation on the Gregorian calendar, such as a numerical identification within a named month.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/DAY"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Ден</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Den</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Døgn</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Tag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ημέρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Day</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Día</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Päev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Päivä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Jour</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Lá</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Dan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nap</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Giorno</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Diena</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Diena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Jum</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Dag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dzień</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dia</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Zi</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Deň</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Dan</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Dag</skos:prefLabel>
+      <at:authority-code>DAY</at:authority-code>
+      <at:op-code>DAY</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>TED_SCHEMA</dc:source>
+            <at:legacy-code>DAY</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>DAY</atold:op-code>
+      <dc:identifier>DAY</dc:identifier>
+      <skos:altLabel xml:lang="bg">Дни</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Dny</skos:altLabel>
+      <skos:altLabel xml:lang="de">Tage</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ημέρες</skos:altLabel>
+      <skos:altLabel xml:lang="en">Days</skos:altLabel>
+      <skos:altLabel xml:lang="es">Días</skos:altLabel>
+      <skos:altLabel xml:lang="et">Päevad</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Päivät</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Jours</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Laethanta</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Dani</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Napok</skos:altLabel>
+      <skos:altLabel xml:lang="it">Giorni</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Dienos</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Dienas</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Jiem</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Dagen</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Dni</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Dias</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Zile</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Dni</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Dnevi</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Dagar</skos:altLabel>
+      <skos:definition xml:lang="en">A unit of time equal to 24 hours.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/dffd347d709a36d6f964e44b6467cf5a"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/dffd347d709a36d6f964e44b6467cf5a">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-21</dct:modified>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/TED_SCHEMA"/>
+      <rdf:value>DAY</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/DEC"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Декември</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Prosinec</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">December</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Dezember</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δεκέμβριoς</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">December</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Diciembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Detsember</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Joulukuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Décembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nollaig</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prosinac</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">December</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dicembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Gruodis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Decembris</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Diċembru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">December</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Grudzień</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dezembro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Decembrie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">December</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">December</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">December</skos:prefLabel>
+      <at:authority-code>DEC</at:authority-code>
+      <at:op-code>DEC</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>DEC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>DEC</atold:op-code>
+      <dc:identifier>DEC</dc:identifier>
+      <skos:altLabel xml:lang="bg">Дек</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Pro</skos:altLabel>
+      <skos:altLabel xml:lang="da">Dec</skos:altLabel>
+      <skos:altLabel xml:lang="de">Dez.</skos:altLabel>
+      <skos:altLabel xml:lang="el">Δεκ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Dec</skos:altLabel>
+      <skos:altLabel xml:lang="es">Dic</skos:altLabel>
+      <skos:altLabel xml:lang="et">Dets</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Jou</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Déc.</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Nol</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Pr</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Dec.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Dic</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Gru</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Dec</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Diċ</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Dec</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Gru</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Dez.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Dec</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Dec</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Dec</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Dec</skos:altLabel>
+      <skos:definition xml:lang="en">The twelfth month of the Gregorian calendar; it has 31 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/42b1cabdc88c02af1df3ffbb66fcbcf2"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/FEB"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Февруари</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Únor</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Februar</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Februar</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Φεβρουάριος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">February</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Febrero</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Veebruar</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Helmikuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Février</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Feabhra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Veljača</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Február</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Febbraio</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Vasaris</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Februāris</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Frar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Februari</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Luty</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Fevereiro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Februarie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Február</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Februar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Februari</skos:prefLabel>
+      <at:authority-code>FEB</at:authority-code>
+      <at:op-code>FEB</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>FEB</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>FEB</atold:op-code>
+      <dc:identifier>FEB</dc:identifier>
+      <skos:altLabel xml:lang="bg">Фев</skos:altLabel>
+      <skos:altLabel xml:lang="da">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="de">Febr.</skos:altLabel>
+      <skos:altLabel xml:lang="el">Φεβ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="es">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="et">Veebr</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Hel</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Fév.</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Fea</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Vel</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Feb.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Vas</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Fra</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Lut</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Fev.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Feb</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Feb</skos:altLabel>
+      <skos:definition xml:lang="en">The second month of the Gregorian calendar; it has 28 days in common years and 29 days in leap years.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/df80f5ae7f1a40d2924e912527cd41bf"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/df80f5ae7f1a40d2924e912527cd41bf">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>FEB</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/FRI"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Петък</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pátek</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fredag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Freitag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Παρασκευή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Friday</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Viernes</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Reede</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Perjantai</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Vendredi</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Aoine</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Petak</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Péntek</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Venerdì</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Penktadienis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Piektdiena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-ġimgħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vrijdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Piątek</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sexta-feira</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Vineri</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Piatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Petek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Fredag</skos:prefLabel>
+      <at:authority-code>FRI</at:authority-code>
+      <at:op-code>FRI</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>FRI</atold:op-code>
+      <dc:identifier>FRI</dc:identifier>
+      <skos:definition xml:lang="en">The fifth day of the week in systems using the ISO 8601 norm.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/HOUR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Час</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Hodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Time</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Stunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ώρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Hour</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tund</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tunti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Heure</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Uair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Óra</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Ora</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Valanda</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Stunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Siegħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Uur</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Godzina</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Oră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Hodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Ura</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Timme</skos:prefLabel>
+      <at:authority-code>HOUR</at:authority-code>
+      <at:op-code>HOUR</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>HOUR</atold:op-code>
+      <dc:identifier>HOUR</dc:identifier>
+      <skos:altLabel xml:lang="bg">Часове</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Hodiny</skos:altLabel>
+      <skos:altLabel xml:lang="da">Timer</skos:altLabel>
+      <skos:altLabel xml:lang="de">Stunden</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ώρες</skos:altLabel>
+      <skos:altLabel xml:lang="en">Hours</skos:altLabel>
+      <skos:altLabel xml:lang="es">Horas</skos:altLabel>
+      <skos:altLabel xml:lang="et">Tunnid</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Tunnit</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Heures</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Uaireanta</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Sati</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Órák</skos:altLabel>
+      <skos:altLabel xml:lang="it">Ore</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Valandos</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Stundas</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Sigħat</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Uren</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Godziny</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Horas</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Ore</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Hodiny</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Ure</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Uri</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Timmar</skos:altLabel>
+      <skos:definition xml:lang="en">A unit of time equal to 1/24 of a day or 60 minutes or 3600 seconds.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/JAN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Януари</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Leden</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Januar</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Januar</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ιαvoυάριος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">January</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Enero</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Jaanuar</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tammikuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Janvier</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eanáir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Siječanj</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Január</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Gennaio</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Sausis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Janvāris</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Jannar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Januari</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Styczeń</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Janeiro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Ianuarie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Január</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Januar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Januari</skos:prefLabel>
+      <at:authority-code>JAN</at:authority-code>
+      <at:op-code>JAN</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>JAN</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>JAN</atold:op-code>
+      <dc:identifier>JAN</dc:identifier>
+      <skos:altLabel xml:lang="bg">Яну</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Led</skos:altLabel>
+      <skos:altLabel xml:lang="da">Jan</skos:altLabel>
+      <skos:altLabel xml:lang="de">Jan.</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ιαv</skos:altLabel>
+      <skos:altLabel xml:lang="en">Jan</skos:altLabel>
+      <skos:altLabel xml:lang="es">Ene</skos:altLabel>
+      <skos:altLabel xml:lang="et">Jaan</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Tam</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Jan.</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Ean</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Sij</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Jan.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Gen</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Sau</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Jan</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Jan</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Jan</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Sty</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Jan.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Ian</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Jan</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Jan</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Jan</skos:altLabel>
+      <skos:definition xml:lang="en">The first month of the Gregorian calendar; it has 31 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/ad45c3ca790895097fce2a346c2e0bab"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/ad45c3ca790895097fce2a346c2e0bab">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>JAN</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/JUL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Юли</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Červenec</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Juli</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Juli</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ιούλιος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">July</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Julio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Juuli</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Heinäkuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Juillet</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Iúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Srpanj</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Július</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Luglio</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Liepa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Jūlijs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Lulju</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Juli</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Lipiec</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Julho</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Iulie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Júl</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Julij</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Juli</skos:prefLabel>
+      <at:authority-code>JUL</at:authority-code>
+      <at:op-code>JUL</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>JUL</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>JUL</atold:op-code>
+      <dc:identifier>JUL</dc:identifier>
+      <skos:altLabel xml:lang="cs">Črc</skos:altLabel>
+      <skos:altLabel xml:lang="da">Jul</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ιούλ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Jul</skos:altLabel>
+      <skos:altLabel xml:lang="es">Jul</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Hei</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Juil.</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Srp</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Júl.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Lug</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Lie</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Jūl</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Lul</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Lip</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Jul.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Iul</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Jul</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Jul</skos:altLabel>
+      <skos:definition xml:lang="en">The seventh month of the Gregorian calendar; it has 31 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/af8975f7f2d87b3aa30eb8cb37b32949"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/af8975f7f2d87b3aa30eb8cb37b32949">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>JUL</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/JUN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Юни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Červen</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Juni</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Juni</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ιούνιος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">June</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Junio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Juuni</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kesäkuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Juin</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Meitheamh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Lipanj</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Június</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Giugno</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Birželis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Jūnijs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ġunju</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Juni</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Czerwiec</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Junho</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Iunie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Jún</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Junij</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Juni</skos:prefLabel>
+      <at:authority-code>JUN</at:authority-code>
+      <at:op-code>JUN</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>JUN</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>JUN</atold:op-code>
+      <dc:identifier>JUN</dc:identifier>
+      <skos:altLabel xml:lang="cs">Čer</skos:altLabel>
+      <skos:altLabel xml:lang="da">Jun</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ιούν</skos:altLabel>
+      <skos:altLabel xml:lang="en">Jun</skos:altLabel>
+      <skos:altLabel xml:lang="es">Jun</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Kes</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Mei</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Mí mheáin an tSamhraidh</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Lip</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Jún.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Giu</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Bir</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Jūn</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Ġun</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Cze</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Jun.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Iun</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Jun</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Jun</skos:altLabel>
+      <skos:definition xml:lang="en">The sixth month of the Gregorian calendar; it has 30 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/3d628059a60c3ce4a0c530486a1a849a"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/MAR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Март</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Březen</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Marts</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">März</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μάρτιος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">March</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Marzo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Märts</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Maaliskuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Mars</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Márta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ožujak</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Március</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Marzo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Kovas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Marts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Marzu</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Maart</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Marzec</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Março</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Martie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Marec</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Marec</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Mars</skos:prefLabel>
+      <at:authority-code>MAR</at:authority-code>
+      <at:op-code>MAR</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>MAR</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>MAR</atold:op-code>
+      <dc:identifier>MAR</dc:identifier>
+      <skos:altLabel xml:lang="cs">Bře</skos:altLabel>
+      <skos:altLabel xml:lang="da">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="el">Μάρ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="es">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Maa</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Már</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Ož</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Már.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Kov</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Maa</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Mar.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Mar</skos:altLabel>
+      <skos:definition xml:lang="en">The third month of the Gregorian calendar; it has 31 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/3d378b584cd3b7ab8317dd88c589577f"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/MAY"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Май</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Květen</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Maj</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Mai</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μάιος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">May</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Mayo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Mai</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Toukokuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Mai</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Bealtaine</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Svibanj</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Május</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Maggio</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Gegužė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Maijs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Mejju</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Mei</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Maj</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Maio</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Mai</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Máj</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Maj</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Maj</skos:prefLabel>
+      <at:authority-code>MAY</at:authority-code>
+      <at:op-code>MAY</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>MAY</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>MAY</atold:op-code>
+      <dc:identifier>MAY</dc:identifier>
+      <skos:altLabel xml:lang="cs">Kvě</skos:altLabel>
+      <skos:altLabel xml:lang="el">Μάι</skos:altLabel>
+      <skos:altLabel xml:lang="es">May</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Tou</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Bea</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Sv</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Máj.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Mag</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Geg</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Mai</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Mej</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Mai.</skos:altLabel>
+      <skos:definition xml:lang="en">The fifth month of the Gregorian calendar; it has 31 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/f6f8cf8fb55e32710d05978bc4f51b42"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/timeperiod/f6f8cf8fb55e32710d05978bc4f51b42">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-06</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/PUB_FREQ"/>
+      <rdf:value>MAY</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/MIN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Минута</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Minut</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Minute</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Λεπτό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Minute</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Minuto</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Minut</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Minuutti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Minute</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nóiméad</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Perc</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Minuto</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Minutė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Minūte</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Minuut</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Minuto</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Minut</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Minúta</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Minut</skos:prefLabel>
+      <at:authority-code>MIN</at:authority-code>
+      <at:op-code>MIN</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>MIN</atold:op-code>
+      <dc:identifier>MIN</dc:identifier>
+      <skos:altLabel xml:lang="bg">Минути</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Minuty</skos:altLabel>
+      <skos:altLabel xml:lang="da">Minutter</skos:altLabel>
+      <skos:altLabel xml:lang="de">Minuten</skos:altLabel>
+      <skos:altLabel xml:lang="el">Λεπτά</skos:altLabel>
+      <skos:altLabel xml:lang="en">Minutes</skos:altLabel>
+      <skos:altLabel xml:lang="es">Minutos</skos:altLabel>
+      <skos:altLabel xml:lang="et">Minutid</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Minuutit</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Minutes</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Minute</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Percek</skos:altLabel>
+      <skos:altLabel xml:lang="it">Minuti</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Minutės</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Minūtes</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Minuti</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Minuten</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Minuty</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Minutos</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Minute</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Minúty</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Minute</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Minuti</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Minuter</skos:altLabel>
+      <skos:definition xml:lang="en">A unit of time equal to 1⁄60 of an hour or 60 seconds.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/MON"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Понеделник</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pondělí</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Mandag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Montag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δευτέρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Monday</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Lunes</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esmaspäev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Maanantai</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Lundi</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Luan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ponedjeljak</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hétfő</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Lunedì</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirmadienis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pirmdiena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-tnejn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Maandag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Poniedziałek</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Segunda-feira</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Luni</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Pondelok</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Ponedeljek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Måndag</skos:prefLabel>
+      <at:authority-code>MON</at:authority-code>
+      <at:op-code>MON</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>MON</atold:op-code>
+      <dc:identifier>MON</dc:identifier>
+      <skos:definition xml:lang="en">The first day of the week in systems using the ISO 8601 norm.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/MONTH"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Месец</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Měsíc</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Måned</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Monat</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μήνας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Month</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Mes</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kuukausi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Mois</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Mí</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Mjesec</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hónap</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Mese</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Mėnuo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mēnesis</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Xahar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Maand</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Miesiąc</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Mês</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Lună</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Mesiac</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mesec</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Månad</skos:prefLabel>
+      <at:authority-code>MONTH</at:authority-code>
+      <at:op-code>MONTH</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>TED_SCHEMA</dc:source>
+            <at:legacy-code>MONTH</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>MONTH</atold:op-code>
+      <dc:identifier>MONTH</dc:identifier>
+      <skos:altLabel xml:lang="ro">Luni</skos:altLabel>
+      <skos:altLabel xml:lang="bg">Месеци</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Měsíce</skos:altLabel>
+      <skos:altLabel xml:lang="da">Måneder</skos:altLabel>
+      <skos:altLabel xml:lang="de">Monate</skos:altLabel>
+      <skos:altLabel xml:lang="el">Μήνες</skos:altLabel>
+      <skos:altLabel xml:lang="en">Months</skos:altLabel>
+      <skos:altLabel xml:lang="es">Meses</skos:altLabel>
+      <skos:altLabel xml:lang="et">Kuud</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Kuukaudet</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Míonna</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Mjeseci</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Hónapok</skos:altLabel>
+      <skos:altLabel xml:lang="it">Mesi</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Mėnesiai</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Mēneši</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Xhur</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Maanden</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Miesiące</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Meses</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Mesiace</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Meseci</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Månader</skos:altLabel>
+      <skos:definition xml:lang="en">A unit of time, based on the Moon’s orbital period; the Gregorian calendar has 12 months.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/9b4090d8738e2d7ee4d9343d94f09ee2"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/NOV"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Ноември</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Listopad</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">November</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">November</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Νοέμβριος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">November</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Noviembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">November</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Marraskuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Novembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Samhain</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Studeni</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">November</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Novembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Lapkritis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Novembris</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Novembru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">November</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Listopad</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Novembro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Noiembrie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">November</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">November</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">November</skos:prefLabel>
+      <at:authority-code>NOV</at:authority-code>
+      <at:op-code>NOV</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>NOV</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>NOV</atold:op-code>
+      <dc:identifier>NOV</dc:identifier>
+      <skos:altLabel xml:lang="bg">Ное</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Lis</skos:altLabel>
+      <skos:altLabel xml:lang="da">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="de">Nov.</skos:altLabel>
+      <skos:altLabel xml:lang="el">Νοέ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="es">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="et">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Mar</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Nov.</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Sam</skos:altLabel>
+      <skos:altLabel xml:lang="hr">St</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Nov.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Lap</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Lis</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Nov.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Noi</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Nov</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Nov</skos:altLabel>
+      <skos:definition xml:lang="en">The eleventh month of the Gregorian calendar; it has 30 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/5167b72a121cf2f163dd5ca664d76dad"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/OCT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Октомври</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Říjen</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Oktober</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Oktober</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οκτώβριος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">October</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Octubre</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Oktoober</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Lokakuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Octobre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Deireadh Fómhair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Listopad</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Október</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Ottobre</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Spalis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Oktobris</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ottubru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Oktober</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Październik</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Outubro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Octombrie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Október</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Oktober</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Oktober</skos:prefLabel>
+      <at:authority-code>OCT</at:authority-code>
+      <at:op-code>OCT</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>OCT</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>OCT</atold:op-code>
+      <dc:identifier>OCT</dc:identifier>
+      <skos:altLabel xml:lang="bg">Окт</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Říj</skos:altLabel>
+      <skos:altLabel xml:lang="da">Okt</skos:altLabel>
+      <skos:altLabel xml:lang="de">Okt.</skos:altLabel>
+      <skos:altLabel xml:lang="el">Οκτ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Oct</skos:altLabel>
+      <skos:altLabel xml:lang="es">Oct</skos:altLabel>
+      <skos:altLabel xml:lang="et">Okt</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Lok</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Oct.</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Dei</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Lis</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Okt.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Ott</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Spa</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Okt</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Ott</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Okt</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Paź</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Out.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Oct</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Okt</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Okt</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Okt</skos:altLabel>
+      <skos:definition xml:lang="en">The tenth month of the Gregorian calendar; it has 31 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/2c1f07577b52ede4f817c0eb44372358"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/QUARTER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Тримесечие</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Čtvrtletí</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Kvartal</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vierteljahr</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τρίμηνο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Quarter</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Trimestre</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kvartal</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Neljännesvuosi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Trimestre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Ráithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Tromjesečje</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Negyedév</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Trimestre</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ketvirtis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ceturksnis</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Kwart tas-sena</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Kwartaal</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Kwartał</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Trimestre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Trimestru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Štvrťrok</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Četrtletje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Kvartal</skos:prefLabel>
+      <at:authority-code>QUARTER</at:authority-code>
+      <at:op-code>QUARTER</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>QUARTER</atold:op-code>
+      <dc:identifier>QUARTER</dc:identifier>
+      <skos:altLabel xml:lang="bg">Тримесечия</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Čtvrt roku</skos:altLabel>
+      <skos:altLabel xml:lang="da">Kvartaler</skos:altLabel>
+      <skos:altLabel xml:lang="de">Quartale</skos:altLabel>
+      <skos:altLabel xml:lang="el">Τρίμηνα</skos:altLabel>
+      <skos:altLabel xml:lang="en">Trimester</skos:altLabel>
+      <skos:altLabel xml:lang="es">Trimestres</skos:altLabel>
+      <skos:altLabel xml:lang="et">Kvartalit</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Neljännesvuotta</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Trimestres</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Trimestar</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Tromjesečja</skos:altLabel>
+      <skos:altLabel xml:lang="it">Trimestri</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Ketvirčiai</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Ceturkšņi</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Kwarti</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Kwartier</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Trimester</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Kwartały</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Trymestr</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Trimestres</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Trimestre</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Štvrťroky</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Četrtletji</skos:altLabel>
+      <skos:definition xml:lang="en">Quarter of a calendar year, 3 months.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/SAT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Събота</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sobota</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lørdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Samstag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Σάββατο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Saturday</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sábado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Laupäev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Lauantai</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Samedi</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Satharn</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Subota</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szombat</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Sabato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Šeštadienis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sestdiena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Is-sibt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zaterdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sobota</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sábado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Sămbătă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Sobota</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sobota</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Lördag</skos:prefLabel>
+      <at:authority-code>SAT</at:authority-code>
+      <at:op-code>SAT</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>SAT</atold:op-code>
+      <dc:identifier>SAT</dc:identifier>
+      <skos:definition xml:lang="en">The sixth day of the week in systems using the ISO 8601 norm.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/SEC"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Секунда</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Sekund</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sekunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δευτερόλεπτο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Second</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Segundo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Sekund</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Sekunti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Seconde</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Soicind</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Másodperc</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Secondo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Sekundė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sekunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Sekonda</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Seconde</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Segundo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Secundă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sekund</skos:prefLabel>
+      <at:authority-code>SEC</at:authority-code>
+      <at:op-code>SEC</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>SEC</atold:op-code>
+      <dc:identifier>SEC</dc:identifier>
+      <skos:altLabel xml:lang="bg">Секунди</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Sekundy</skos:altLabel>
+      <skos:altLabel xml:lang="da">Sekunder</skos:altLabel>
+      <skos:altLabel xml:lang="de">Sekunden</skos:altLabel>
+      <skos:altLabel xml:lang="el">Δευτερόλεπτα</skos:altLabel>
+      <skos:altLabel xml:lang="en">Seconds</skos:altLabel>
+      <skos:altLabel xml:lang="es">Segundos</skos:altLabel>
+      <skos:altLabel xml:lang="et">Sekundid</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Sekunnit</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Secondes</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Sekunde</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Másodpercek</skos:altLabel>
+      <skos:altLabel xml:lang="it">Secondi</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Sekundės</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Sekundes</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Sekondi</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Seconden</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Sekundy</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Segundos</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Secunde</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Sekundy</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Sekunde</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Sekundi</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Sekunder</skos:altLabel>
+      <skos:definition xml:lang="en">A unit of time equal to 1/60 of a minute or 1/3600 of an hour.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/SEP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Септември</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Září</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">September</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">September</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Σεπτέμβριος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">September</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Septiembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">September</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Syyskuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Septembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Meán Fómhair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Rujan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szeptember</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Settembre</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Rugsėjis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Septembris</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Settembru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">September</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wrzesień</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Setembro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Septembrie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">September</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">September</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">September</skos:prefLabel>
+      <at:authority-code>SEP</at:authority-code>
+      <at:op-code>SEP</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PUB</dc:source>
+            <at:affected-table>PUB_FREQ</at:affected-table>
+            <at:legacy-code>SEP</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>SEP</atold:op-code>
+      <dc:identifier>SEP</dc:identifier>
+      <skos:altLabel xml:lang="bg">Сеп</skos:altLabel>
+      <skos:altLabel xml:lang="da">Sep</skos:altLabel>
+      <skos:altLabel xml:lang="de">Sept.</skos:altLabel>
+      <skos:altLabel xml:lang="el">Σεπ</skos:altLabel>
+      <skos:altLabel xml:lang="en">Sep</skos:altLabel>
+      <skos:altLabel xml:lang="es">Sep</skos:altLabel>
+      <skos:altLabel xml:lang="et">Sept</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Syy</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Sept.</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Meá</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Ruj</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Szept.</skos:altLabel>
+      <skos:altLabel xml:lang="it">Set</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Rugs</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Sep</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Set</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Sep</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Wrz</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Set.</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Sep</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Sep</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Sep</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Sep</skos:altLabel>
+      <skos:definition xml:lang="en">The ninth month of the Gregorian calendar; it has 30 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/334b7ca85bf01bf78af13b1216656fa5"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/SPRING"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Пролет</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Jaro</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Forår</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Frühling</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Άνοιξη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Spring</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Primavera</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kevad</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kevät</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Printemps</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Earrach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Proljeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Tavasz</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Primavera</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pavasaris</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pavasaris</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ir-Rebbiegħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Lente</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wiosna</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Primavera</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Primăvară</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Jar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Pomlad</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Vår</skos:prefLabel>
+      <at:authority-code>SPRING</at:authority-code>
+      <at:op-code>SPRING</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>SPRING</atold:op-code>
+      <dc:identifier>SPRING</dc:identifier>
+      <skos:altLabel xml:lang="nl">Voorjaar</skos:altLabel>
+      <skos:definition xml:lang="en">Traditionally the first of the four seasons in temperate regions, following winter and preceding summer.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/SUMMER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Лято</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Léto</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Sommer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sommer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Καλοκαίρι</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Summer</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Verano</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Suvi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kesä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Été</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Samhradh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ljeto</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nyár</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Estate</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Vasara</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Vasara</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Is-Sajf</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zomer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Lato</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Verão</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Vară</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Leto</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Poletje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sommar</skos:prefLabel>
+      <at:authority-code>SUMMER</at:authority-code>
+      <at:op-code>SUMMER</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>SUMMER</atold:op-code>
+      <dc:identifier>SUMMER</dc:identifier>
+      <skos:definition xml:lang="en">Traditionally the second of the four seasons in temperate regions, following spring and preceding autumn.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/SUN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неделя</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Neděle</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Søndag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sonntag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Κυριακή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sunday</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Domingo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Pühapäev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Sunnuntai</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Dimanche</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Domhnach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Nedjelja</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Vasárnap</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Domenica</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Sekmadienis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Svētdiena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-ħadd</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zondag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Niedziela</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Domingo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Duminică</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Nedeľa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Nedelja</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Söndag</skos:prefLabel>
+      <at:authority-code>SUN</at:authority-code>
+      <at:op-code>SUN</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>SUN</atold:op-code>
+      <dc:identifier>SUN</dc:identifier>
+      <skos:definition xml:lang="en">The seventh day of the week in systems using the ISO 8601 norm.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/THU"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Четвъртък</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Čtvrtek</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Torsdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Donnerstag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πέμπτη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Thursday</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Jueves</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Neljapäev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Torstai</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Jeudi</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Déardaoin</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Četvrtak</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Csütörtök</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Giovedì</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ketvirtadienis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ceturtdiena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-ħamis</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Donderdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Czwartek</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Quinta-feira</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Joi</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Štvrtok</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Četrtek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Torsdag</skos:prefLabel>
+      <at:authority-code>THU</at:authority-code>
+      <at:op-code>THU</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>THU</atold:op-code>
+      <dc:identifier>THU</dc:identifier>
+      <skos:definition xml:lang="en">The fourth day of the week in systems using the ISO 8601 norm.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/TUE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Вторник</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Úterý</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tirsdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Dienstag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τρίτη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Tuesday</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Martes</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teisipäev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tiistai</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Mardi</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Mháirt</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Utorak</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kedd</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Martedì</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Antradienis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Otrdiena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-tlieta</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Dinsdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wtorek</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Terça-feira</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Marţi</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Utorok</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Torek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tisdag</skos:prefLabel>
+      <at:authority-code>TUE</at:authority-code>
+      <at:op-code>TUE</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>TUE</atold:op-code>
+      <dc:identifier>TUE</dc:identifier>
+      <skos:definition xml:lang="en">The second day of the week in systems using the ISO 8601 norm.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/UNKNOWN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Hеизвестен</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Neznámý</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Ukendt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Unbekannt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αγνωστος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Unknown</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Desconocido</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teadmata</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tuntematon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Inconnu</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Anaithnid</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Nepoznat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ismeretlen</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Sconosciuto</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Nežinomas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Nezināms</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Mhux magħruf</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Onbekend</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Nieznany</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Desconhecido</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Necunoscut</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Neznámy</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Neznano</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Okänd</skos:prefLabel>
+      <at:authority-code>UNKNOWN</at:authority-code>
+      <at:op-code>UNKNOWN</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>UNKNOWN</atold:op-code>
+      <dc:identifier>UNKNOWN</dc:identifier>
+      <skos:definition xml:lang="en">Not known or identified.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/UNLIMITED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Hеограничен</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Neomezený</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Ubegrænset</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Unbegrenzt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Απεριόριστος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Unlimited</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Ilimitado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Piiramatu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Rajoittamaton</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Illimité</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Neamhtheoranta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Neograničen</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Korlátlan</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Illimitato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Neribotas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Neierobežots</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Illimitat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Onbeperkt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Nieograniczony</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Ilimitado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Nelimitat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Neobmedzený</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Neomejeno</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Obegränsat</skos:prefLabel>
+      <at:authority-code>UNLIMITED</at:authority-code>
+      <at:op-code>UNLIMITED</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>TED_SCHEMA</dc:source>
+            <at:legacy-code>INDEFINITE_DURATION</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>UNLIMITED</atold:op-code>
+      <dc:identifier>UNLIMITED</dc:identifier>
+      <skos:definition xml:lang="en">Not limited or restricted in terms of number, quantity, or extent.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/0d11eb8797c638353eb21430c51609cf"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/WED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Сряда</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Středa</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Onsdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Mittwoch</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τετάρτη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Wednesday</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Miércoles</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kolmapäev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Keskiviikko</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Mercredi</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chéadaoin</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Srijeda</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szerda</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Mercoledì</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Trečiadienis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Trešdiena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-erbgħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Woensdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Środa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Quarta-feira</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Miercuri</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Streda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sreda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Onsdag</skos:prefLabel>
+      <at:authority-code>WED</at:authority-code>
+      <at:op-code>WED</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>WED</atold:op-code>
+      <dc:identifier>WED</dc:identifier>
+      <skos:definition xml:lang="en">The third day of the week in systems using the ISO 8601 norm.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/WEEK"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Седмица</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Týden</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Uge</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Woche</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εβδομάδα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Week</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Semana</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Nädalal</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Viikko</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Semaine</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Seachtain</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Tjedan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hét</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Settimana</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Savaitė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Nedēļa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ġimgħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Week</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Tydzień</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Semana</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Săptămână</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Týždeň</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Teden</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Vecka</skos:prefLabel>
+      <at:authority-code>WEEK</at:authority-code>
+      <at:op-code>WEEK</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>WEEK</atold:op-code>
+      <dc:identifier>WEEK</dc:identifier>
+      <skos:altLabel xml:lang="bg">Седмици</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Týdny</skos:altLabel>
+      <skos:altLabel xml:lang="da">Uger</skos:altLabel>
+      <skos:altLabel xml:lang="de">Wochen</skos:altLabel>
+      <skos:altLabel xml:lang="el">Εβδομάδες</skos:altLabel>
+      <skos:altLabel xml:lang="es">Semanas</skos:altLabel>
+      <skos:altLabel xml:lang="et">Nädalat</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Viikkoa</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Semaines</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Sheachtain</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Tjedna</skos:altLabel>
+      <skos:altLabel xml:lang="it">Settimane</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Savaitės</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Nedēļas</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Ġimagħtejn</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Weken</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Tygodnie</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Semanas</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Săptămâni</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Týždne</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Tedna</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Veckor</skos:altLabel>
+      <skos:definition xml:lang="en">A unit of time equal to 7 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/WINTER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Зима</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zima</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Vinter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Winter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Χειμώνας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Winter</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Invierno</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Talv</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Talvi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Hiver</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Geimhreadh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Zima</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Tél</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Inverno</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Žiema</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ziema</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ix-Xitwa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Winter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Zima</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Inverno</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Iarnă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Zima</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zima</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Vinter</skos:prefLabel>
+      <at:authority-code>WINTER</at:authority-code>
+      <at:op-code>WINTER</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>WINTER</atold:op-code>
+      <dc:identifier>WINTER</dc:identifier>
+      <skos:definition xml:lang="en">Traditionally the fourth of the four seasons in temperate regions, following autumn and preceding spring.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/WORKING_DAY"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Работен ден</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pracovní den</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Arbejdsdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Arbeitstag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εργάσιμη ημέρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Working day</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Día hábil</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tööpäev</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Työpäivä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Jour ouvré</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Lá oibre</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Radni dan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Munkanap</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Giorno lavorativo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Darbo diena</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Darba diena</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Jum tax-xogħol</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Werkdag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dzień roboczy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dia útil</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Zi lucrătoare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Pracovný deň</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Delovni dan</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Arbetsdag</skos:prefLabel>
+      <at:authority-code>WORKING_DAY</at:authority-code>
+      <at:op-code>WORKING_DAY</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>WORKING_DAY</atold:op-code>
+      <dc:identifier>WORKING_DAY</dc:identifier>
+      <skos:altLabel xml:lang="bg">Работни дни</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Pracovní dny</skos:altLabel>
+      <skos:altLabel xml:lang="da">Arbejdsdage</skos:altLabel>
+      <skos:altLabel xml:lang="de">Arbeitstage</skos:altLabel>
+      <skos:altLabel xml:lang="el">Εργάσιμες ημέρες</skos:altLabel>
+      <skos:altLabel xml:lang="es">Días laborables</skos:altLabel>
+      <skos:altLabel xml:lang="et">Tööpäeva</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Työpäivää</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Jours ouvrables</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Radna dana</skos:altLabel>
+      <skos:altLabel xml:lang="it">Giorni lavorativi</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Darbo dienos</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Darbdienas</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Jumejn ta’ xogħol</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Werkdagen</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Dni robocze</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Dias úteis</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Zi de lucru</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Zile lucrătoare</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Pracovné dni</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Delovna dneva</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Arbetsdagar</skos:altLabel>
+      <skos:definition xml:lang="en">Every official work or business day of the week. Within the European Union these are between and holding from Monday through Friday not including public holidays and weekends.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/YEAR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Година</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Rok</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">År</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Jahr</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Έτος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Year</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Año</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Aasta</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Vuosi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">An</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Bliain</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Godina</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Év</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Anno</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Metai</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Gads</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Sena</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Jaar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Rok</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Ano</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">An</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Rok</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Leto</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">År</skos:prefLabel>
+      <at:authority-code>YEAR</at:authority-code>
+      <at:op-code>YEAR</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>TED_SCHEMA</dc:source>
+            <at:legacy-code>YEAR</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>YEAR</atold:op-code>
+      <dc:identifier>YEAR</dc:identifier>
+      <skos:altLabel xml:lang="bg">Години</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Roky</skos:altLabel>
+      <skos:altLabel xml:lang="de">Jahre</skos:altLabel>
+      <skos:altLabel xml:lang="el">Έτη</skos:altLabel>
+      <skos:altLabel xml:lang="el">Χρόνος</skos:altLabel>
+      <skos:altLabel xml:lang="en">Years</skos:altLabel>
+      <skos:altLabel xml:lang="es">Años</skos:altLabel>
+      <skos:altLabel xml:lang="et">Aastad</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Vuodet</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Année</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Années</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Ans</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Bliana</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Godine</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Évek</skos:altLabel>
+      <skos:altLabel xml:lang="it">Anni</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Gadi</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Snin</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Jaren</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Lata</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Anos</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Ani</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Roky</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Leta</skos:altLabel>
+      <skos:definition xml:lang="en">A (calendar) year is a unit of time, an approximation of the Earth’s orbital period in a given calendar; the Gregorian calendar has either 365 or 366 days.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/timeperiod/955c6a0763d475661214e17672178bbe"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/timeperiod/YEAR_HALF"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Шестмесечие</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pololetí</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Halvår</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Halbjahr</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εξάμηνο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Half year</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Semestre</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Poolaasta</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Vuosipuolisko</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Semestre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Leathbliain</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Polugodište</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Fél év</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Semestre</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pusmetis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pusgads</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Nofs sena</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Halfjaar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pół roku</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Semestre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Semestru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Polrok</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Polletje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Halvår</skos:prefLabel>
+      <at:authority-code>YEAR_HALF</at:authority-code>
+      <at:op-code>YEAR_HALF</at:op-code>
+      <at:start.use>1952-07-25</at:start.use>
+      <atold:op-code>YEAR_HALF</atold:op-code>
+      <dc:identifier>YEAR_HALF</dc:identifier>
+      <skos:altLabel xml:lang="bg">Полугодия</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Půl roku</skos:altLabel>
+      <skos:altLabel xml:lang="de">Halbjahre</skos:altLabel>
+      <skos:altLabel xml:lang="el">Εξάμηνα</skos:altLabel>
+      <skos:altLabel xml:lang="es">Semestres</skos:altLabel>
+      <skos:altLabel xml:lang="et">Poolaastat</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Vuosipuoliskoa</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Semestres</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Leathbhliain</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Polugodišta</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Semestar</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Félév</skos:altLabel>
+      <skos:altLabel xml:lang="it">Semestri</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Pusmečiai</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Pusgadi</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Nofs snin</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Halfjaren</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Semester</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Półrocza</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Meio ano</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Semestres</skos:altLabel>
+      <skos:altLabel xml:lang="ro">O jumătate de an</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Semestre</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Polroky</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Polletji</skos:altLabel>
+      <skos:definition xml:lang="en">Half of a calendar year, 6 months.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/timeperiod"/>
+   </skos:Concept>
+</rdf:RDF>

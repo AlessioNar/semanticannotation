@@ -1,0 +1,7 @@
+prefix,uri,format
+rights,https://rhizomik.net/ontologies/copyrightonto-rightsmodel.owl ,turtle
+lkg,https://lynx-project.eu/doc/lkg.ttl ,turtle
+rulemm,https://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/os/rdfs/rulemm.rdf ,rdf
+mvco,https://dmag.ac.upc.edu/ontologies/mvco.owl,turtle
+actions,https://rhizomik.net/ontologies/copyrightonto.owl ,turtle
+create,https://rhizomik.net/ontologies/copyrightonto-creationmodel.owl ,turtle

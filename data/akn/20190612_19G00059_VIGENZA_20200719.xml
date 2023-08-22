@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:eli="http://data.europa.eu/eli/ontology#" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:gu="http://www.gazzettaufficiale.it/eli/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:na="http://www.normattiva.it/eli/" xmlns:nakn="http://normattiva.it/akn/vocabulary" xmlns:nrdfa="http://www.normattiva.it/rdfa/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfa="http://www.w3.org/1999/xhtml#">
+    <act name="monovigente">
+        <meta>
+            <identification source="">
+                <FRBRWork>
+                    <FRBRthis value="/akn/it/act/decreto_legislativo/stato/2019-05-14/52/!main"/>
+                    <FRBRuri value="/akn/it/act/decreto_legislativo/stato/2019-05-14/52"/>
+                    <FRBRalias name="urn:nir" value="urn:nir:stato:decreto.legislativo:2019-05-14;52"/>
+                    <FRBRalias name="eli" value="eli/id/2019/06/12/19G00059/CONSOLIDATED/20200719"/>
+                    <FRBRdate date="2019-05-14" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719" aknrelname="eli/id/2019/06/12/19G00059/CONSOLIDATED/20200719">
+                            <nrdfa:span property="rdf:type" resource="eli:LegalResource"/>
+                            <nrdfa:span content="Attuazione della delega per il riassetto e la riforma della normativa in materia di sperimentazione clinica dei medicinali ad uso umano, ai sensi dell'articolo 1, commi 1 e 2, della legge 11 gennaio 2018, n. 3. (19G00059)  " lang="it" property="eli:title" xml:lang="it"/>
+                            <nrdfa:span content="http://www.normattiva.it/eli/id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/{tipoVersione}" property="eli:uri_schema"/>
+                            <nrdfa:span content="19G00059" property="eli:id_local"/>
+                            <nrdfa:span property="eli:type_document" resource="gu:tables/resource-type#DECRETO LEGISLATIVO"/>
+                            <nrdfa:span content="2019-05-14" datatype="xsd:date" property="eli:date_document"/>
+                            <nrdfa:span property="eli:version" resource="gu:tables/versions#ORIGINAL"/>
+                        </nrdfa:eli>
+                    </preservation>
+                    <FRBRcountry value="it"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/it/act/decreto_legislativo/stato/2019-05-14/52/ita@2020-07-19/!main"/>
+                    <FRBRuri value="/akn/it/act/decreto_legislativo/stato/2019-05-14/52/ita@2020-07-19"/>
+                    <FRBRdate date="2020-07-19" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719/ita">
+                            <nrdfa:span property="rdf:type" resource="eli:LegalExpression"/>
+                            <nrdfa:span property="eli:realizes" resource="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719"/>
+                            <nrdfa:span property="eli:is_embodied_by" resource="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719/ita/akn"/>
+                            <nrdfa:span property="eli:language" resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+                            <nrdfa:span property="eli:publisher_agent" resource="http://www.ipzs.it"/>
+                        </nrdfa:eli>
+                    </preservation>
+                    <FRBRlanguage language="ita"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/it/act/decreto_legislativo/stato/2019-05-14/52/ita@2020-07-19/!main.xml"/>
+                    <FRBRuri value="/akn/it/act/decreto_legislativo/stato/2019-05-14/52/ita@2020-07-19.xml"/>
+                    <FRBRdate date="2019-05-14" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719/ita/akn">
+                            <nrdfa:span property="rdf:type" resource="eli:Format"/>
+                            <nrdfa:span property="eli:format" resource="http://www.iana.org/assignments/media-types/xml"/>
+                        </nrdfa:eli>
+                    </preservation>
+                </FRBRManifestation>
+            </identification>
+            <publication date="2019-06-12" name="" number="136" showAs=""/>
+            <lifecycle source="">
+                <eventRef date="2019-06-12" eId="eventRef_0" source="ro1"/>
+                <eventRef date="2020-05-19" eId="eventRef_1" source="rp1"/>
+                <eventRef date="2020-07-18" eId="eventRef_2" source="rp2"/>
+            </lifecycle>
+            <analysis source="">
+                <activeModifications>
+                    <textualMod eId="amod_0" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#1"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2007-11-06;200#1"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 1, comma 1, lettera a)) la modifica dell'art. 1, comma 1, lettera r) e l'introduzione della lettera s-bis) all'art. 1, comma 1.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_1" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#1"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2007-11-06;200#3"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 1, comma 1, lettera b)) l'introduzione del comma 13-bis all'art. 3.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_2" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#1"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2007-11-06;200#6"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 1, comma 1, lettera c)) l'introduzione dei commi 6-bis e 6-ter all'art. 6.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_3" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#1"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2007-11-06;200#21 bis"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 1, comma 1, lettera d)) l'introduzione dell'art. 21-bis.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_4" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#1"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2007-11-06;200#26"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 1, comma 1, lettera e)) la modifica dell'art. 26, comma 3 e l'introduzione del comma 3-bis all'art. 26.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_5" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#1"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2007-11-06;200#42"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 1, comma 1, lettera f)) la modifica dell'art. 42.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_6" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#2"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2003-06-24;211#8"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 2, comma 1, lettera a)) la modifica dell'art. 8, comma 1.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_7" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#2"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2003-06-24;211#11"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 2, comma 1, lettera b)) l'introduzione del comma 4-bis all'art. 11.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_8" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#2"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:2003-06-24;211#22"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 2, comma 1, lettera c)) l'introduzione del comma 13-bis all'art. 22.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_9" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#3"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:1992-12-30;502#16 bis"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 3, comma 1, lettera a)) la modifica dell'art. 16-bis, comma 1.</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="amod_10" type="insertion">
+                        <source href="urn:nir:stato:decreto.legislativo:2019-05-14;52#3"/>
+                        <destination href="urn:nir:stato:decreto.legislativo:1992-12-30;502#16 ter"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 3, comma 1, lettera b)) la modifica dell'art. 16-ter, comma 2.</nakn:text>
+                        </new>
+                    </textualMod>
+                </activeModifications>
+                <passiveModifications>
+                    <textualMod eId="pmod_0" type="insertion">
+                        <source href="#"/>
+                        <destination href="#ins_1"/>
+                        <new>
+                            <nakn:text>((gli interessi finanziari propri, del coniuge o del convivente o di parente entro il secondo grado rispetto allo studio proposto, nonche' i rapporti di dipendenza, consulenza o collaborazione, a qualsiasi titolo, con il promotore, in qualunque fase dello studio vengano a costituirsi. Il comitato etico valuta tale dichiarazione nonche' l'assenza, nel capitale dell'azienda farmaceutica titolare del farmaco oggetto di studi, di partecipazioni azionarie dello sperimentatore, del coniuge o del convivente, a tutela dell'indipendenza e dell'imparzialita' della sperimentazione clinica, anche in momenti successivi all'inizio dello studio qualora intervengano nuovi conflitti di interessi))</nakn:text>
+                        </new>
+                    </textualMod>
+                </passiveModifications>
+            </analysis>
+            <references source="">
+                <original eId="ro1" href="/akn/it/act/DECRETO_LEGISLATIVO/stato/2019-05-14/52/!main" showAs=""/>
+                <passiveRef eId="rp1" href="/akn/it/act/DECRETO-LEGGE/stato/2020-05-19/34/!main" showAs=""/>
+                <passiveRef eId="rp2" href="/akn/it/act/LEGGE/stato/2020-07-17/77/!main" showAs=""/>
+            </references>
+            <proprietary source="">
+                <rdf:RDF>
+                    <rdf:Description rdf:about="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719">
+                        <rdf:type rdf:resource="eli:LegalResource"/>
+                        <eli:title xml:lang="it">Attuazione della delega per il riassetto e la riforma della normativa in materia di sperimentazione clinica dei medicinali ad uso umano, ai sensi dell'articolo 1, commi 1 e 2, della legge 11 gennaio 2018, n. 3. (19G00059)  </eli:title>
+                        <eli:uri_schema>http://www.normattiva.it/eli/id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/{tipoVersione}</eli:uri_schema>
+                        <eli:id_local>19G00059</eli:id_local>
+                        <eli:type_document rdf:resource="gu:tables/resource-type#DECRETO LEGISLATIVO"/>
+                        <eli:date_document rdf:datatype="xsd:date">2019-05-14</eli:date_document>
+                        <eli:version rdf:resource="gu:tables/versions#ORIGINAL"/>
+                    </rdf:Description>
+                    <rdf:Description rdf:about="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719/ita">
+                        <rdf:type rdf:resource="eli:LegalExpression"/>
+                        <eli:realizes rdf:resource="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719"/>
+                        <eli:is_embodied_by rdf:resource="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719/ita/akn"/>
+                        <eli:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+                        <eli:publisher_agent rdf:resource="http://www.ipzs.it"/>
+                    </rdf:Description>
+                    <rdf:Description rdf:about="na:id/2019/06/12/19G00059/CONSOLIDATED/20200719/ita/akn">
+                        <rdf:type rdf:resource="eli:Format"/>
+                        <eli:format rdf:resource="http://www.iana.org/assignments/media-types/xml"/>
+                    </rdf:Description>
+                </rdf:RDF>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docType>DECRETO LEGISLATIVO</docType>
+                <docDate date="2019-05-14">14 maggio 2019</docDate>
+                <docNumber>52</docNumber>
+                <docTitle>Attuazione della delega per il riassetto e la riforma della normativa in materia di sperimentazione clinica dei medicinali ad uso umano, ai sensi dell'articolo 1, commi 1 e 2, della legge 11 gennaio 2018, n. 3. (19G00059) 
+</docTitle>
+            </p>
+            <p>
+                <authorialNote eId="atn1" placement="bottom">
+                    <p>Entrata in vigore del provvedimento: 27/06/2019</p>
+                </authorialNote>
+            </p>
+        </preface>
+        <preamble>
+            <formula name="formulaInizialePreambolo">
+                <p>IL PRESIDENTE DELLA REPUBBLICA</p>
+            </formula>
+            <citations eId="cits_1">
+                <citation eId="cits_1__cit_1">
+                    <p>Visti gli <ref eId="ref_1" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_76">articoli 76</ref> e <ref eId="ref_2" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_87">87 della Costituzione</ref>;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_2">
+                <citation eId="cits_2__cit_1">
+                    <p>Vista la <ref eId="ref_3" href="/akn/it/act/legge/stato/2018-01-11/3/!main">legge 11 gennaio 2018, n. 3</ref>, recante la delega al Governo in materia di sperimentazione clinica di medicinali nonche' disposizioni per il riordino delle professioni sanitarie e per la dirigenza sanitaria del Ministero della salute e, in particolare, l'articolo 1, con il quale il Governo e' delegato ad adottare uno o piu' decreti legislativi per il riassetto e la riforma delle disposizioni vigenti in materia di sperimentazione clinica dei medicinali per uso umano, con specifico riferimento anche alla medicina di genere e all'eta' pediatrica;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_3">
+                <citation eId="cits_3__cit_1">
+                    <p>Visto il regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, sui medicinali per terapie avanzate, recante modifica della <ref eId="ref_4" href="/akn/it/act/direttivaUe/eu/2001/83/!main">direttiva 2001/83/CE</ref> e del regolamento (CE) n. 726/2004;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_4">
+                <citation eId="cits_4__cit_1">
+                    <p>Visto il regolamento (UE) n. 536/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sulla sperimentazione clinica di medicinali per uso umano e che abroga la <ref eId="ref_5" href="/akn/it/act/direttivaUe/eu/2001/20/!main">direttiva 2001/20/CE</ref>;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_5">
+                <citation eId="cits_5__cit_1">
+                    <p>Visto il <ref eId="ref_6" href="/akn/it/act/decretoLegislativo/stato/1992-12-30/502/!main">decreto legislativo 30 dicembre 1992, n. 502</ref>, recante riordino della disciplina in materia sanitaria, a norma dell'<ref eId="ref_7" href="/akn/it/act/legge/stato/1992-10-23/421/!main#art_1">articolo 1 della legge 23 ottobre 1992, n. 421</ref>;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_6">
+                <citation eId="cits_6__cit_1">
+                    <p>Visto il <ref eId="ref_8" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, recante attuazione della <ref eId="ref_9" href="/akn/it/act/direttivaUe/eu/2001/20/!main">direttiva 2001/20/CE</ref> relativa all'applicazione della buona pratica clinica nell'esecuzione delle sperimentazioni cliniche di medicinali per uso clinico;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_7">
+                <citation eId="cits_7__cit_1">
+                    <p>Visto il <ref eId="ref_10" href="/akn/it/act/decretoLegislativo/stato/2007-11-06/200/!main">decreto legislativo 6 novembre 2007, n. 200</ref>, recante attuazione della <ref eId="ref_11" href="/akn/it/act/direttivaUe/eu/2005/28/!main">direttiva 2005/28/CE</ref> recante principi e linee guida dettagliate per la buona pratica clinica relativa ai medicinali in fase di sperimentazione a uso umano, nonche' requisiti per l'autorizzazione alla fabbricazione o importazione di tali medicinali;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_8">
+                <citation eId="cits_8__cit_1">
+                    <p>Visto il <ref eId="ref_12" href="/akn/it/act/decretoLegge/stato/2012-09-13/158/!main">decreto-legge 13 settembre 2012, n. 158</ref>, recante disposizioni urgenti per promuovere lo sviluppo del Paese mediante un piu' alto livello di tutela della salute, convertito, con modificazioni, dalla <ref eId="ref_13" href="/akn/it/act/legge/stato/2012-11-08/189/!main">legge 8 novembre 2012, n. 189</ref>, e, in particolare, l'articolo 12 relativo alle procedure concernenti i medicinali;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_9">
+                <citation eId="cits_9__cit_1">
+                    <p>Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 14 febbraio 2019;</p>
+                </citation>
+            </citations>
+            <p>Acquisita l'intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano;</p>
+            <p>Acquisito il parere delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;</p>
+            <citations eId="cits_10">
+                <citation eId="cits_10__cit_1">
+                    <p>Vista la deliberazione del Consiglio dei ministri, adottata nella riunione dell'8 maggio 2019;</p>
+                </citation>
+            </citations>
+            <p>Sulla proposta del Ministro della salute, di concerto con i Ministri della giustizia, dell'economia e delle finanze, per la pubblica amministrazione, dell'istruzione, dell'universita' e della ricerca e del lavoro e delle politiche sociali;</p>
+            <formula name="formulaFinalePreambolo">
+                <p>Emana il seguente decreto legislativo:</p>
+            </formula>
+        </preamble>
+        <body>
+            <chapter eId="chp_I">
+                <num>Capo I</num>
+                <heading>Disposizioni di razionalizzazione, riordino e coordinamento delle disposizioni vigenti</heading>
+                <article eId="art_1">
+                    <num>Art. 1.</num>
+                    <heading> Modifiche al decreto legislativo 6 novembre 2007, n. 200</heading>
+                    <paragraph eId="art_1__para_1">
+                        <num>1.</num>
+                        <list>
+                            <intro eId="art_1__para_1__intro_1">
+                                <p>Al <ref eId="content__ref_14" href="/akn/it/act/decretoLegislativo/stato/2007-11-06/200/!main">decreto legislativo 6 novembre 2007, n. 200</ref>, sono apportate le seguenti modifiche: 
+ </p>
+                            </intro>
+                            <point eId="art_1__para_1.__point_a">
+                                <num>a)</num>
+                                <content>
+                                    <p>all'articolo 1, comma 1: 
+ 1) alla lettera r) dopo le parole «a fini commerciali» sono inserite le seguenti: «ovvero senza scopo di lucro»; 
+ 2) dopo la lettera s) e' aggiunta, in fine, la seguente: 
+ «s-bis) approccio metodologico di medicina di genere nelle sperimentazioni cliniche: modalita' innovativa e multidisciplinare nella conduzione degli studi clinici che tiene conto dell'influenza che le differenze biologiche, incluse quelle relative al sesso e all'eta', hanno sullo stato di salute e di malattia di ogni persona.»; 
+</p>
+                                </content>
+                            </point>
+                            <point eId="art_1__para_1.__point_b">
+                                <num>b)</num>
+                                <content>
+                                    <p>all'articolo 3, dopo il comma 13, e' aggiunto, in fine, il seguente: 
+ «13-bis. Le strutture presso le quali si svolgono le sperimentazioni cliniche favoriscono l'utilizzo a scopo di ricerca clinica di materiale biologico o clinico residuo da precedenti attivita' diagnostiche o terapeutiche o a qualunque altro titolo detenuto. L'Istituto superiore di sanita', con il supporto anche dell'Infrastruttura di ricerca europea delle biobanche e delle risorse biomolecolari - BBMRI, previo parere del Centro di coordinamento nazionale dei comitati etici territoriali e del Garante per la protezione dei dati personali, con appositi atti di indirizzo, nel rispetto del principio del consenso informato e della disciplina in materia di protezione dei dati personali e assicurando elevati standard qualitativi, individua criteri omogenei per l'utilizzo dei campioni biologici, tenendo conto delle modalita' di accesso e di acquisizione del consenso del paziente sull'uso successivo del campione prelevato.»; 
+</p>
+                                </content>
+                            </point>
+                            <point eId="art_1__para_1.__point_c">
+                                <num>c)</num>
+                                <content>
+                                    <p>all'articolo 6, dopo il comma 6, sono aggiunti, in fine, i seguenti: 
+ «6-bis. Al fine di valorizzare le sperimentazioni cliniche senza scopo di lucro, anche a basso livello di intervento, e' consentita la cessione dei relativi dati nonche' dei risultati della sperimentazione a fini registrativi. In tali casi e' fatto obbligo al promotore o al cessionario di sostenere e rimborsare le spese dirette e indirette connesse alla sperimentazione, nonche' corrispondere, a seguito dell'eventuale riqualificazione dello studio stesso come attivita' con scopo di lucro, le relative tariffe, ivi comprese le potenziali entrate derivanti dalla valorizzazione della proprieta' intellettuale. 
+ 6-ter. Con decreto del Ministro della salute, da emanarsi entro il 31 ottobre 2019, sentito il Centro di coordinamento nazionale dei comitati etici territoriali per le sperimentazioni cliniche sui medicinali per uso umano e sui dispositivi medici, sono stabilite misure volte a facilitare e sostenere la realizzazione degli studi clinici senza scopo di lucro e degli studi osservazionali e a individuare le modalita' di coordinamento tra i promotori, pubblici e privati, nell'ambito della medesima sperimentazione clinica o studio clinico, anche al fine di acquisire informazioni a seguito dell'immissione in commercio dei medicinali. Con il medesimo decreto sono introdotti criteri per identificare le tipologie e i requisiti delle sperimentazioni senza scopo di lucro e le sperimentazioni con collaborazione tra promotori pubblici e privati, nonche' per disciplinare le modalita' di cessione dei dati relativi alla sperimentazione al promotore e la loro utilizzazione a fini di registrazione.»; 
+</p>
+                                </content>
+                            </point>
+                            <point eId="art_1__para_1.__point_d">
+                                <num>d)</num>
+                                <content>
+                                    <p>dopo l'articolo 21, e' inserito il seguente: 
+ «Art. 21-bis (Sistemi informativi di supporto alle sperimentazioni cliniche). - 1. Nell'impiego dei sistemi informativi di supporto alle sperimentazioni cliniche, i centri di sperimentazione, conformemente alle buone pratiche cliniche, utilizzano figure professionali competenti nella gestione dei dati e nel coordinamento della ricerca. 
+ 2. I dati dei sistemi informativi sono utilizzati nel rispetto del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e del <ref eId="content__ref_15" href="/akn/it/act/decretoLegislativo/stato/2003-06-30/196/!main">decreto legislativo 30 giugno 2003, n. 196</ref>, recante "<ref eId="content__ref_16" href="/akn/it/act/decretoLegislativo/stato/2003-06-30/196/!main">Codice in materia di protezione dei dati personali</ref>"»; 
+</p>
+                                </content>
+                            </point>
+                            <point eId="art_1__para_1.__point_e">
+                                <num>e)</num>
+                                <content>
+                                    <p>all'articolo 26: 
+ 1) al comma 3, le parole «di cui al punto 4 dell'allegato 3 al decreto del Ministro della salute in data 24 maggio 2004» sono sostituite dalle seguenti: «di cui all'allegato 1 del decreto del Ministro della salute 6 dicembre 2016»; 
+ 2) dopo il comma 3, e' inserito il seguente: «3-bis. Con decreto del Ministro della salute da adottarsi, di concerto con il Ministro dell'economia e delle finanze per gli aspetti finanziari, entro il 31 ottobre 2019 e' stabilita un'agevolazione tariffaria, per le ispezioni di buona pratica clinica sugli studi di fase I, condotte presso i centri clinici dedicati agli studi clinici di fase I, sia su pazienti che su volontari sani, che documentano di condurre gli studi con un approccio metodologico a favore della medicina di genere, ove applicabile, anche attraverso l'utilizzo di adeguati sistemi informativi di supporto alle sperimentazioni cliniche. Alle minori entrate derivanti dalle agevolazioni tariffarie di cui al precedente periodo si provvede mediante corrispondente adeguamento delle altre tariffe di cui al decreto del Ministro della salute 6 dicembre 2016.»; 
+</p>
+                                </content>
+                            </point>
+                            <point eId="art_1__para_1.__point_f">
+                                <num>f)</num>
+                                <content>
+                                    <p>l'articolo 42 e' sostituito dal seguente: 
+ «Art. 42 (Procedure sanzionatorie). - 1. Le sanzioni amministrative di cui all'articolo 41 sono irrogate dall'Agenzia italiana del farmaco, quale autorita' competente in materia di sperimentazione clinica dei medicinali, ai sensi dell'<ref eId="content__ref_17" href="/akn/it/act/decretoLegge/stato/2012-09-13/158/!main#art_12-com9">articolo 12, comma 9, del decreto-legge 13 settembre 2012, n. 158</ref>, convertito, con modificazioni, dalla <ref eId="content__ref_18" href="/akn/it/act/legge/stato/2012-11-08/189/!main">legge 8 novembre 2012, n. 189</ref>; le stesse sono versate all'entrata del bilancio dello Stato. 
+ 2. L'Agenzia italiana del farmaco, con cadenza annuale, in relazione alle previsioni di cui al comma 1, trasmette al Ministero della salute una relazione sull'attivita' sanzionatoria espletata, contenente anche un'analisi della tipologia e della frequenza delle violazioni rilevate.». 
+</p>
+                                </content>
+                            </point>
+                        </list>
+                    </paragraph>
+                    <section>
+                        <content>
+                            <p>
+                                <authorialNote eId="authorialNote_1" placement="bottom">
+                                    <p> N O T E 
+ 
+ Avvertenza: 
+ 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con <ref eId="content__ref_19" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1985-12-28/1092/!main">decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092</ref>, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE). 
+ 
+ Note al titolo: 
+ 
+ - Si riporta l'<ref eId="content__ref_20" href="/akn/it/act/legge/stato/2018-01-11/3/!main#art_1">articolo 1 della legge 11 gennaio 2018, n. 3</ref> recante «Delega al Governo in materia di sperimentazione clinica di medicinali nonche' disposizioni per il riordino delle professioni sanitarie e per la dirigenza sanitaria del Ministero della salute»: 
+ «Art. 1 (Delega al Governo per il riassetto e la riforma della normativa in materia di sperimentazione clinica). - 1. Il Governo e' delegato ad adottare, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il riassetto e la riforma delle disposizioni vigenti in materia di sperimentazione clinica dei medicinali per uso umano, introducendo specifico riferimento alla medicina di genere e all'eta' pediatrica. 
+ 2. I decreti legislativi di cui al comma 1 sono adottati, realizzando il necessario coordinamento con le disposizioni vigenti e con il regolamento (UE) n. 536/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sulla sperimentazione clinica di medicinali per uso umano, nel rispetto dei seguenti principi e criteri direttivi: 
+ a) riordino e coordinamento delle disposizioni vigenti, nel rispetto delle normative dell'Unione europea e delle convenzioni internazionali in materia, in ottemperanza a quanto disposto dall'<ref eId="content__ref_21" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_117">articolo 117 della Costituzione</ref>, nonche' nel rispetto degli standard internazionali per l'etica nella ricerca medica sugli esseri umani, in conformita' a quanto previsto dalla Dichiarazione di Helsinki dell'Associazione medica mondiale del 1964, e sue successive revisioni; 
+ b) individuazione dei requisiti dei centri autorizzati alla conduzione delle sperimentazioni cliniche dalla fase I alla fase IV, con preferenza per i centri che assicurino, nella fase IV, il coinvolgimento delle associazioni dei pazienti nella definizione dei protocolli di ricerca, in particolare per le malattie rare, prevedendo procedure di accreditamento ad evidenza pubblica, di monitoraggio annuale dei requisiti posseduti e di pubblicazione dell'elenco dei centri autorizzati nel sito internet dell'Agenzia italiana del farmaco (AIFA) con il collegamento al sito internet istituzionale del centro clinico, che deve essere dotato di un'apposita sezione dedicata alla trasparenza, in cui, in conformita' ai principi di cui al <ref eId="content__ref_22" href="/akn/it/act/decretoLegislativo/stato/2013-03-14/33/!main">decreto legislativo 14 marzo 2013, n. 33</ref>, siano resi pubblici i nominativi e i curricula di tutti i soggetti coinvolti nella sperimentazione e tutte le sperimentazioni attivate, in corso o concluse, e quelle autorizzate, nonche' i correlati finanziamenti e programmi di spesa e i relativi contratti; 
+ c) individuazione delle modalita' per il sostegno all'attivazione e all'ottimizzazione di centri clinici dedicati agli studi clinici di fase I, sia su pazienti che su volontari sani, da condurre con un approccio metodologico di medicina di genere, prevedendo la definizione, con decreto del Ministro della salute, dei requisiti minimi per i medesimi centri anche al fine di una loro piu' omogenea presenza sul territorio nazionale, in conformita' al citato regolamento (UE) n. 536/2014; 
+ d) individuazione delle modalita' idonee a tutelare l'indipendenza della sperimentazione clinica e a garantire l'assenza di conflitti d'interesse; 
+ e) semplificazione degli adempimenti meramente formali in materia di modalita' di presentazione della domanda per il parere del comitato etico e di conduzione e di valutazione degli studi clinici; 
+ f) fatta salva la garanzia del mantenimento di standard qualitativi elevati, semplificazione delle procedure per l'utilizzo a scopi di ricerca clinica di materiale biologico o clinico residuo da precedenti attivita' diagnostiche o terapeutiche o a qualunque altro titolo detenuto, previa prestazione del consenso informato da parte del paziente sull'uso del materiale biologico che lo riguarda direttamente; 
+ g) definizione delle procedure di valutazione e di autorizzazione di una sperimentazione clinica, garantendo il coinvolgimento delle associazioni dei pazienti, soprattutto nel caso delle malattie rare, attraverso: 
+ 1) l'individuazione e il ruolo del direttore generale o responsabile legale della struttura sanitaria in cui si intende eseguire la sperimentazione clinica; 
+ 2) l'individuazione dei compiti e delle finalita' dei comitati etici territoriali; 
+ 3) la garanzia che gli incaricati della validazione e della valutazione della domanda siano privi di conflitti d'interesse personali e finanziari e assicurino la propria imparzialita' mediante dichiarazione resa ai sensi degli articoli 46, 73 e 76 del testo unico di cui al <ref eId="content__ref_23" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/2000-12-28/445/!main">decreto del Presidente della Repubblica 28 dicembre 2000, n. 445</ref>; 
+ 4) la costituzione, presso l'Istituto superiore di sanita', di un elenco nazionale di soggetti qualificati e con adeguata esperienza, selezionati mediante avvisi pubblici, sulla base di criteri e requisiti predefiniti; 
+ 5) la definizione dei contenuti minimi che devono presentare i contratti per le sperimentazioni cliniche che, per gli sperimentatori, ne attestino terzieta', imparzialita' e indipendenza; 
+ 6) la previsione, mediante decreto del Ministro della salute, con riferimento ai contratti per le sperimentazioni cliniche, di meccanismi di compensazione o di partecipazione agli eventuali utili derivanti dalla commercializzazione dei risultati delle ricerche o delle sperimentazioni effettuate in centri pubblici di ricerca, attraverso l'individuazione di apposite percentuali e delle modalita' di assegnazione delle stesse, da riconoscere per la parte prevalente ai medesimi centri di ricerca e per la restante parte ai fondi per la ricerca gestiti dal Ministero della salute, ove non sia prevista, nei predetti contratti, una diversa modalita' di remunerazione o di compensazione; 
+ 7) la definizione delle procedure per la verifica dell'indipendenza dello sperimentatore; 
+ h) applicazione dei sistemi informativi di supporto alle sperimentazioni cliniche, prevedendo: 
+ 1) meccanismi di valutazione dei risultati delle aziende sanitarie pubbliche nell'ambito delle sperimentazioni cliniche; 
+ 2) l'uso dell'Osservatorio nazionale sulla sperimentazione clinica dei medicinali per l'interscambio della documentazione concernente lo studio clinico dei medicinali tramite modelli predefiniti e disponibili nel sistema stesso; 
+ 3) che la sperimentazione clinica dei medicinali sia svolta attraverso un'adeguata rappresentativita' di genere; 
+ 4) che la sperimentazione clinica dei medicinali si avvalga di professionalita' specifiche nel campo della gestione dei dati e del coordinamento della ricerca; 
+ i) individuazione, ai sensi dell'<ref eId="content__ref_24" href="/akn/it/act/legge/stato/1997-05-15/127/!main#art_17-com95">articolo 17, comma 95, della legge 15 maggio 1997, n. 127</ref>, di criteri generali per la disciplina degli ordinamenti didattici di specifici percorsi formativi in materia di metodologia della ricerca clinica e conduzione e gestione degli studi clinici e sperimentazione dei farmaci; 
+ l) previsione, in sede di attuazione dei programmi obbligatori di formazione continua in medicina di cui all'<ref eId="content__ref_25" href="/akn/it/act/decretoLegislativo/stato/1992-12-30/502/!main#art_16bis">articolo 16-bis del decreto legislativo 30 dicembre 1992, n. 502</ref>, che la Commissione nazionale per la formazione continua, di cui all'<ref eId="content__ref_26" href="/akn/it/act/legge/stato/2007-12-24/244/!main#art_2-com357">articolo 2, comma 357, della legge 24 dicembre 2007, n. 244</ref>, disponga che l'aggiornamento periodico del personale operante presso le strutture sanitarie e socio-sanitarie impegnato nella sperimentazione clinica dei medicinali sia realizzato attraverso il conseguimento di crediti formativi su percorsi assistenziali multidisciplinari e multiprofessionali e su percorsi formativi di partecipazione diretta a programmi di ricerca clinica multicentrici; 
+ m) riformulazione e razionalizzazione dell'apparato sanzionatorio amministrativo per la violazione delle norme vigenti e delle disposizioni contenute nei decreti legislativi emanati in attuazione del comma 1, tenendo conto della responsabilita' e delle funzioni svolte da ciascun soggetto, con riguardo in particolare alla responsabilita' dello sperimentatore e delle strutture coinvolte, nonche' della natura sostanziale o formale della violazione, attraverso: 
+ 1) conferma delle sanzioni amministrative pecuniarie gia' previste dal <ref eId="content__ref_27" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, per le violazioni delle disposizioni ivi indicate; 
+ 2) previsione della destinazione degli introiti derivanti dalle sanzioni pecuniarie all'entrata del bilancio dello Stato per la riassegnazione a progetti di ricerca sanitaria presentati da ricercatori di eta' inferiore a quaranta anni; 
+ 3) previsione della sospensione dell'attivita' dei comitati etici territoriali che non rispettano i termini e le procedure previsti dal <ref eId="content__ref_28" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, e le norme sulla trasparenza e sull'assenza di conflitti d'interesse previste dalla presente legge, nonche' di meccanismi sanzionatori; 
+ n) revisione della normativa relativa agli studi clinici senza scopo di lucro e agli studi osservazionali, al fine di facilitarne e sostenerne la realizzazione, in particolare per le sperimentazioni cliniche a basso livello di intervento, anche prevedendo forme di coordinamento tra i promotori, con l'obiettivo di migliorare la pratica clinica e di acquisire informazioni rilevanti a seguito dell'immissione in commercio dei medicinali; 
+ o) riordino della normativa di cui al decreto del Ministro della salute 17 dicembre 2004, pubblicato nella Gazzetta Ufficiale n. 43 del 22 febbraio 2005, in particolare modificando l'articolo 1, comma 2, lettera d), nel senso di prevedere la possibilita' di cessione dei dati relativi alla sperimentazione all'azienda farmaceutica e la loro utilizzazione a fini di registrazione, per valorizzare l'uso sociale ed etico della ricerca, e di stabilire che l'azienda farmaceutica rimborsi le spese dirette e indirette connesse alla sperimentazione nonche' le mancate entrate conseguenti alla qualificazione dello studio come attivita' senza fini di lucro. 
+ 3. I decreti legislativi di cui al comma 1 sono adottati nel rispetto della procedura di cui all'<ref eId="content__ref_29" href="/akn/it/act/legge/stato/1988-08-23/400/!main#art_14-com1">articolo 14, commi da 1</ref> <ref eId="content__ref_30" href="/akn/it/act/legge/stato/1988-08-23/400/!main#art_14-com3">a 3, della legge 23 agosto 1988, n. 400</ref>, su proposta del Ministro della salute, di concerto con il Ministro per gli affari europei, con il Ministro della giustizia, con il Ministro dell'economia e delle finanze, con il Ministro per la semplificazione e la pubblica amministrazione, con il Ministro dell'istruzione, dell'universita' e della ricerca e con il Ministro del lavoro e delle politiche sociali, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano. 
+ 4. Gli schemi dei decreti legislativi di cui al comma 1, a seguito di deliberazione preliminare del Consiglio dei ministri, sono trasmessi alla Camera dei deputati e al Senato della Repubblica perche' su di essi siano espressi, entro quaranta giorni dalla data di trasmissione, i pareri delle Commissioni parlamentari competenti per materia e per i profili finanziari. Decorso tale termine i decreti legislativi sono emanati anche in mancanza dei pareri.
+ Qualora il termine per l'espressione dei pareri parlamentari di cui al presente comma scada nei trenta giorni che precedono la scadenza del termine previsto dal comma 1 o successivamente, quest'ultimo e' prorogato di tre mesi. 
+ 5. Entro dodici mesi dalla data di entrata in vigore di ciascuno dei decreti legislativi di cui al comma 1, nel rispetto dei principi e criteri direttivi di cui al comma 2 e con le procedure di cui ai commi 3 e 4, il Governo puo' adottare disposizioni integrative e correttive dei decreti legislativi medesimi. 
+ 6. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. A tale fine, le amministrazioni competenti provvedono agli adempimenti previsti dai decreti legislativi attuativi della delega di cui al presente articolo attraverso una diversa allocazione delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.». 
+ Note alle premesse: 
+ - L'<ref eId="content__ref_31" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_76">art. 76 della Costituzione</ref> stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
+ - L'<ref eId="content__ref_32" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_87">articolo 87 della Costituzione</ref> conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
+ - La <ref eId="content__ref_33" href="/akn/it/act/legge/stato/2018-01-11/3/!main">legge 11 gennaio 2018, n. 3</ref> recante "Delega al Governo in materia di sperimentazione clinica di medicinali nonche' disposizioni per il riordino delle professioni sanitarie e per la dirigenza sanitaria del Ministero della salute" e' pubblicata nella Gazzetta Ufficiale 31 gennaio 2018, n. 25. 
+ - Il Regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, sui medicinali per terapie avanzate, recante modifica della <ref eId="content__ref_34" href="/akn/it/act/direttivaUe/eu/2001/83/!main">direttiva 2001/83/CE</ref> e del regolamento (CE) n. 726/2004, e' pubblicato nella Gazzetta Ufficiale dell'Unione europea 10 dicembre 2007, n. L 324. 
+ - Il Regolamento (UE) n. 536/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sulla sperimentazione clinica di medicinali per uso umano e che abroga la <ref eId="content__ref_35" href="/akn/it/act/direttivaUe/eu/2001/20/!main">direttiva 2001/20/CE</ref> e' pubblicato nella Gazzetta Ufficiale dell'Unione europea 27 maggio 2014, n. L 158. 
+ - Il <ref eId="content__ref_36" href="/akn/it/act/decretoLegislativo/stato/1992-12-30/502/!main">decreto legislativo 30 dicembre 1992, n. 502</ref>, recante «Riordino della disciplina in materia sanitaria, a norma dell'<ref eId="content__ref_37" href="/akn/it/act/legge/stato/1992-10-23/421/!main#art_1">articolo 1 della legge 23 ottobre 1992, n. 421</ref>» e' pubblicato nella Gazzetta Ufficiale 30 dicembre 1992, n. 305, S.O. 
+ - Il <ref eId="content__ref_38" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, recante «Attuazione della <ref eId="content__ref_39" href="/akn/it/act/direttivaUe/eu/2001/20/!main">direttiva 2001/20/CE</ref> relativa all'applicazione della buona pratica clinica nell'esecuzione delle sperimentazioni cliniche di medicinali per uso clinico» e' pubblicato nella Gazzetta Ufficiale 9 agosto 2003, n. 184, S.O. 
+ - Il <ref eId="content__ref_40" href="/akn/it/act/decretoLegislativo/stato/2007-11-06/200/!main">decreto legislativo 6 novembre 2007, n. 200</ref>, recante "Attuazione della <ref eId="content__ref_41" href="/akn/it/act/direttivaUe/eu/2005/28/!main">direttiva 2005/28/CE</ref> recante principi e linee guida dettagliate per la buona pratica clinica relativa ai medicinali in fase di sperimentazione a uso umano, nonche' requisiti per l'autorizzazione alla fabbricazione o importazione di tali medicinali" e' pubblicato nella Gazzetta Ufficiale 9 novembre 2007, n. 261, S.O. 
+ - Si riporta il testo dell'<ref eId="content__ref_42" href="/akn/it/act/decretoLegge/stato/2012-09-13/158/!main#art_12">articolo 12 del decreto-legge 13 settembre 2012, n. 158</ref>, recante «Disposizioni urgenti per promuovere lo sviluppo del Paese mediante un piu' alto livello di tutela della salute», pubblicato nella Gazzetta Ufficiale 13 settembre 2012, n. 214, stato convertito nella <ref eId="content__ref_43" href="/akn/it/act/legge/stato/2012-11-08/189/!main">legge 8 novembre 2012, n. 189</ref> recante «Conversione in legge, con modificazioni, del <ref eId="content__ref_44" href="/akn/it/act/decretoLegge/stato/2012-09-13/158/!main">decreto-legge 13 settembre 2012, n. 158</ref>, recante disposizioni urgenti per promuovere lo sviluppo del Paese mediante un piu' alto livello di tutela della salute», pubblicata nella Gazzetta Ufficiale 10 novembre 2012, n. 263, S.O.: 
+ «Art. 12 (Procedure concernenti i medicinali). - 1. La domanda di classificazione di un medicinale fra i medicinali erogabili a carico del Servizio sanitario nazionale ai sensi dell'<ref eId="content__ref_45" href="/akn/it/act/legge/stato/1993-12-24/537/!main#art_8-com10">articolo 8, comma 10, della legge 24 dicembre 1993, n. 537</ref>, e successive modificazioni, e' istruita dall'Agenzia italiana del farmaco (AIFA) contestualmente alla contrattazione del relativo prezzo, ai sensi dell'<ref eId="content__ref_46" href="/akn/it/act/decretoLegge/stato/2003-09-30/269/!main#art_48-com33">articolo 48, comma 33, del decreto-legge 30 settembre 2003, n. 269</ref>, convertito, con modificazioni, dalla <ref eId="content__ref_47" href="/akn/it/act/legge/stato/2003-11-24/326/!main">legge 24 novembre 2003, n. 326</ref>. 
+ 2. Fatto salvo il disposto del comma 3, l'azienda farmaceutica interessata puo' presentare all'AIFA la domanda di classificazione di cui al comma 1 e di avvio della procedura di contrattazione del prezzo soltanto dopo aver ottenuto l'autorizzazione all'immissione in commercio del medicinale prevista dall'<ref eId="content__ref_48" href="/akn/it/act/decretoLegislativo/stato/2006-04-24/219/!main#art_6-com1">articolo 6, comma 1, del decreto legislativo 24 aprile 2006, n. 219</ref>, e successive modificazioni. 
+ 3. In deroga al disposto del comma 2, la domanda riguardante farmaci orfani ai sensi del regolamento (CE) n. 141/2000 del Parlamento europeo e del Consiglio, del 16 dicembre 1999, o altri farmaci di eccezionale rilevanza terapeutica e sociale previsti in una specifica deliberazione dell'AIFA, adottata su proposta della Commissione consultiva tecnico-scientifica, o riguardante medicinali utilizzabili esclusivamente in ambiente ospedaliero o in strutture ad esso assimilabili, puo' essere presentata anteriormente al rilascio dell'autorizzazione all'immissione in commercio. 
+ 4. L'AIFA comunica all'interessato le proprie determinazioni entro centottanta giorni dal ricevimento della domanda. Il rigetto della domanda e' comunicato al richiedente unitamente al parere della Commissione consultiva tecnico-scientifica o del Comitato prezzi e rimborso sul quale la decisione e' fondata. Parimenti documentata e' la comunicazione della determinazione di esclusione di un medicinale in precedenza classificato fra i farmaci erogabili dal Servizio sanitario nazionale. 
+ 5. I medicinali per i quali e' rilasciata un'autorizzazione all'immissione in commercio comunitaria a norma del regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, del regolamento (CE) n. 1901/2006 del Parlamento europeo e del Consiglio, del 12 dicembre 2006, o del regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, o un'autorizzazione all'immissione in commercio ai sensi del <ref eId="content__ref_49" href="/akn/it/act/decretoLegislativo/stato/2006-04-24/219/!main">decreto legislativo 24 aprile 2006, n. 219</ref>, sono automaticamente collocati in apposita sezione, dedicata ai farmaci non ancora valutati ai fini della rimborsabilita', della classe di cui all'<ref eId="content__ref_50" href="/akn/it/act/legge/stato/1993-12-24/537/!main#art_8-com10-letc">articolo 8, comma 10, lettera c), della legge 24 dicembre 1993, n. 537</ref>, e successive modificazioni, nelle more della presentazione, da parte dell'azienda interessata, di un'eventuale domanda di diversa classificazione ai sensi della citata disposizione legislativa. Entro sessanta giorni dalla data di pubblicazione nella Gazzetta Ufficiale dell'Unione europea della decisione della Commissione europea sulla domanda di autorizzazione all'immissione in commercio a norma del regolamento (CE) n. 726/2004, del regolamento (CE) n. 1901/2006 o del regolamento (CE) n. 1394/2007, l'AIFA pubblica nella Gazzetta Ufficiale un provvedimento recante la classificazione del medicinale ai sensi del primo periodo del presente comma e il suo regime di fornitura.
+ Per i medicinali autorizzati ai sensi del <ref eId="content__ref_51" href="/akn/it/act/decretoLegislativo/stato/2006-04-24/219/!main">decreto legislativo 24 aprile 2006, n. 219</ref>, le indicazioni della classificazione ai sensi del primo periodo del presente comma e del regime di fornitura sono incluse nel provvedimento di autorizzazione all'immissione in commercio. In ogni caso, prima dell'inizio della commercializzazione, il titolare dell'autorizzazione all'immissione in commercio e' tenuto a comunicare all'AIFA il prezzo ex factory e il prezzo al pubblico del medicinale. Le disposizioni del presente comma si applicano anche ai medicinali oggetto di importazione parallela. 
+ 5-bis. L'AIFA valuta, ai fini della classificazione e della rimborsabilita' da parte del Servizio sanitario nazionale, i farmaci di cui al comma 3, per i quali e' stata presentata la relativa domanda di classificazione di cui al comma 1, corredata della necessaria documentazione, in via prioritaria e dando agli stessi precedenza rispetto ai procedimenti pendenti alla data di presentazione della domanda di classificazione di cui al presente comma, anche attraverso la fissazione di sedute straordinarie delle competenti Commissioni. In tal caso, il termine di cui al comma 4, primo periodo, e' ridotto a cento giorni. 
+ 5-ter. In caso di mancata presentazione entro trenta giorni dal rilascio dell'autorizzazione all'immissione in commercio di un medicinale di cui al comma 3, l'AIFA sollecita l'azienda titolare della relativa autorizzazione all'immissione in commercio a presentare la domanda di classificazione di cui al comma I entro i successivi trenta giorni. Decorso inutilmente tale termine, viene data informativa nel sito istituzionale dell'AIFA e viene meno la collocazione nell'apposita sezione di cui al comma 5. 
+ 6. Fatto in ogni caso salvo il disposto dell'ultimo periodo del comma 1 dell'articolo 11 del presente decreto, ciascun medicinale che abbia le caratteristiche di medicinale generico, di cui all'<ref eId="content__ref_52" href="/akn/it/act/decretoLegislativo/stato/2006-04-24/219/!main#art_10-com5-letb">articolo 10, comma 5, lettera b), del decreto legislativo 24 aprile 2006, n. 219</ref>, o di medicinale biosimilare, di cui all'articolo 10, comma 7, dello stesso decreto, e' automaticamente collocato, senza contrattazione del prezzo, nella classe di rimborso a cui appartiene il medicinale di riferimento qualora l'azienda titolare proponga un prezzo di vendita di evidente convenienza per il Servizio sanitario nazionale.
+ E' considerato tale il prezzo che, rispetto a quello del medicinale di riferimento, presenta un ribasso almeno pari a quello stabilito con decreto adottato dal Ministro della salute, su proposta dell'AIFA, in rapporto ai volumi di vendita previsti. Le disposizioni del presente comma si applicano anche ai medicinali oggetto di importazione parallela. 
+ 7. Quando e' autorizzata un'estensione delle indicazioni terapeutiche di un medicinale autorizzato per l'immissione in commercio secondo la procedura prevista dai regolamenti comunitari di cui al comma 5 e gia' classificato come farmaco erogabile dal Servizio sanitario nazionale, il medicinale non puo' essere prescritto per le nuove indicazioni con onere a carico del Servizio sanitario nazionale prima della conclusione della procedura di contrattazione del prezzo e della correlata conferma della rimborsabilita' del medicinale medesimo, nonche' della pubblicazione, da parte dell'AIFA, del nuovo prezzo ai sensi della normativa vigente. Quando e' autorizzata un'estensione delle indicazioni terapeutiche di un medicinale autorizzato per l'immissione in commercio secondo le disposizioni del <ref eId="content__ref_53" href="/akn/it/act/decretoLegislativo/stato/2006-04-24/219/!main">decreto legislativo 24 aprile 2006, n. 219</ref>, e gia' classificato come farmaco erogabile dal Servizio sanitario nazionale, il provvedimento che autorizza l'estensione delle indicazioni terapeutiche contiene, altresi', il prezzo concordato in seguito alla nuova procedura di contrattazione del prezzo e di conferma della rimborsabilita' del medicinale. 
+ 8. All'<ref eId="content__ref_54" href="/akn/it/act/legge/stato/2005-10-21/219/!main#art_15">articolo 15 della legge 21 ottobre 2005, n. 219</ref>, e successive modificazioni, e' abrogato il comma 6. 
+ 9. Le competenze in materia di sperimentazione clinica dei medicinali attribuite dal <ref eId="content__ref_55" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, all'Istituto superiore di sanita' sono trasferite all'AIFA, la quale si avvale del predetto Istituto, senza nuovi o maggiori oneri a carico della finanza pubblica, ai fini dell'esercizio delle funzioni trasferite, secondo modalita' stabilite con decreto del Ministro della salute, sentiti i due enti interessati. Fino all'adozione del decreto del Ministro della salute, l'Istituto superiore di sanita', raccordandosi con l'AIFA, svolge le competenze ad esso gia' attribuite, secondo le modalita' previste dalle disposizioni previgenti. Sono altresi' trasferite all'AIFA le competenze di cui all'articolo 2, comma 1, lettera t), numeri 1) e 1-bis), del <ref eId="content__ref_56" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>. Sono confermate in capo all'AIFA le competenze in materia di sperimentazione clinica di medicinali attribuite dal citato <ref eId="content__ref_57" href="/akn/it/act/decretoLegislativo/stato/2003/211/!main">decreto legislativo n. 211 del 2003</ref> al Ministero della salute e trasferite all'AIFA ai sensi dell'<ref eId="content__ref_58" href="/akn/it/act/decretoLegge/stato/2003-09-30/269/!main#art_48">articolo 48 del decreto-legge 30 settembre 2003, n. 269</ref>, convertito, con modificazioni, dalla <ref eId="content__ref_59" href="/akn/it/act/legge/stato/2003-11-24/326/!main">legge 24 novembre 2003, n. 326</ref>, e successive modificazioni. 
+ 10 Entro il 30 giugno 2013 ciascuna delle regioni e delle province autonome di Trento e di Bolzano provvede a riorganizzare i comitati etici istituiti nel proprio territorio, attenendosi ai seguenti criteri: 
+ a) a ciascun comitato etico e' attribuita una competenza territoriale di una o piu' province, in modo che sia rispettato il parametro di un comitato per ogni milione di abitanti, fatta salva la possibilita' di prevedere un ulteriore comitato etico, con competenza estesa a uno o piu' istituti di ricovero e cura a carattere scientifico; 
+ b) la scelta dei comitati da confermare tiene conto del numero dei pareri unici per sperimentazione clinica di medicinali emessi nel corso dell'ultimo triennio; 
+ c) la competenza di ciascun comitato puo' riguardare, oltre alle sperimentazioni cliniche dei medicinali, ogni altra questione sull'uso dei medicinali e dei dispositivi medici, sull'impiego di procedure chirurgiche e cliniche o relativa allo studio di prodotti alimentari sull'uomo generalmente rimessa, per prassi internazionale, alle valutazioni dei comitati; 
+ d) sono assicurate l'indipendenza di ciascun comitato e l'assenza di rapporti gerarchici tra diversi comitati. 
+ 11. Con decreto del Ministro della salute, su proposta dell'AIFA per i profili di sua competenza, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono dettati criteri per la composizione dei comitati etici e per il loro funzionamento. Fino alla data di entrata in vigore del predetto decreto continuano ad applicarsi le norme vigenti alla data di entrata in vigore della legge di conversione del presente decreto. 
+ 12 A decorrere dal 1° luglio 2013, la documentazione riguardante studi clinici sui medicinali disciplinati dal <ref eId="content__ref_60" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, e' gestita esclusivamente con modalita' telematiche, attraverso i modelli standard dell'Osservatorio nazionale sulla sperimentazione clinica dell'AIFA.». 
+ 
+ Note all'art. 1: 
+ - Il testo dell'articolo 1, comma 1, del citato <ref eId="content__ref_61" href="/akn/it/act/decretoLegislativo/stato/2007-11-06/200/!main">decreto legislativo 6 novembre 2007, n. 200</ref>, come modificato dal presente decreto e' il seguente: 
+ «Art. 1 (Definizioni). - 1. Ai fini del presente decreto valgono le seguenti definizioni: 
+ a) AIC: autorizzazione all'immissione in commercio a norma del <ref eId="content__ref_62" href="/akn/it/act/decretoLegislativo/stato/2006-04-24/219/!main">decreto legislativo 24 aprile 2006, n. 219</ref>; 
+ b) AIFA: Agenzia italiana del farmaco, istituita dall'<ref eId="content__ref_63" href="/akn/it/act/decretoLegge/stato/2003-09-30/269/!main#art_48-com2">articolo 48, comma 2, del decreto-legge 30 settembre 2003, n. 269</ref>, convertito, con modificazioni, dalla <ref eId="content__ref_64" href="/akn/it/act/legge/stato/2003-11-24/326/!main">legge 24 novembre 2003, n. 326</ref>; 
+ c) buona pratica clinica (Good Clinical Practice o GCP) (o norme di buona pratica clinica): insieme di requisiti in materia di qualita' in campo etico e scientifico, riconosciuti a livello internazionale, che devono essere osservati ai fini del disegno, della conduzione, della registrazione e della comunicazione degli esiti della sperimentazione clinica con la partecipazione di esseri umani; 
+ d) Comitato etico: un organismo indipendente, composto da personale sanitario e non, che ha la responsabilita' di garantire la tutela dei diritti e del benessere dei soggetti in sperimentazione e di fornire pubblica garanzia di tale tutela, esprimendo, ad esempio, un parere sul protocollo di sperimentazione, sull'idoneita' degli sperimentatori, sulla adeguatezza delle strutture e sui metodi e documenti che verranno impiegati per informare i soggetti e per ottenerne il consenso informato; che svolga i compiti di cui al <ref eId="content__ref_65" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, alle norme di buona pratica clinica definite nell'allegato 1 al decreto del Ministro della sanita' in data 15 luglio 1997, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 191 del 18 agosto 1997 e al decreto del Ministro della salute in data 12 maggio 2006, pubblicato nella Gazzetta Ufficiale n. 194 del 22 agosto 2006; 
+ e) dossier per lo sperimentatore: raccolta di dati clinici e non clinici sul medicinale o sui medicinali in fase di sperimentazione che sono pertinenti per lo studio dei medesimi nell'essere umano; 
+ f) Ispettorato GCP: Ispettorato di cui all'<ref eId="content__ref_66" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main#art_15-com8">articolo 15, comma 8, del decreto legislativo 24 giugno 2003, n. 211</ref>, che svolge i compiti richiamati al medesimo articolo 15 e che si identifica con l'«Ufficio attivita' ispettive di buona pratica clinica (GCP) sulle sperimentazioni dei medicinali, follow up delle ispezioni, promozione di norme e linee guida di buona pratica clinica, mutuo riconoscimento nel settore; ispezioni di farmacovigilanza», di cui alla <ref eId="content__ref_67" href="/akn/it/act/delibera/agenzia.italiana.farmaco/2005-05-19/13/!main">delibera dell'Agenzia italiana del farmaco 19 maggio 2005, n. 13</ref>, recante regolamento di organizzazione, di amministrazione e dell'ordinamento del personale dell'Agenzia italiana del farmaco, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 149 del 29 giugno 2005; 
+ g) ispezioni: svolgimento da parte degli Uffici Ispettivi dell'AIFA o di autorita' regolatorie di altri Stati di un controllo ufficiale dei documenti, delle strutture, delle registrazioni, dei sistemi per la garanzia di qualita' e di qualsiasi altra risorsa che le predette autorita' giudicano pertinenti ai fini della verifica della conformita' al presente decreto, alle norme di buona pratica clinica e alle altre norme vigenti nel settore delle sperimentazioni cliniche dei medicinali. L'ispezione puo' svolgersi presso il centro di sperimentazione, presso le strutture del promotore della sperimentazione o presso le strutture di organizzazione di ricerca a contratto, oppure in altri luoghi ritenuti appropriati dall'AIFA e dalle altre autorita' sopra richiamate; 
+ h) medicinale sperimentale: 1) una forma farmaceutica di un principio attivo o di un placebo saggiato come medicinale sperimentale o come controllo in una sperimentazione clinica, compresi i prodotti che hanno gia' ottenuto un'autorizzazione di commercializzazione, ma che sono utilizzati o preparati (secondo formula magistrale o confezionati) in forme diverse da quella autorizzata, o quando sono utilizzati per indicazioni non autorizzate o per ottenere ulteriori informazioni sulla forma autorizzata o comunque utilizzati come controllo; 2) i medicinali non oggetto dello studio sperimentale, ma comunque utilizzati nell'ambito di una sperimentazione, quando essi non sono autorizzati al commercio in Italia o sono autorizzati ma utilizzati in maniera difforme all'autorizzazione; 
+ i) Paesi terzi: Paesi non appartenenti all'Unione europea; 
+ l) paziente: soggetto affetto da patologia o che comunque si trovi, anche solo temporaneamente, in uno stato di sofferenza fisica o psichica o di modificazione dei normali parametri fisiologici tale da determinare sofferenza fisica o psichica o rischi per la salute; 
+ m) promotore: una societa', istituzione oppure un organismo che si assume la responsabilita' di avviare, gestire ed eventualmente finanziare una sperimentazione clinica; 
+ n) sperimentatore: un medico o un odontoiatra qualificato ai fini delle sperimentazioni, responsabile dell'esecuzione della sperimentazione clinica in un dato centro; 
+ o) sperimentazione clinica: qualsiasi studio sull'essere umano finalizzato a scoprire o verificare gli effetti clinici, farmacologici o altri effetti farmacodinamici di uno o piu' medicinali sperimentali, o a individuare qualsiasi reazione avversa ad uno o piu' medicinali sperimentali, o a studiarne l'assorbimento, la distribuzione, il metabolismo e l'eliminazione, con l'obiettivo di accertarne la sicurezza o l'efficacia, nonche' altri elementi di carattere scientifico e non, effettuata in un unico centro o in piu' centri, in Italia o anche in altri Stati membri dell'Unione europea o in Paesi terzi; 
+ p) sperimentazione non interventistica: uno studio nel quale i medicinali sono prescritti secondo le indicazioni dell'autorizzazione all'immissione in commercio ove l'assegnazione del paziente ad una determinata strategia terapeutica non e' decisa in anticipo da un protocollo di sperimentazione, rientra nella normale pratica clinica e la decisione di prescrivere il medicinale e' del tutto indipendente da quella di includere il paziente nello studio, e nella quale ai pazienti non si applica nessuna procedura supplementare di diagnosi o monitoraggio; 
+ q) sperimentazioni a fini industriali o a fini commerciali: sperimentazioni promosse da industrie o societa' farmaceutiche o comunque da strutture private a fini di lucro, fatta eccezione per gli Istituti di ricovero e cura a carattere scientifico privati, i cui risultati possono essere utilizzati nello sviluppo industriale del farmaco o a fini regolatori o a fini commerciali; 
+ r) sperimentazioni non a fini industriali o non a fini commerciali ovvero senza scopo di lucro: sperimentazioni cliniche che presentino i requisiti di cui all'articolo 1, comma 2, lettere a), b), c) e d) del decreto del Ministro della salute in data 17 dicembre 2004, pubblicato nella Gazzetta Ufficiale n. 43 del 22 febbraio 2005; 
+ s) uffici ispettivi: l'Ispettorato di cui alla lettera f), nonche' «l'Ufficio attivita' ispettive di buona pratica di fabbricazione (GMP) sulla produzione dei medicinali, dei gas medicinali e coordinamento con l'ISS per gli adempimenti ispettivi sui centri ematologici, mutuo riconoscimento nel settore» e «l'Unita' dirigenziale con funzioni ispettive sulla produzione delle materie prime finalizzate alla produzione dei medicinali» di cui alla citata <ref eId="content__ref_68" href="/akn/it/act/delibera/agenzia.italiana.farmaco/2005-05-19/13/!main">delibera dell'Agenzia italiana del farmaco 19 maggio 2005, n. 13</ref>; 
+ s-bis) approccio metodologico di medicina di genere nelle sperimentazioni cliniche: modalita' innovativa e multidisciplinare nella conduzione degli studi clinici che tiene conto dell'influenza che le differenze biologiche, incluse quelle relative al sesso e all'eta', hanno sullo stato di salute e di malattia di ogni persona.». 
+ - Il testo dell'articolo 3 del citato <ref eId="content__ref_69" href="/akn/it/act/decretoLegislativo/stato/2007-11-06/200/!main">decreto legislativo 6 novembre 2007, n. 200</ref>, come modificato dal presente decreto, e' il seguente: 
+ «Art. 3 (Principi di buona pratica clinica). - 1. La tutela dei diritti, della sicurezza e del benessere dei soggetti della sperimentazione prevale sugli interessi della scienza e della societa'. 
+ 2. Prima che una sperimentazione abbia inizio, devono essere valutati rischi e inconvenienti prevedibili rispetto al beneficio atteso sia per il singolo soggetto della sperimentazione, sia per la collettivita'. Una sperimentazione puo' essere iniziata e continuata solamente se i benefici previsti giustificano i rischi. 
+ 3. Le sperimentazioni cliniche sono realizzate in conformita' alla Dichiarazione di Helsinki sui principi etici per le sperimentazioni mediche sugli esseri umani, adottata dall'Assemblea generale dell'Associazione medica mondiale, (1996) e nel rispetto delle norme di buona pratica clinica e delle disposizioni normative applicabili. 
+ 4. Prima che il soggetto sia sottoposto a sperimentazione e' necessario acquisirne il consenso libero, specifico ed informato. 
+ 5. Le sperimentazioni cliniche devono essere valide dal punto di vista scientifico, descritte in un protocollo chiaro e dettagliato e guidate dai principi etici in tutti i loro aspetti. 
+ 6. Le informazioni cliniche e non cliniche, che siano disponibili su un farmaco in fase di sperimentazione, devono essere adeguate a giustificare la sperimentazione clinica in progetto. 
+ 7. La sperimentazione deve essere condotta in conformita' al protocollo che abbia preventivamente ricevuto il parere favorevole di un comitato etico indipendente e che definisca, tra l'altro, i criteri di inclusione ed esclusione dei soggetti della sperimentazione clinica, il monitoraggio e gli aspetti concernenti la pubblicazione dei dati. Lo sperimentatore e il promotore tengono conto di tutte le indicazioni relative all'avvio e alla realizzazione della sperimentazione clinica espresse dal Comitato etico e dall'Autorita' competente. 
+ 8. Chiunque conduca o partecipi alla realizzazione della sperimentazione deve essere qualificato, in base alla sua istruzione, formazione ed esperienza, ad eseguire i propri compiti. 
+ 9. Devono essere attuati sistemi con procedure prefissate e da osservare per garantire la qualita' di ogni singolo aspetto della sperimentazione. 
+ 10. Tutte le informazioni sulla sperimentazione clinica devono essere registrate, trattate e conservate in modo tale da poter essere comunicate, interpretate e verificate in modo preciso. 
+ 11. Deve essere garantita la riservatezza dei documenti che potrebbero identificare i soggetti, rispettando le regole di riservatezza e confidenzialita' previste dalle disposizioni normative applicabili. 
+ 12. Le cure mediche prestate ai soggetti in sperimentazione e le decisioni di natura medica prese nel loro interesse ricadono sempre sotto la responsabilita' di un medico qualificato o, se del caso, di un odontoiatra qualificato. 
+ 13. I prodotti in sperimentazione devono essere preparati, gestiti e conservati nel rispetto delle norme di buona fabbricazione applicabili. Essi devono essere impiegati secondo quanto prescritto dal protocollo approvato. 
+ 13-bis. Le strutture presso le quali si svolgono le sperimentazioni cliniche favoriscono l'utilizzo a scopo di ricerca clinica di materiale biologico o clinico residuo da precedenti attivita' diagnostiche o terapeutiche o a qualunque altro titolo detenuto. L'Istituto Superiore di Sanita', con il supporto anche dell'Infrastruttura di ricerca europea delle biobanche e delle risorse biomolecolari - BBMRI, previo parere del Centro di coordinamento nazionale dei comitati etici territoriali e del Garante per la protezione dei dati personali, con appositi atti di indirizzo, nel rispetto del principio del consenso informato e della disciplina in materia di protezione dei dati personali e assicurando elevati standard qualitativi, individua criteri omogenei per l'utilizzo dei campioni biologici, tenendo conto delle modalita' di accesso e di acquisizione del consenso del paziente sull'uso successivo del campione prelevato.». 
+ - Il testo dell'articolo 6 del citato <ref eId="content__ref_70" href="/akn/it/act/decretoLegislativo/stato/2007-11-06/200/!main">decreto legislativo 6 novembre 2007, n. 200</ref>, come modificato dal presente decreto, e' il seguente: 
+ «Art. 6 (Promotore). - 1. Con decreto del Ministro della salute, su proposta dell'AIFA e sentite le associazioni di categoria, da emanarsi entro 180 giorni dalla data di entrata in vigore del presente decreto, sono stabiliti i requisiti minimi di cui devono essere in possesso i promotori delle sperimentazioni a fini industriali, per l'esercizio delle attivita' da loro direttamente svolte in Italia in qualita' di promotori, necessari ai fini della garanzia della qualita' delle sperimentazioni. 
+ 2. Il possesso dei requisiti minimi di cui al comma 1, nonche' quelli di cui al decreto del Ministro della salute previsto dall'<ref eId="content__ref_71" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main#art_20-com3">articolo 20, comma 3, del decreto legislativo 24 giugno 2003, n. 211</ref>, e' attestato dal promotore mediante autocertificazione presentata al Comitato etico insieme alla domanda a fini dell'espressione dei pareri di cui agli <ref eId="content__ref_72" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main#art_6">articoli 6</ref> e <ref eId="content__ref_73" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main#art_7">7 del decreto legislativo 24 giugno 2003, n. 211</ref>. 
+ 3. Il promotore puo' delegare in tutto o in parte le sue funzioni connesse con la sperimentazione, a una societa', a un'istituzione o a un'organizzazione in possesso dei requisiti di cui al decreto del Ministro della salute previsto dall'<ref eId="content__ref_74" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main#art_20-com3">articolo 20, comma 3, del decreto legislativo 24 giugno 2003, n. 211</ref>. Il promotore puo' altresi' delegare una parte delle sue funzioni ad una persona fisica, purche' in possesso dei requisiti minimi previsti, per le funzioni equivalenti, dal suddetto medesimo decreto ministeriale. In tutti i casi il promotore conserva la responsabilita' di garantire che la realizzazione delle sperimentazioni e i dati finali generati dalle medesime soddisfino le disposizioni del <ref eId="content__ref_75" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, del presente decreto e delle norme di buona pratica clinica di cui all'allegato 1 del decreto del Ministro della sanita' in data 15 luglio 1997. 
+ 4. I Comitati etici verificano che la sperimentazione presentata ai sensi del decreto del Ministro della salute in data 17 dicembre 2004 non sia sperimentazione ai fini industriali. In tale caso gli oneri connessi con tale sperimentazione sono a carico del promotore. 
+ 5. La medesima persona puo' contemporaneamente svolgere il ruolo di promotore e di sperimentatore nel caso in cui lavori alle dipendenze delle strutture di cui all'articolo 1, comma 2, lettera a), del decreto del Ministro della salute 17 dicembre 2004, e limitatamente ai casi in cui svolga il ruolo di promotore di sperimentazioni a fini non industriali nell'ambito dei propri compiti istituzionali. 
+ 6. Per le sperimentazioni cliniche dei medicinali di cui al presente decreto non sono consentiti accordi di carattere economico diretti tra il promotore e lo sperimentatore. Tali accordi possono essere stipulati solo con l'amministrazione della struttura ove opera lo sperimentatore. 
+ 6-bis. Al fine di valorizzare le sperimentazioni cliniche senza scopo di lucro, anche a basso livello di intervento, e' consentita la cessione dei relativi dati nonche' dei risultati della sperimentazione a fini registrativi. In tali casi e' fatto obbligo al promotore o al cessionario di sostenere e rimborsare le spese dirette e indirette connesse alla sperimentazione, nonche' corrispondere, a seguito dell'eventuale riqualificazione dello studio stesso come attivita' con scopo di lucro, le relative tariffe, ivi comprese le potenziali entrate derivanti dalla valorizzazione della proprieta' intellettuale. 
+ 6-ter. Con decreto del Ministro della salute, da emanarsi entro il 31 ottobre 2019, sentito il Centro di coordinamento nazionale dei comitati etici territoriali per le sperimentazioni cliniche sui medicinali per uso umano e sui dispositivi medici, sono stabilite misure volte facilitare e sostenere la realizzazione degli studi clinici senza scopo di lucro e degli studi osservazionali e a individuare le modalita' di coordinamento tra i promotori, pubblici e privati, nell'ambito della medesima sperimentazione clinica o studio clinico, anche al fine di acquisire informazioni a seguito dell'immissione in commercio dei medicinali. Con il medesimo decreto sono introdotti criteri per identificare le tipologie e i requisiti delle sperimentazioni senza scopo di lucro e le sperimentazioni con collaborazione tra promotori pubblici e privati, nonche' per disciplinare le modalita' di cessione dei dati relativi alla sperimentazione al promotore e la loro utilizzazione a fini di registrazione.». 
+ - Il testo dell'articolo 26 del citato <ref eId="content__ref_76" href="/akn/it/act/decretoLegislativo/stato/2007-11-06/200/!main">decreto legislativo 6 novembre 2007, n. 200</ref>, come modificato dal presente decreto, e' il seguente: 
+ «Art. 26 (Risorse dell'Ispettorato). - 1. L'AIFA fornisce risorse sufficienti ed in particolare designa un numero adeguato di ispettori per garantire l'effettiva verifica dell'osservanza della buona pratica clinica. 
+ 2. Tutte le spese occorrenti per le attivita' ispettive in Italia e all'estero condotte ai sensi del presente decreto e dei <ref eId="content__ref_77" href="/akn/it/act/decretoLegislativo/stato/2006-04-24/219/!main">decreti legislativi 24 giugno 2003, n. 211, e 24 aprile 2006, n. 219</ref>, sia antecedenti che successive al rilascio delle autorizzazioni alla immissione in commercio, sono a carico, secondo i casi, delle aziende farmaceutiche ispezionate, di quelle richiedenti l'autorizzazione al commercio, dei promotori della sperimentazione, delle organizzazioni private di cui all'<ref eId="content__ref_78" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main#art_15-com10">articolo 15, comma 10, del decreto legislativo 24 giugno 2003, n. 211</ref>, dei soggetti titolari di autorizzazione all'immissione al commercio al momento dell'ispezione nonche' dei proprietari dei dati al momento dell'ispezione. Nei casi in cui piu' soggetti tra quelli nominati sono coinvolti a diverso titolo nelle sperimentazioni ispezionate o nella utilizzazione o possesso dei relativi risultati, le spese per le ispezioni sono da attribuire «pro quota» a ciascuno dei soggetti coinvolti. 
+ 3. Le tariffe per le ispezioni di cui all'allegato 1 del decreto del Ministro della salute 6 dicembre 2016, e successivi aggiornamenti, sono versate per intero da ciascuno dei titolari di AIC o richiedenti l'AIC. 
+ 3-bis. Con decreto del Ministro della salute da adottarsi, di concerto con il Ministro dell'economia e delle finanze per gli aspetti finanziari, entro il 31 ottobre 2019 e' stabilita un'agevolazione tariffaria , per le ispezioni di buona pratica clinica sugli studi di fase I, condotte presso i centri clinici dedicati agli studi clinici di fase I, sia su pazienti che su volontari sani, che documentano di condurre gli studi con un approccio metodologico a favore della medicina di genere, ove applicabile, anche attraverso l'utilizzo di adeguati sistemi informativi di supporto alle sperimentazioni cliniche. Alle minori entrate derivanti dalle agevolazioni tariffarie di cui al precedente periodo si provvede mediante corrispondente adeguamento delle altre tariffe di cui al decreto del Ministro della salute 6 dicembre 2016. 
+ 4. Il mancato versamento delle tariffe e dei rimborsi di cui al presente articolo entro 15 giorni dal ricevimento della relativa richiesta, fatte salve le altre misure di cui puo' avvalersi l'AIFA per il recupero delle somme, determina: 
+ a) nei casi in cui inadempiente sia un'azienda farmaceutica, l'interruzione da parte dell'AIFA dei procedimenti per il rilascio delle autorizzazioni inerenti alla medesima azienda; 
+ b) nei casi in cui inadempiente sia una organizzazione di cui all'<ref eId="content__ref_79" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main#art_15-com10">articolo 15, comma 10, del decreto legislativo 24 giugno 2003, n. 211</ref>, la sospensione dell'esercizio delle funzioni che i promotori possono delegare a tali strutture. 
+ 5. L'interruzione dei procedimenti per il rilascio delle autorizzazioni di cui al comma 4, lettera a), nonche' la sospensione all'esercizio delle funzioni di cui al medesimo comma 4, lettera b), saranno revocate al momento del ricevimento da parte dell'AIFA degli importi dovuti.». </p>
+                                </authorialNote>
+                            </p>
+                        </content>
+                    </section>
+                </article>
+                <article eId="art_2">
+                    <num>Art. 2.</num>
+                    <heading> Modifiche al decreto legislativo 24 giugno 2003, n. 211</heading>
+                    <paragraph eId="art_2__para_1">
+                        <num>1.</num>
+                        <list>
+                            <intro eId="art_2__para_1__intro_1">
+                                <p>Al <ref eId="content__ref_80" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, sono apportate le seguenti modificazioni: 
+ </p>
+                            </intro>
+                            <point eId="art_2__para_1.__point_a">
+                                <num>a)</num>
+                                <content>
+                                    <p>all'articolo 8, comma 1, e' aggiunto, in fine, il seguente periodo: «In allegato al medesimo decreto e' definita la modulistica nazionale unica di cui al primo periodo, ai fini della presentazione della domanda per il parere del comitato etico.»; 
+</p>
+                                </content>
+                            </point>
+                            <point eId="art_2__para_1.__point_b">
+                                <num>b)</num>
+                                <content>
+                                    <p>all'articolo 11, dopo il comma 4, e' aggiunto, in fine, il seguente: 
+ «4-bis. L'AIFA, acquisiti i dati di cui al comma 1, provvede, a pubblicare l'elenco delle strutture autorizzate nel proprio portale informatico attraverso il collegamento al sito istituzionale di ciascuna struttura, che dovra' essere dotato di una sezione appositamente dedicata alla trasparenza in cui, nel rispetto del <ref eId="content__ref_81" href="/akn/it/act/decretoLegislativo/stato/2013-03-14/33/!main">decreto legislativo 14 marzo 2013, n. 33</ref>, nonche' della normativa vigente in materia di protezione dei dati personali, siano resi pubblici i nominativi e i curricula di tutti i soggetti coinvolti nella conduzione di una sperimentazione oltre che tutte le sperimentazioni attivate, in corso o concluse, e quelle autorizzate, nonche' i correlati finanziamenti e i programmi di spesa con i relativi contratti.»; 
+</p>
+                                </content>
+                            </point>
+                            <point eId="art_2__para_1.__point_c">
+                                <num>c)</num>
+                                <content>
+                                    <p>all'articolo 22, dopo il comma 13 e' aggiunto, in fine, il seguente: «13-bis. Le sanzioni previste dal presente articolo sono irrogate con le modalita' previste dall'articolo 42.» 
+</p>
+                                </content>
+                            </point>
+                        </list>
+                    </paragraph>
+                    <section>
+                        <content>
+                            <p>
+                                <authorialNote eId="authorialNote_2" placement="bottom">
+                                    <p> Note all'art. 2: 
+ - Il testo dell'articolo 8, comma 1, del citato <ref eId="content__ref_82" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, come modificato dal presente decreto, e' il seguente: 
+ «Art. 8 (Modalita' di presentazione della domanda per il parere del comitato etico). - 1. Tenuto conto delle indicazioni dettagliate pubblicate dalla Commissione europea, il Ministro della salute stabilisce, con proprio decreto, il modello e la documentazione necessaria per inoltrare la domanda di parere al comitato etico, di cui agli articoli 6 e 7 da parte del promotore della sperimentazione, indicando in particolare le informazioni per i soggetti inclusi nella sperimentazione e le garanzie appropriate per la tutela dei dati personali. In allegato al medesimo decreto e' definita la modulistica nazionale unica di cui al primo periodo, ai fini della presentazione della domanda per il parere del comitato etico.». 
+ - Il testo dell'articolo 11 del citato <ref eId="content__ref_83" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, come modificato dal presente decreto, e' il seguente: 
+ «Art. 11 (Scambio di informazioni). - 1. I Comitati etici ed i soggetti promotori della sperimentazione comunicano all'autorita' competente, alla Regione o Provincia autonoma sede della sperimentazione e comunque in ogni caso all'AIFA, anche ai fini dell'inserimento nelle banche dati nazionale ed europea i seguenti dati: 
+ a) i dati ricavati dalla domanda di autorizzazione di cui all'articolo 9, comma 2; 
+ b) le eventuali modifiche ad essa apportate a norma dell'articolo 9, comma 3; 
+ c) le eventuali modifiche apportate al protocollo a norma dell'articolo 10, comma 1, lettere a) e b); 
+ d) il parere favorevole del comitato etico; 
+ e) la dichiarazione di inizio, di eventuale interruzione e di cessazione della sperimentazione, con i dati relativi ai risultati conseguiti e le motivazioni dell'eventuale interruzione. 
+ 2. Su richiesta motivata di uno Stato membro, dell'Agenzia europea per la valutazione dei medicinali (EMEA) o della Commissione, il Ministero della salute fornisce qualsiasi informazione supplementare sulla sperimentazione in questione, oltre a quelle gia' inserite nella banca dati europea, ottenendola dall'autorita' competente alla quale e' stata presentata la domanda di autorizzazione. Il Ministero della salute inserisce nella banca dati europea l'indicazione delle ispezioni effettuate sulla conformita' alle norme di buona pratica clinica. 
+ 3. Il modello, i dati e le relative modalita' di inserimento degli stessi nella banca dati europea, il cui funzionamento e' assicurato dalla Commissione stessa con la partecipazione dell'Agenzia europea per la valutazione dei medicinali (EMEA), nonche' i metodi per lo scambio elettronico dei dati, sono stabiliti con decreto del Ministro della salute, tenuto conto delle indicazioni dettagliate pubblicate dalla Commissione europea. Tali indicazioni dettagliate sono elaborate in modo da salvaguardare la riservatezza dei dati. 
+ 4. L'Osservatorio sulle sperimentazioni gia' operante presso la Direzione generale della valutazione dei medicinali e la farmacovigilanza, quale parte dell'Osservatorio nazionale sull'impiego dei medicinali istituito ai sensi del <ref eId="content__ref_84" href="/akn/it/act/legge/stato/1998-12-23/448/!main#art_68-com7">comma 7 dell'articolo 68 della legge 23 dicembre 1998, n. 448</ref>, e' incaricato di svolgere, nell'ambito delle dotazioni organiche della medesima Direzione generale e senza oneri aggiuntivi a carico del bilancio dello Stato, i seguenti compiti: 
+ a) monitoraggio e analisi delle sperimentazioni cliniche dei medicinali sul territorio italiano e redazione dei relativi rapporti con i dati regionali da trasmettere alle singole regioni; 
+ b) raccordo con la banca dati centrale europea; 
+ c) supporto alle attivita' dei comitati etici territoriali; 
+ d) redazione di rapporti annuali e parziali, indirizzati alle regioni e agli operatori di settore, che descrivano in maniera quali-quantitativa, anche su base regionale e locale, lo stato della ricerca clinica farmacologica in Italia; 
+ e) realizzazione, di intesa con le regioni, di iniziative di formazione per il personale coinvolto nella sperimentazione clinica dei medicinali. 
+ 4-bis. L'AIFA, acquisiti i dati di cui al comma 1, provvede, a pubblicare l'elenco delle strutture autorizzate nel proprio portale informatico attraverso il collegamento al sito istituzionale di ciascuna struttura, che dovra' essere dotato di una sezione appositamente dedicata alla trasparenza in cui, nel rispetto del <ref eId="content__ref_85" href="/akn/it/act/decretoLegislativo/stato/2013-03-14/33/!main">decreto legislativo 14 marzo 2013 n. 33</ref>, nonche' della normativa vigente in materia di protezione dei dati personali, siano resi pubblici i nominativi e i curricula di tutti i soggetti coinvolti nella conduzione di una sperimentazione oltre che tutte le sperimentazioni attivate, in corso o concluse, e quelle autorizzate, nonche' i correlati finanziamenti e i programmi di spesa con i relativi contratti.». 
+ - Il testo dell'articolo 22 del citato <ref eId="content__ref_86" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, come modificato dal presente decreto, e' il seguente: 
+ «Art. 22 (Apparato sanzionatorio). - 1. Chiunque viola il divieto di cui all'articolo 1, comma 5, primo periodo, e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 50.000 a euro 150.000. 
+ 2. Chiunque viola le disposizioni di cui all'articolo 3, comma 1, lettere a), b), c), d) ed f), e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 20.000 a euro 60.000. 
+ 3. Chiunque viola le disposizioni di cui all'articolo 4, comma 1, lettere a), d), f), g) e h), e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 30.000 a euro 90.000. 
+ 4. Chiunque viola le disposizioni di cui all'articolo 5 e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 30.000 a euro 90.000. 
+ 5. Il promotore della sperimentazione o lo sperimentatore che iniziano la sperimentazione clinica senza aver ottenuto il parere favorevole del Comitato etico competente o in presenza di obiezioni motivate da parte delle Autorita' competenti sono soggetti alla sanzione amministrativa pecuniaria del pagamento della somma da euro 100.000 a euro 500.000. 
+ 6. Chiunque viola le disposizioni di cui all'articolo 9, commi 5 e 6, e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 100.000 a euro 500.000. 
+ 7. Chiunque effettua sperimentazioni cliniche in strutture diverse da quelle indicate dall'articolo 9, comma 12, e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 50.000 a euro 250.000. 
+ 8. Chiunque prosegue una sperimentazione clinica sulla base di emendamenti sostanziali al protocollo non autorizzati e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 100.000 a euro 500.000. 
+ 9. Chiunque viola le disposizioni adottate dalle autorita' competenti di cui all'articolo 12, commi 1, 3, 5 e 6, e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 100.000 a euro 500.000. 
+ 10. Al titolare o al legale rappresentante dell'impresa che inizi l'attivita' di fabbricazione di un medicinale sottoposto a sperimentazione clinica senza munirsi dell'autorizzazione di cui all'articolo 13, comma 1, ovvero la prosegue in caso di revoca o sospensione della stessa, si applica la sanzione di cui all'<ref eId="content__ref_87" href="/akn/it/act/decretoLegislativo/stato/1991-05-29/178/!main#art_23">articolo 23 del decreto legislativo 29 maggio 1991, n. 178</ref>. 
+ 11. Il direttore tecnico, responsabile dell'adempimento degli obblighi indicati dall'articolo 13, commi 3, lettere a), b) e c), e 4, che ometta di adempiere agli obblighi di vigilanza e di attestazione ivi previsti e' sottoposto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 10.000 a euro 30.000. 
+ 12. Il promotore della sperimentazione che non provveda, in tutto o in parte, a registrare gli eventi avversi notificatigli dallo sperimentatore ai sensi dell'articolo 16, comma 4, e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 20.000 a euro 60.000. 
+ 13. Il promotore della sperimentazione che viola la disposizione di cui all'articolo 17, commi 1, 2 e 4, e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 50.000 a euro 250.000. 
+ 13-bis. Le sanzioni previste dal presente articolo sono irrogate con le modalita' previste dall'articolo 42.». 
+</p>
+                                </authorialNote>
+                            </p>
+                        </content>
+                    </section>
+                </article>
+                <article eId="art_3">
+                    <num>Art. 3.</num>
+                    <heading> Modifiche al decreto legislativo 30 dicembre 1992, n. 502</heading>
+                    <paragraph eId="art_3__para_1">
+                        <num>1.</num>
+                        <list>
+                            <intro eId="art_3__para_1__intro_1">
+                                <p>Al <ref eId="content__ref_88" href="/akn/it/act/decretoLegislativo/stato/1992-12-30/502/!main">decreto legislativo 30 dicembre 1992, n. 502</ref>, sono apportate le seguenti modificazioni: 
+ </p>
+                            </intro>
+                            <point eId="art_3__para_1.__point_a">
+                                <num>a)</num>
+                                <content>
+                                    <p>all'articolo 16-bis, comma 1, e' aggiunto, in fine, il seguente periodo: «L'aggiornamento periodico del personale operante presso le strutture sanitarie e socio-sanitarie impegnato nella sperimentazione clinica dei medicinali e' realizzato attraverso il conseguimento di appositi crediti formativi su percorsi assistenziali multidisciplinari, nei quali sia data rilevanza anche alla medicina di genere e all'eta' pediatrica, e multiprofessionali nonche' su percorsi formativi di partecipazione diretta a programmi di ricerca clinica multicentrici.»; 
+</p>
+                                </content>
+                            </point>
+                            <point eId="art_3__para_1.__point_b">
+                                <num>b)</num>
+                                <content>
+                                    <p>all'articolo 16-ter, comma 2, dopo il secondo periodo, e' inserito il seguente «La Commissione, in conformita' agli accordi e alle intese sancite in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e Bolzano in relazione alla durata della sperimentazione, individua i crediti formativi da riconoscere ai professionisti sanitari che presso le strutture sanitarie e socio-sanitarie sono impegnati nella sperimentazione clinica dei medicinali.». 
+</p>
+                                </content>
+                            </point>
+                        </list>
+                    </paragraph>
+                    <section>
+                        <content>
+                            <p>
+                                <authorialNote eId="authorialNote_3" placement="bottom">
+                                    <p> Note all'art. 3: 
+ - Il testo dell'articolo 16-bis, comma 1, del citato <ref eId="content__ref_89" href="/akn/it/act/decretoLegislativo/stato/1992-12-30/502/!main">decreto legislativo 30 dicembre 1992, n. 502</ref>, come modificato dal presente decreto, e' il seguente: 
+ «Art. 16-bis (Formazione continua). - 1. Ai sensi del presente decreto, la formazione continua comprende l'aggiornamento professionale e la formazione permanente.
+ L'aggiornamento professionale e' l'attivita' successiva al corso di diploma, laurea, specializzazione, formazione complementare, formazione specifica in medicina generale, diretta ad adeguare per tutto l'arco della vita professionale le conoscenze professionali. La formazione permanente comprende le attivita' finalizzate a migliorare le competenze e le abilita' cliniche, tecniche e manageriali ed i comportamenti degli operatori sanitari al progresso scientifico e tecnologico con l'obiettivo di garantire efficacia, appropriatezza, sicurezza ed efficienza alla assistenza prestata dal Servizio sanitario nazionale. L'aggiornamento periodico del personale operante presso le strutture sanitarie e socio-sanitarie impegnato nella sperimentazione clinica dei medicinali e' realizzato attraverso il conseguimento di appositi crediti formativi su percorsi assistenziali multidisciplinari, nei quali sia data rilevanza anche alla medicina di genere e all'eta' pediatrica, e multiprofessionali nonche' su percorsi formativi di partecipazione diretta a programmi di ricerca clinica multicentrici.». 
+ - Il testo dell'articolo 16-ter, comma 2, del citato <ref eId="content__ref_90" href="/akn/it/act/decretoLegislativo/stato/1992-12-30/502/!main">decreto legislativo 30 dicembre 1992, n. 502</ref>, come modificato dal presente decreto, e' il seguente: 
+ «2. La Commissione di cui al comma 1 definisce, con programmazione pluriennale, sentita la Conferenza per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano nonche' gli Ordini ed i Collegi professionali interessati, gli obiettivi formativi di interesse nazionale, con particolare riferimento alla elaborazione, diffusione e adozione delle linee guida e dei relativi percorsi diagnostico-terapeutici. La Commissione definisce i crediti formativi che devono essere complessivamente maturati dagli operatori in un determinato arco di tempo, gli indirizzi per la organizzazione dei programmi di formazione predisposti a livello regionale nonche' i criteri e gli strumenti per il riconoscimento e la valutazione delle esperienze formative. La Commissione, in conformita' agli accordi e alle intese sancite in sede di Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e Bolzano in relazione alla durata della sperimentazione, individua i crediti formativi da riconoscere ai professionisti sanitari che presso le strutture sanitarie e socio-sanitarie sono impegnati nella sperimentazione clinica dei medicinali. La Commissione definisce altresi' i requisiti per l'accreditamento delle societa' scientifiche, nonche' dei soggetti pubblici e privati che svolgono attivita' formative e procede alla verifica della sussistenza dei requisiti stessi.». 
+</p>
+                                </authorialNote>
+                            </p>
+                        </content>
+                    </section>
+                </article>
+            </chapter>
+            <chapter eId="chp_II">
+                <num>Capo II</num>
+                <heading>Disposizioni di coordinamento con il regolamento (UE) n. 536/2014</heading>
+                <article eId="art_4">
+                    <num>Art. 4.</num>
+                    <heading> Definizioni</heading>
+                    <paragraph eId="art_4__para_1">
+                        <num>1.</num>
+                        <content>
+                            <p>Ai fini ed agli effetti delle disposizioni di cui al presente capo valgono le medesime definizioni stabilite all'articolo 2 del regolamento (UE) n. 536/2014 del Parlamento europeo e del Consiglio del 16 aprile 2014, sulla sperimentazione clinica di medicinali per uso umano e che abroga la <ref eId="content__ref_91" href="/akn/it/act/direttivaUe/eu/2001/20/!main">direttiva 2001/20/CE</ref>. 
+</p>
+                        </content>
+                    </paragraph>
+                    <section>
+                        <content>
+                            <p>
+                                <authorialNote eId="authorialNote_4" placement="bottom">
+                                    <p> Note all'art. 4: 
+ - Per i riferimenti al regolamento (UE) n. 536/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, si veda nelle note alle premesse. 
+</p>
+                                </authorialNote>
+                            </p>
+                        </content>
+                    </section>
+                </article>
+                <article eId="art_5">
+                    <num>Art. 5.</num>
+                    <heading>Individuazione dei requisiti dei centri autorizzati per le sperimentazioni dalla fase I alle fase IV</heading>
+                    <paragraph eId="art_5__para_1">
+                        <num>1.</num>
+                        <content>
+                            <p>Con decreto del Ministro della salute, adottato entro sessanta giorni dalla data di entrata in vigore del presente decreto, la disciplina in materia di idoneita' delle strutture presso cui viene condotta la sperimentazione clinica viene adeguata a quanto previsto dalle disposizioni del regolamento (UE) n. 536/2014. 
+</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_5__para_2">
+                        <num>2.</num>
+                        <content>
+                            <p>Entro novanta giorni dall'adozione del decreto ministeriale di cui al comma 1, l'Agenzia italiana del farmaco (AIFA), con propria determinazione, individua i requisiti per l'autorizzazione dei centri alla conduzione delle sperimentazioni cliniche dalla fase I alla fase IV, in conformita' alle norme di buona pratica clinica, riconoscendo particolare valenza al coinvolgimento delle associazioni dei pazienti da parte del centro medesimo nella definizione dei protocolli di ricerca nelle diverse fasi di sperimentazione e, in particolare, nella fase IV. Con la medesima determinazione sono altresi' definite le procedure di autorizzazione, monitoraggio e verifica del perdurante possesso dei requisiti d'idoneita' dei centri autorizzati. 
+</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_5__para_3">
+                        <num>3.</num>
+                        <content>
+                            <p>Nella definizione dei requisiti per l'autorizzazione di cui al presente articolo e' valutata la possibilita' di arruolare pazienti in base alla tipologia dei reparti presenti e delle attrezzature clinico-diagnostiche disponibili presso la struttura, nonche' la possibilita' di arruolare particolari tipologie di pazienti, quali quelli pediatrici o geriatrici, o affetti da specifiche patologie, con particolare riguardo alle malattie rare. 
+</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_5__para_4">
+                        <num>4.</num>
+                        <content>
+                            <p>Con decreto del Ministro della salute, adottato entro novanta giorni dalla data di entrata in vigore del presente decreto, sono individuati i criteri e le linee guida per l'autorizzazione dei centri alla sperimentazione clinica di terapie avanzate, come definite dal regolamento (UE) n. 1394/2007 del Parlamento europeo e del Consiglio del 13 novembre 2007. 
+</p>
+                        </content>
+                    </paragraph>
+                    <section>
+                        <content>
+                            <p>
+                                <authorialNote eId="authorialNote_5" placement="bottom">
+                                    <p> Note all'art. 5: 
+ - Per i riferimenti al regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, si veda nelle note alle premesse. 
+ - Per i riferimenti al regolamento (UE) n. 536/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, si veda nelle note alle premesse. 
+</p>
+                                </authorialNote>
+                            </p>
+                        </content>
+                    </section>
+                </article>
+                <article eId="art_6">
+                    <num>Art. 6.</num>
+                    <heading>Indipendenza della sperimentazione clinica e garanzia di assenza di conflitti di interessi</heading>
+                    <paragraph eId="art_6__para_1">
+                        <num>1.</num>
+                        <content>
+                            <p>Con provvedimento dell'AIFA, adottato entro novanta giorni dalla data di entrata in vigore del presente decreto, sentito il Centro di coordinamento nazionale dei comitati etici per le sperimentazioni cliniche sui medicinali per uso umano e sui dispositivi medici, sono individuate le modalita' idonee a tutelare l'indipendenza della sperimentazione clinica e a garantire l'assenza di conflitti di interesse nella valutazione delle relative domande, in attuazione dell'articolo 9 del regolamento (UE) n. 536/2014. 
+</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_6__para_2">
+                        <num>2.</num>
+                        <content>
+                            <p>I soggetti incaricati delle attivita' di validazione e di successiva valutazione della domanda di autorizzazione ad una sperimentazione clinica, per garantire terzieta' e imparzialita', rendono una dichiarazione circa l'assenza di conflitti d'interesse personali e finanziari, da rendersi, con cadenza annuale, ai sensi degli articoli 46, 73 e 76 del testo unico di cui al <ref eId="content__ref_92" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/2000-12-28/445/!main">decreto del Presidente della Repubblica 28 dicembre 2000, n. 445</ref>. 
+</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_6__para_3">
+                        <num>3.</num>
+                        <content>
+                            <p>Il Ministro della salute, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, in caso di violazione dei termini e delle procedure relativi alla valutazione delle sperimentazioni cliniche e alla emissione del parere unico previsti dal <ref eId="content__ref_93" href="/akn/it/act/decretoLegislativo/stato/2003-06-24/211/!main">decreto legislativo 24 giugno 2003, n. 211</ref>, nonche' in caso d'inosservanza delle norme sulla trasparenza e sull'assenza di conflitti d'interesse, dispone la soppressione del Comitato etico territoriale inadempiente e segnala all'autorita' competente le violazioni riscontrate. 
+</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_6__para_4">
+                        <num>4.</num>
+                        <content>
+                            <p>Fatta salva ogni altra disposizione normativa in materia, lo sperimentatore, a tutela dell'indipendenza e dell'imparzialita' della sperimentazione clinica, dichiara preventivamente alla struttura presso la quale si svolge lo studio clinico <ins eId="ins_1">((gli interessi finanziari propri, del coniuge o del convivente o di parente entro il secondo grado rispetto allo studio proposto, nonche' i rapporti di dipendenza, consulenza o collaborazione, a qualsiasi titolo, con il promotore, in qualunque fase dello studio vengano a costituirsi. Il comitato etico valuta tale dichiarazione nonche' l'assenza, nel capitale dell'azienda farmaceutica titolare del farmaco oggetto di studi, di partecipazioni azionarie dello sperimentatore, del coniuge o del convivente, a tutela dell'indipendenza e dell'imparzialita' della sperimentazione clinica, anche in momenti successivi all'inizio dello studio qualora intervengano nuovi conflitti di interessi))</ins>. 
+</p>
+                        </content>
+                    </paragraph>
+                </article>
+                <article eId="art_7">
+                    <num>Art. 7.</num>
+                    <heading>Disciplina delle procedure di valutazione e di autorizzazione delle sperimentazioni cliniche</heading>
+                    <paragraph eId="art_7__para_1">
+                        <num>1.</num>
+                        <content>
+                            <p>Con decreto del Ministro della salute, adottato entro novanta giorni dalla entrata in vigore del presente decreto, sono ridefinite le procedure di valutazione e di autorizzazione delle sperimentazioni cliniche, garantendo il coinvolgimento delle associazioni dei pazienti, con particolare riferimento al caso delle malattie rare. 
+</p>
+                        </content>
+                    </paragraph>
+                </article>
+                <article eId="art_8">
+                    <num>Art. 8.</num>
+                    <heading>Disciplina degli ordinamenti didattici di specifici percorsi formativi</heading>
+                    <paragraph eId="art_8__para_1">
+                        <num>1.</num>
+                        <content>
+                            <p>Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, adottato di concerto con il Ministro della salute entro centoventi giorni dalla entrata in vigore del presente decreto, sono definiti a livello nazionale i criteri generali sulla base dei quali gli Atenei possono attivare master, da frequentare con modalita' per cui e' richiesta la presenza fisica, finalizzati alla metodologia della ricerca e della sperimentazione clinica. 
+</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_8__para_2">
+                        <num>2.</num>
+                        <content>
+                            <p>Con il decreto di cui al comma 1 sono altresi' definiti la durata, i settori scientifico-disciplinari obbligatori nell'area medica, farmaceutica, chimica e statistica e le strutture universitarie presso le quali possono essere attivati i percorsi formativi. 
+</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_8__para_3">
+                        <num>3.</num>
+                        <content>
+                            <p>Le regioni, le strutture sanitarie e gli Istituti di ricovero e cura a carattere scientifico possono promuovere le attivita' di formazione di cui al comma 1 anche attraverso l'organizzazione di corsi di educazione continua in medicina (ECM) destinati al personale operante presso le strutture impegnate nelle sperimentazioni cliniche. 
+</p>
+                        </content>
+                    </paragraph>
+                </article>
+            </chapter>
+            <chapter eId="chp_III">
+                <num>Capo III</num>
+                <heading>Disposizioni transitorie e finali</heading>
+                <article eId="art_9">
+                    <num>Art. 9.</num>
+                    <heading> Disposizioni transitorie</heading>
+                    <paragraph eId="art_9__para_1">
+                        <num>1.</num>
+                        <content>
+                            <p>Le disposizioni contenute nei decreti previsti dagli articoli 5, commi 1 e 4, e 7, comma 1, e i provvedimenti dell'AIFA di cui agli articoli 5, comma 2, e 6, comma 1, si applicano decorsi sei mesi dalla pubblicazione dell'avviso di cui all'articolo 82, paragrafo 3, del regolamento (UE) n. 536/2014. 
+</p>
+                        </content>
+                    </paragraph>
+                </article>
+                <article eId="art_10">
+                    <num>Art. 10.</num>
+                    <heading> Clausola di invarianza finanziaria</heading>
+                    <paragraph eId="art_10__para_1">
+                        <num>1.</num>
+                        <content>
+                            <p>Dall'attuazione delle disposizioni introdotte con il presente decreto legislativo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente. 
+ </p>
+                        </content>
+                    </paragraph>
+                </article>
+            </chapter>
+        </body>
+        <conclusions>
+            <formula name="formulaFinaleConclusioni">
+                <p>Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. </p>
+            </formula>
+            <p> Dato a Roma, addi' 14 maggio 2019 </p>
+            <p>MATTARELLA Conte, Presidente del Consiglio dei ministri Grillo, Ministro della salute Bonafede, Ministro della giustizia Tria, Ministro dell'economia e delle finanze Bongiorno, Ministro per la pubblica amministrazione Bussetti, Ministro dell'istruzione, dell'universita' e della ricerca Di Maio, Ministro del lavoro e delle politiche sociali Visto, il Guardasigilli: Bonafede</p>
+        </conclusions>
+    </act>
+</akomaNtoso>

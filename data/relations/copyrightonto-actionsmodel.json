@@ -1,0 +1,50 @@
+[
+    {
+        "text": "cro:aim",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto.owl#aim",
+        "background_color": "#92de13",
+        "text_color": "#ffffff"
+    },
+    {
+        "text": "cro:condition",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto.owl#condition",
+        "background_color": "#92de13",
+        "text_color": "#ffffff"
+    },
+    {
+        "text": "cro:consequence",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto.owl#consequence",
+        "background_color": "#92de13",
+        "text_color": "#ffffff"
+    },
+    {
+        "text": "cro:hasDirectPart",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto.owl#hasDirectPart",
+        "background_color": "#92de13",
+        "text_color": "#ffffff"
+    },
+    {
+        "text": "cro:hasPart",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto.owl#hasPart",
+        "background_color": "#92de13",
+        "text_color": "#ffffff"
+    },
+    {
+        "text": "cro:isDirectPartOf",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto.owl#isDirectPartOf",
+        "background_color": "#92de13",
+        "text_color": "#ffffff"
+    },
+    {
+        "text": "cro:isPartOf",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto.owl#isPartOf",
+        "background_color": "#92de13",
+        "text_color": "#ffffff"
+    },
+    {
+        "text": "cro:manner",
+        "suffix_key": "https://rhizomik.net/ontologies/copyrightonto.owl#manner",
+        "background_color": "#92de13",
+        "text_color": "#ffffff"
+    }
+]

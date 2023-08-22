@@ -8,3 +8,4 @@ data/json
 akn_to_owl/__pycache__
 akn_to_owl/other.py
 data/.*/.*
+data/.*
